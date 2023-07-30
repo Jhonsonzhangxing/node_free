@@ -20,16 +20,10 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F
 vmess://eyJhZGQiOiJobjAxLmZ1enp5bmcubmV0IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7vwn4ezVk4t8J+Hu/Cfh7NWTl8xMDIzIiwicG9ydCI6ODAsImlkIjoiZWM3Yzk0YjUtNmNhNi00Mjg5LWI0NGItYzY1ODNmMmM1ZjZjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkbC5rZ3ZuLmdhcmVuYW5vdy5jb20iLCJwYXRoIjoiL2Z1enp5bmc/ZWQ9MjA0OCIsInRscyI6IiJ9
 ####Ping: 233	AvgSpeed: 9.23MB	MaxSpeed: 11.28MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/26 21:29	UpdateTime: 2023/07/30 23:50	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_847
-####Ping: 211	AvgSpeed: 9.18MB	MaxSpeed: 11.20MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:29	FailCount: 0
-vmess://eyJhZGQiOiIxOTguMi4xOTcuNzEiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzU1NiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3d3cuNzE4MjUxNTIueHl6IiwicGF0aCI6Ii9wYXRoLzE2ODk1ODg0OTc3NjUiLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 95	AvgSpeed: 9.15MB	MaxSpeed: 10.71MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/24 02:49	UpdateTime: 2023/07/30 22:32	FailCount: 2
 vmess://eyJhZGQiOiJobjAxLmZ1enp5bmcubmV0IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7vwn4ezVk4t8J+Hu/Cfh7NWTl85ODUiLCJwb3J0Ijo4MCwiaWQiOiJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsInBhdGgiOiIvZnV6enluZz9lZD0yMDQ4IiwidGxzIjoiIn0=
 ####Ping: 100	AvgSpeed: 9.13MB	MaxSpeed: 12.27MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 10:01	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMTQxLjIzNi4xNTo0NDM=#%F0%9F%87%B8%F0%9F%87%ACSG_654
-####Ping: 193	AvgSpeed: 8.95MB	MaxSpeed: 12.14MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:25	FailCount: 0
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE2Ny4xNjAuOTEuMTE4OjEwMDc3#Pool__68
-####Ping: 227	AvgSpeed: 8.89MB	MaxSpeed: 11.53MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:48	FailCount: 0
-vmess://eyJhZGQiOiIxOTguMi4xOTcuNzEiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVNfODQiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3d3LjcxODI1MTUyLnh5eiIsInBhdGgiOiIvcGF0aC8xNjg5NTg4NDk3NzY1IiwidGxzIjoidGxzIn0=
 ####Ping: 263	AvgSpeed: 8.79MB	MaxSpeed: 11.35MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 10:01	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjEzLjQ0LjE4Mzo0NDM=#%F0%9F%87%B8%F0%9F%87%ACSG_664
 ####Ping: 232	AvgSpeed: 8.77MB	MaxSpeed: 11.16MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 23:20	UpdateTime: 2023/07/30 10:27	FailCount: 0
@@ -38,14 +32,8 @@ vmess://eyJhZGQiOiIzOC42My4wLjg0IiwidiI6IjIiLCJwcyI6IvCfh7rwn4e4VVNfNTkxIiwicG9y
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_889
 ####Ping: 339	AvgSpeed: 8.69MB	MaxSpeed: 11.46MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/23 23:49	UpdateTime: 2023/07/30 22:22	FailCount: 1
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_613
-####Ping: 236	AvgSpeed: 8.69MB	MaxSpeed: 11.09MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:41	FailCount: 0
-vmess://ewogICAgImFkZCI6ICIxOTguMi4xOTcuNzIiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5NzY3ODA1OTI5IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU180NDciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogInd3dy43MTgyNTE1Mi54eXoiCn0=
-####Ping: 365	AvgSpeed: 8.68MB	MaxSpeed: 14.64MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:31	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AzMS4xNzEuMTUzLjE4MTo5ODk=#Pool__156
 ####Ping: 203	AvgSpeed: 8.68MB	MaxSpeed: 11.44MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/30 07:18	UpdateTime: 2023/07/30 14:34	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE5LjQwLjc0OjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_938
-####Ping: 236	AvgSpeed: 8.62MB	MaxSpeed: 11.29MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:22	FailCount: 0
-vmess://eyJhZGQiOiIzOC42My4wLjg0IiwidiI6IjIiLCJwcyI6IvCfh7rwn4e4VVNfNDM4IiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Ind3dy4xOTQ1ODE2Mi54eXoiLCJwYXRoIjoiL3BhdGgvMTY4OTY3MzgyODA3MCIsInRscyI6InRscyJ9
 ####Ping: 92	AvgSpeed: 8.61MB	MaxSpeed: 12.52MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:44	FailCount: 0
 trojan://786c77b1-8792-4b6f-89d6-5b9088c68c09@pqs-tw-2013.strongpipe.live:29444#Relay_%F0%9F%87%B9%F0%9F%87%BCTW-%F0%9F%87%B9%F0%9F%87%BCTW_846
 ####Ping: 409	AvgSpeed: 8.61MB	MaxSpeed: 11.06MB	SourceUrl: https://free.dsdog.tk/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:16	FailCount: 0
@@ -56,8 +44,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_575
 ####Ping: 503	AvgSpeed: 8.40MB	MaxSpeed: 11.34MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:50	FailCount: 0
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjkzIiwidiI6IjIiLCJwcyI6IvCfh6jwn4ezQ05fNjYiLCJwb3J0Ijo4MCwiaWQiOiJkZDQxYjVjYi1iNzJlLTRhOGMtYzc1YS0zZWNjOTI4ZDZlYjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImVjYy52dGNzcy50b3AiLCJwYXRoIjoiL2JsdWUiLCJ0bHMiOiIifQ==
-####Ping: 236	AvgSpeed: 8.39MB	MaxSpeed: 10.88MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:22	FailCount: 0
-vmess://eyJhZGQiOiIxOTguMi4xOTcuNzIiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzQ0NyIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3d3cuNzE4MjUxNTIueHl6IiwicGF0aCI6Ii9wYXRoLzE2ODk3Njc4MDU5MjkiLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 885	AvgSpeed: 8.38MB	MaxSpeed: 16.19MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/23 23:50	UpdateTime: 2023/07/30 22:22	FailCount: 2
 vmess://eyJhZGQiOiJTaG9waWZ5LmNvbSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4eo8J+HpkNBLfCfh6vwn4e3RlJfMzEiLCJwb3J0IjoyMDg2LCJpZCI6IjI1MGY0MzMxLThjM2UtNGI4Ny1hODZiLTVjNWZiZjlkZGJhOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiRnIuY2xvdWRmbGFyZS5xdWVzdCIsInBhdGgiOiIvYXJpZXMiLCJ0bHMiOiIifQ==
 ####Ping: 277	AvgSpeed: 8.38MB	MaxSpeed: 11.08MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 07:18	UpdateTime: 2023/07/30 14:38	FailCount: 0
@@ -66,6 +52,8 @@ vmess://eyJhZGQiOiJjYW10bGViYi43Njg5ODEwMi54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+H
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjI4LjIxLjIzNTo0NDM=#_55
 ####Ping: 282	AvgSpeed: 8.30MB	MaxSpeed: 11.58MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:34	FailCount: 0
 vmess://eyJhZGQiOiJjYW10bGViYi43Njg5ODEwMi54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4eo8J+HpkNBXzExMTIiLCJwb3J0IjoyMDk1LCJpZCI6IjBlOGYwODY3LTg1YTAtMzlhZi1hNWViLTM2ODVkMjZmODQxMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiY2FtdGxlYi43Njg5ODEwMi54eXoiLCJwYXRoIjoiL2Z1bnNkZnJoIiwidGxzIjoiIn0=
+####Ping: 376	AvgSpeed: 8.24MB	MaxSpeed: 10.19MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:30	FailCount: 0
+trojan://29f2cf65-f0ee-4a08-83f3-df1beb74d55d@57.128.173.6:443?allowInsecure=1&sni=www.speedtest.net#%F0%9F%87%A7%F0%9F%87%AABE_249
 ####Ping: 210	AvgSpeed: 8.22MB	MaxSpeed: 11.45MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/30 06:24	UpdateTime: 2023/07/30 13:08	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE5LjQwLjc0OjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_903
 ####Ping: 216	AvgSpeed: 8.20MB	MaxSpeed: 11.10MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:44	FailCount: 0
@@ -76,8 +64,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F
 vmess://eyJhZGQiOiIxMzcuMTc1LjMuMjM1IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU18xMTM3IiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Ind3dy4zMzAyMTgyNC54eXoiLCJwYXRoIjoiL3BhdGgvMTY5MDM0MTIzNzgwMiIsInRscyI6InRscyJ9
 ####Ping: 94	AvgSpeed: 8.01MB	MaxSpeed: 9.80MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/24 05:41	UpdateTime: 2023/07/30 22:36	FailCount: 2
 vmess://eyJhZGQiOiJobjAxLmZ1enp5bmcubmV0IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7vwn4ezVk4t8J+Hu/Cfh7NWTl85OTciLCJwb3J0Ijo4MCwiaWQiOiJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsInBhdGgiOiIvZnV6enluZz9lZD0yMDQ4IiwidGxzIjoiIn0=
-####Ping: 208	AvgSpeed: 8.01MB	MaxSpeed: 11.24MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:32	FailCount: 0
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:10077#Pool__68
 ####Ping: 220	AvgSpeed: 7.98MB	MaxSpeed: 11.35MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/30 06:24	UpdateTime: 2023/07/30 12:57	FailCount: 0
 vmess://eyJhZGQiOiIxOTguMi4xOTcuNzEiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVNfODggfDI3LjY4TWIiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3d3LjcxODI1MTUyLnh5eiIsInBhdGgiOiIvcGF0aC8xNjg5NTg4NDk3NzY1IiwidGxzIjoidGxzIn0=
 ####Ping: 208	AvgSpeed: 7.93MB	MaxSpeed: 11.01MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 23:20	UpdateTime: 2023/07/30 10:22	FailCount: 0
@@ -90,10 +76,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE5LjQwLjc0OjQ0Mw==#%F0%9F%87%BA%F0%9F
 vmess://eyJhZGQiOiJobjAxLmZ1enp5bmcubmV0IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7vwn4ezVk4t8J+Hu/Cfh7NWTl8xMDMxIiwicG9ydCI6ODAsImlkIjoiZWM3Yzk0YjUtNmNhNi00Mjg5LWI0NGItYzY1ODNmMmM1ZjZjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkbC5rZ3ZuLmdhcmVuYW5vdy5jb20iLCJwYXRoIjoiL2Z1enp5bmc/ZWQ9MjA0OCIsInRscyI6IiJ9
 ####Ping: 304	AvgSpeed: 7.89MB	MaxSpeed: 9.88MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/23 15:12	UpdateTime: 2023/07/30 22:06	FailCount: 2
 trojan://29f2cf65-f0ee-4a08-83f3-df1beb74d55d@57.128.173.6:443?allowInsecure=1&sni=www.speedtest.net#%F0%9F%87%A7%F0%9F%87%AABE_288
-####Ping: 193	AvgSpeed: 7.87MB	MaxSpeed: 11.59MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:29	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.212.12.237:443#_30
-####Ping: 233	AvgSpeed: 7.82MB	MaxSpeed: 14.90MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:46	FailCount: 0
-trojan://d31792a4-b843-469f-9185-4a6111ff7612@163.123.192.155:443?allowInsecure=1#Pool_%F0%9F%8F%81ZZ_620
 ####Ping: 442	AvgSpeed: 7.80MB	MaxSpeed: 12.32MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:29	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.223.228.213:443#%F0%9F%87%BA%F0%9F%87%B8US_475
 ####Ping: 433	AvgSpeed: 7.73MB	MaxSpeed: 11.29MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:49	FailCount: 0
@@ -138,6 +120,8 @@ vmess://eyJhZGQiOiIxNDIuNC4xMDkuNjgiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3w
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvSIsImFkZCI6IjE0Mi40LjEwOS42OCIsInBvcnQiOiI0NjY3MiIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 ####Ping: 232	AvgSpeed: 7.09MB	MaxSpeed: 11.34MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/30 07:18	UpdateTime: 2023/07/30 14:35	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_983
+####Ping: 328	AvgSpeed: 7.07MB	MaxSpeed: 11.91MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:30	FailCount: 0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#_161
 ####Ping: 285	AvgSpeed: 7.02MB	MaxSpeed: 9.29MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 06:24	UpdateTime: 2023/07/30 12:58	FailCount: 0
 trojan://telegram-id-directvpn@18.212.58.12:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US_1208
 ####Ping: 249	AvgSpeed: 6.99MB	MaxSpeed: 16.53MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 23:20	UpdateTime: 2023/07/30 10:32	FailCount: 0
@@ -158,12 +142,10 @@ vmess://eyJhZGQiOiIxOTguMi4xOTcuNzEiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVNfODgiLCJw
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ1LjciLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HqPCfh7NDTi3wn4e68J+HuFVTXzEwNyIsInBvcnQiOjgwLCJpZCI6ImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZWNjLnZ0Y3NzLnRvcCIsInBhdGgiOiIvYmx1ZSIsInRscyI6IiJ9
 ####Ping: 68	AvgSpeed: 6.67MB	MaxSpeed: 11.00MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/28 23:29	UpdateTime: 2023/07/30 10:35	FailCount: 0
 vmess://eyJhZGQiOiJjZG4uY2hpZ3VhLnRrIiwidiI6IjIiLCJwcyI6IvCfh7jwn4esIFNHXzc4IHwxMS41Nk1iIiwicG9ydCI6ODAsImlkIjoiZTUyZDc5YmItYjI2ZS00NDE2LWFjOGEtNzc1NTE3NjI5OWE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJqcDEuaWVsYWluYS5jb20iLCJwYXRoIjoiLzlTQ3FPYWg4LyIsInRscyI6IiJ9
-####Ping: 634	AvgSpeed: 6.57MB	MaxSpeed: 10.30MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:47	FailCount: 0
-vmess://eyJhZGQiOiI0NS4xMi4xMTIuMTE0IiwidiI6IjIiLCJwcyI6Il8yOCB8IDQuMTFNYiIsInBvcnQiOjU0Nzc0LCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=
-####Ping: 230	AvgSpeed: 6.55MB	MaxSpeed: 11.16MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:41	FailCount: 0
-vmess://ewogICAgImFkZCI6ICIzOC42My4wLjg0IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY4OTY3MzgyODA3MCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTXzQzOCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAid3d3LjE5NDU4MTYyLnh5eiIKfQ==
 ####Ping: 416	AvgSpeed: 6.53MB	MaxSpeed: 12.46MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/24 05:41	UpdateTime: 2023/07/30 22:35	FailCount: 2
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS42OToyMDAz#%F0%9F%87%B0%F0%9F%87%B7KR_372
+####Ping: 269	AvgSpeed: 6.53MB	MaxSpeed: 14.59MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:31	FailCount: 0
+trojan://d31792a4-b843-469f-9185-4a6111ff7612@163.123.192.155:443?allowInsecure=1#Pool_%F0%9F%8F%81ZZ_620
 ####Ping: 237	AvgSpeed: 6.43MB	MaxSpeed: 10.63MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/23 21:57	UpdateTime: 2023/07/30 22:15	FailCount: 1
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_594
 ####Ping: 312	AvgSpeed: 6.39MB	MaxSpeed: 9.48MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 06:24	UpdateTime: 2023/07/30 12:59	FailCount: 0
@@ -174,8 +156,6 @@ vmess://eyJhZGQiOiJ3d3cuZ292LnR3IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4e68J+H
 vmess://ewogICAgImFkZCI6ICIxOTguMi4xOTcuNzEiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5NTg4NDk3NzY1IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU180MzgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogInd3dy43MTgyNTE1Mi54eXoiCn0=
 ####Ping: 227	AvgSpeed: 6.34MB	MaxSpeed: 11.27MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 10:55	FailCount: 0
 vmess://eyJhZGQiOiIxOTguMi4xOTcuNzEiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzQzOCIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3d3cuNzE4MjUxNTIueHl6IiwicGF0aCI6Ii9wYXRoLzE2ODk1ODg0OTc3NjUiLCJ0bHMiOiJ0bHMifQ==
-####Ping: 258	AvgSpeed: 6.34MB	MaxSpeed: 11.11MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:45	FailCount: 0
-vmess://ewogICAgImFkZCI6ICIxOTguMi4xOTcuNzEiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5NTg4NDk3NzY1IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU181NTYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogInd3dy43MTgyNTE1Mi54eXoiCn0=
 ####Ping: 228	AvgSpeed: 6.33MB	MaxSpeed: 11.81MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/30 06:13	UpdateTime: 2023/07/30 12:54	FailCount: 0
 vmess://eyJhZGQiOiJkb25ndGFpd2FuZzIuY29tIiwidiI6IjIiLCJwcyI6IvCfh6jwn4emIENBXzY3IiwicG9ydCI6NDQzLCJpZCI6IjI1YTlmM2I5LTFlNmQtNDBiZC05NjhiLWUwODE4YzFiMTk2ZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiMi5mcmVlazEueHl6IiwicGF0aCI6Ii9kb25ndGFpd2FuZy5jb20iLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 220	AvgSpeed: 6.32MB	MaxSpeed: 10.86MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:36	FailCount: 0
@@ -216,10 +196,10 @@ vmess://eyJhZGQiOiIxOTguMi4xOTcuNzEiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVUyIsInBvcnQi
 vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU185NDUiLCJwb3J0Ijo0NDMsImlkIjoiZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwicGF0aCI6Ii9lYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgtdm0iLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 503	AvgSpeed: 6.06MB	MaxSpeed: 10.49MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:18	FailCount: 0
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjYzIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4e68J+HuFVTXzY0NSIsInBvcnQiOjgwLCJpZCI6ImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZWNjLnZ0Y3NzLnRvcCIsInBhdGgiOiIvYmx1ZSIsInRscyI6IiJ9
-####Ping: 241	AvgSpeed: 6.02MB	MaxSpeed: 9.72MB	SourceUrl: https://github.com/aiboboxx/v2rayfree	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:20	FailCount: 0
-vmess://eyJhZGQiOiAiMjMuMjM0LjE5OC44MyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhXHU1ZGRlXHU2ZDFiXHU2NzQ5XHU3N2Y2TVVMVEFDT01cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgMTUiLCAicG9ydCI6IDM0ODg4LCAiaWQiOiAiYTlhYmYzZTctODdmNC00NzNkLThkMDMtMmYyNmNhNGIzNTgzIiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
 ####Ping: 88	AvgSpeed: 6.00MB	MaxSpeed: 12.13MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:01	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.212.12.237:443#_80
+####Ping: 455	AvgSpeed: 6.00MB	MaxSpeed: 11.79MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:31	FailCount: 0
+vmess://ewogICAgImFkZCI6ICJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJlYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4LXZtIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU180NzciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogImNvbGQtZGF3bi05MjQ2LmZseS5kZXYiCn0=
 ####Ping: 223	AvgSpeed: 5.93MB	MaxSpeed: 11.40MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:07	FailCount: 0
 vmess://eyJhZGQiOiIxOTguMi4xOTcuNzIiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzU1OSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3d3cuNzE4MjUxNTIueHl6IiwicGF0aCI6Ii9wYXRoLzE2ODk3Njc4MDU5MjkiLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 283	AvgSpeed: 5.92MB	MaxSpeed: 6.83MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/24 00:48	UpdateTime: 2023/07/30 22:25	FailCount: 2
@@ -230,20 +210,18 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuOTUuMjIxLjUwOjQ0Mw==#%F0%9F%87%AF%F0%9F
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMTQxLjIzNi4xNTo0NDM=#%F0%9F%87%B8%F0%9F%87%ACSG_856
 ####Ping: 331	AvgSpeed: 5.76MB	MaxSpeed: 7.06MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 11:08	UpdateTime: 2023/07/31 00:20	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#_143
+####Ping: 84	AvgSpeed: 5.71MB	MaxSpeed: 11.21MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:30	FailCount: 0
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.44.183:443#%F0%9F%87%BA%F0%9F%87%B8US_430
 ####Ping: 313	AvgSpeed: 5.69MB	MaxSpeed: 7.98MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:36	FailCount: 0
 trojan://7ea37e4f-325b-416f-901a-67012367307f@15.204.209.50:80?allowInsecure=1&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US_638
 ####Ping: 262	AvgSpeed: 5.69MB	MaxSpeed: 10.31MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 11:08	UpdateTime: 2023/07/31 00:25	FailCount: 0
 trojan://d31792a4-b843-469f-9185-4a6111ff7612@163.123.192.155:443?allowInsecure=1#Pool_%F0%9F%8F%81ZZ_681
-####Ping: 332	AvgSpeed: 5.63MB	MaxSpeed: 9.59MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:30	FailCount: 0
-vmess://eyJhZGQiOiJib2JieWtvdGljay5yaXAiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU181NjIiLCJwb3J0Ijo0NDMsImlkIjoiMkYwOTQ4NDUtRTJCRC1FQkY3LURFQjctOTk1OTkyNDM2RkFGIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJMaWxsZS5ib2JieWtvdGljay5yaXAiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInRscyI6InRscyJ9
 ####Ping: 329	AvgSpeed: 5.58MB	MaxSpeed: 11.28MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/26 12:44	UpdateTime: 2023/07/30 23:37	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxMjEuMTI3LjQ2LjE0Nzo5ODk=#_111
 ####Ping: 511	AvgSpeed: 5.56MB	MaxSpeed: 10.35MB	SourceUrl: https://github.com/mianfeifq/share	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 10:52	FailCount: 0
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70oeW91dHViZemYv+S8n+enkeaKgCkiLA0KICAiYWRkIjogIjE0Mi40LjEwOS42OCIsDQogICJwb3J0IjogIjQ2NjcyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICLwn4e68J+HuFVT576O5Zu9KHlvdXR1YmXpmL/kvJ/np5HmioApIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 ####Ping: 215	AvgSpeed: 5.55MB	MaxSpeed: 11.18MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:09	FailCount: 0
 vmess://ewogICAgImFkZCI6ICIzOC42My4wLjg0IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY4OTY3MzgyODA3MCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTXzQ0OSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAid3d3LjE5NDU4MTYyLnh5eiIKfQ==
-####Ping: 456	AvgSpeed: 5.52MB	MaxSpeed: 9.88MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:43	FailCount: 0
-vmess://ewogICAgImFkZCI6ICJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJlYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4LXZtIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU180NzciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogImNvbGQtZGF3bi05MjQ2LmZseS5kZXYiCn0=
 ####Ping: 586	AvgSpeed: 5.47MB	MaxSpeed: 10.78MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 10:04	FailCount: 0
 vmess://eyJhZGQiOiIxNDIuNC4xMDkuNjgiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzg1MiIsInBvcnQiOjQ2NjcyLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=
 ####Ping: 56	AvgSpeed: 5.45MB	MaxSpeed: 2.36MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/30 07:05	UpdateTime: 2023/07/30 14:09	FailCount: 0
@@ -252,8 +230,6 @@ vmess://eyJhZGQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
 vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU181NDIiLCJwb3J0Ijo0NDMsImlkIjoiZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwicGF0aCI6Ii9lYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgtdm0iLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 268	AvgSpeed: 5.42MB	MaxSpeed: 10.24MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:37	FailCount: 0
 vmess://eyJhZGQiOiIxNzIuNjcuNjUuMjEwIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU18xMjAxIiwicG9ydCI6ODAsImlkIjoiNWY3NTFjNmUtNTBiMS00Nzk3LWJhOGUtNmZmZTMyNGEwYmNlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkcDMuc2Nwcm94eS50b3AiLCJwYXRoIjoiL3NoaXJrZXIiLCJ0bHMiOiIifQ==
-####Ping: 484	AvgSpeed: 5.39MB	MaxSpeed: 8.99MB	SourceUrl: https://github.com/mianfeifq/share	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:33	FailCount: 0
-vmess://ewogICAgImFkZCI6ICIyMy4yMjQuMjAyLjg2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDU3NzAyLAogICAgInBzIjogIvCfh7rwn4e4IOe+juWbvSAzNTEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ####Ping: 264	AvgSpeed: 5.36MB	MaxSpeed: 8.31MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:43	FailCount: 0
 trojan://telegram-id-privatevpns@3.75.172.142:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE_274
 ####Ping: 219	AvgSpeed: 5.35MB	MaxSpeed: 11.04MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 07:05	UpdateTime: 2023/07/30 14:15	FailCount: 0
@@ -284,8 +260,6 @@ vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjI0MiIsInYiOiIyIiwicHMiOiLwn4eo8J+Hs0NOXzcwIiwi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxMjEuMTI3LjQ2LjE0Nzo5ODk=#_53
 ####Ping: 695	AvgSpeed: 4.93MB	MaxSpeed: 13.12MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:50	FailCount: 0
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjE0OSIsInYiOiIyIiwicHMiOiLwn4eo8J+Hs0NOXzYwIiwicG9ydCI6ODAsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJlY2MudnRjc3MudG9wIiwicGF0aCI6Ii9ibHVlIiwidGxzIjoiIn0=
-####Ping: 752	AvgSpeed: 4.93MB	MaxSpeed: 12.77MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:24	FailCount: 0
-vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU180NzciLCJwb3J0Ijo0NDMsImlkIjoiZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwicGF0aCI6Ii9lYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgtdm0iLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 340	AvgSpeed: 4.92MB	MaxSpeed: 10.71MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:22	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE5LjQwLjc0OjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_669
 ####Ping: 269	AvgSpeed: 4.90MB	MaxSpeed: 9.14MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/28 23:20	UpdateTime: 2023/07/30 10:14	FailCount: 0
@@ -298,8 +272,8 @@ trojan://d31792a4-b843-469f-9185-4a6111ff7612@163.123.192.155:443?allowInsecure=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#_53
 ####Ping: 517	AvgSpeed: 4.78MB	MaxSpeed: 11.34MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 07:18	UpdateTime: 2023/07/30 14:42	FailCount: 0
 vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU18xMTg3IiwicG9ydCI6NDQzLCJpZCI6ImVhNDkwOWVmLTdjYTYtNGI0Ni1iZjJlLTZjMDc4OTZlZjMzOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiY29sZC1kYXduLTkyNDYuZmx5LmRldiIsInBhdGgiOiIvZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4LXZtIiwidGxzIjoidGxzIn0=
-####Ping: 314	AvgSpeed: 4.76MB	MaxSpeed: 7.53MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:36	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#_161
+####Ping: 428	AvgSpeed: 4.67MB	MaxSpeed: 10.16MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:28	FailCount: 0
+vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU180NzciLCJwb3J0Ijo0NDMsImlkIjoiZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwicGF0aCI6Ii9lYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgtdm0iLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 661	AvgSpeed: 4.65MB	MaxSpeed: 11.33MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:25	FailCount: 0
 vmess://eyJhZGQiOiIxNTYuMjQ5LjE4LjEzNyIsInYiOiIyIiwicHMiOiJSZWxheV/wn4er8J+Ht0ZSLfCfh7Pwn4exTkxfMjkwIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Ind3dy42OTQxNDUwMi54eXoiLCJwYXRoIjoiL3BhdGgvMTY5MDM2OTI1MDAwOCIsInRscyI6InRscyJ9
 ####Ping: 344	AvgSpeed: 4.60MB	MaxSpeed: 10.05MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/28 23:20	UpdateTime: 2023/07/30 10:34	FailCount: 0
@@ -316,8 +290,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4emQ0HliqDmi7/lpKcoeW91dHViZemY
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_788
 ####Ping: 786	AvgSpeed: 4.53MB	MaxSpeed: 9.78MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 07:05	UpdateTime: 2023/07/30 14:17	FailCount: 0
 trojan://d31792a4-b843-469f-9185-4a6111ff7612@163.123.192.155:443?allowInsecure=1#Pool_%F0%9F%8F%81ZZ_703
-####Ping: 274	AvgSpeed: 4.51MB	MaxSpeed: 8.63MB	SourceUrl: https://github.com/mianfeifq/share	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:24	FailCount: 0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4emX0NBX+WKoOaLv+Wkp19SaGlub2Nlcm9zIiwNCiAgImFkZCI6ICJyaGlub2Nlcm9zLnJhaGFkZW50LmlyIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICI5YWY2ZDgwMi00YTg5LTQ5ODktYmJiNy0zYTI5NDVhYmJiMGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 ####Ping: 319	AvgSpeed: 4.48MB	MaxSpeed: 8.56MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:11	FailCount: 0
 trojan://7ea37e4f-325b-416f-901a-67012367307f@15.204.209.50:80?allowInsecure=1&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US_561
 ####Ping: 444	AvgSpeed: 4.45MB	MaxSpeed: 11.15MB	SourceUrl: https://free.dsdog.tk/vmess/sub	CreateTime: 2023/07/30 06:27	UpdateTime: 2023/07/30 13:32	FailCount: 0
@@ -330,8 +302,6 @@ vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjczIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxMjEuMTI3LjQ2LjE0Nzo5ODk=#%F0%9F%87%B8%F0%9F%87%AASE_589
 ####Ping: 598	AvgSpeed: 4.29MB	MaxSpeed: 11.18MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 10:04	UpdateTime: 2023/07/31 00:15	FailCount: 1
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.44.183:443#%F0%9F%87%BA%F0%9F%87%B8US_431
-####Ping: 280	AvgSpeed: 4.24MB	MaxSpeed: 9.05MB	SourceUrl: https://github.com/mianfeifq/share	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:34	FailCount: 0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4emX0NBX+WKoOaLv+Wkp19FbGVwaGFudCDwn5CYIiwNCiAgImFkZCI6ICJlbGVwaGFudC5zaG9waW5nbGlzdC5pciIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImZhNmFlYjE1LTk5NmEtNDIxMC1iMjY3LWUzNGY1ZTM3NzJiZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJob3N0IjogInZhcnplc2gzLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 ####Ping: 329	AvgSpeed: 4.23MB	MaxSpeed: 7.79MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 07:05	UpdateTime: 2023/07/30 14:16	FailCount: 0
 trojan://7ea37e4f-325b-416f-901a-67012367307f@15.204.209.50:80?allowInsecure=1&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US_645
 ####Ping: 787	AvgSpeed: 4.21MB	MaxSpeed: 12.47MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:20	FailCount: 0
@@ -340,16 +310,12 @@ vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjIyMyIsInYiOiIyIiwicHMiOiLwn4eo8J+Hs0NOXzU3Iiwi
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjE4NSIsInYiOiIyIiwicHMiOiLwn4eo8J+Hs0NOXzgwIiwicG9ydCI6ODAsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJlY2MudnRjc3MudG9wIiwicGF0aCI6Ii9ibHVlIiwidGxzIjoiIn0=
 ####Ping: 646	AvgSpeed: 4.13MB	MaxSpeed: 8.63MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/24 02:49	UpdateTime: 2023/07/30 22:31	FailCount: 1
 vmess://eyJhZGQiOiIxNzIuNjcuNjUuMjEwIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU183MTIiLCJwb3J0Ijo4MCwiaWQiOiI1Zjc1MWM2ZS01MGIxLTQ3OTctYmE4ZS02ZmZlMzI0YTBiY2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRwMy5zY3Byb3h5LnRvcCIsInBhdGgiOiIvc2hpcmtlciIsInRscyI6IiJ9
-####Ping: 198	AvgSpeed: 4.11MB	MaxSpeed: 11.46MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:38	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.6.48:443#%F0%9F%87%A6%F0%9F%87%BAAU_243
 ####Ping: 297	AvgSpeed: 4.07MB	MaxSpeed: 10.41MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 23:20	UpdateTime: 2023/07/30 10:29	FailCount: 0
 vmess://ewogICAgImFkZCI6ICIxOTguMi4xOTcuNzEiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5NTg4NDk3NzY1IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU180NzIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogInd3dy43MTgyNTE1Mi54eXoiCn0=
 ####Ping: 385	AvgSpeed: 4.06MB	MaxSpeed: 7.69MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/25 17:45	UpdateTime: 2023/07/30 23:12	FailCount: 0
 vmess://eyJhZGQiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzExNjAiLCJwb3J0Ijo4MCwiaWQiOiI1Zjc1MWM2ZS01MGIxLTQ3OTctYmE4ZS02ZmZlMzI0YTBiY2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRwNC5zY3Byb3h5LnRvcCIsInBhdGgiOiIvc2hpcmtlciIsInRscyI6IiJ9
 ####Ping: 88	AvgSpeed: 4.01MB	MaxSpeed: 8.09MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/30 06:24	UpdateTime: 2023/07/30 13:06	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjEyLjIzOS44MTo0NDM=#%F0%9F%87%B8%F0%9F%87%ACSG_764
-####Ping: 82	AvgSpeed: 3.95MB	MaxSpeed: 6.63MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:40	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.115.47.204:443#%F0%9F%87%AF%F0%9F%87%B5JP_383
 ####Ping: 330	AvgSpeed: 3.92MB	MaxSpeed: 9.41MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/28 23:29	UpdateTime: 2023/07/30 10:35	FailCount: 0
 vmess://eyJhZGQiOiIxOTguMi4xOTcuNzEiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVNfODEgfDI2LjU3TWIiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3d3LjcxODI1MTUyLnh5eiIsInBhdGgiOiIvcGF0aC8xNjg5NTg4NDk3NzY1IiwidGxzIjoidGxzIn0=
 ####Ping: 526	AvgSpeed: 3.92MB	MaxSpeed: 9.65MB	SourceUrl: https://nodefree.org/dy/2023/07/20230723.txt	CreateTime: 2023/07/23 13:54	UpdateTime: 2023/07/30 22:02	FailCount: 2
@@ -396,8 +362,6 @@ vmess://eyJhZGQiOiIyMy4yMzQuMTk4Ljg2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxMjEuMTI3LjQ2LjE0Nzo5ODk=#%F0%9F%87%B8%F0%9F%87%AASE_701
 ####Ping: 1890	AvgSpeed: 3.64MB	MaxSpeed: 7.20MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:28	FailCount: 0
 ssr://OTEuMTkyLjgxLjE2Njo0NDM6b3JpZ2luOmFlcy0yNTYtY3RyOnRsczEuMl90aWNrZXRfYXV0aDpUbVYzUW5sd1lYTnpaWEl5TURJei8/b2Jmc3BhcmFtPVkyUnVMbUZ3Y0hObWJIbGxjaTVqSmUlMkIlMkZ2USUzRCUzRCZyZW1hcmtzPThKJTJCSHQlMkZDZmg3cFNWVjgwTkRBJTNEJnByb3RvcGFyYW09
-####Ping: 267	AvgSpeed: 3.63MB	MaxSpeed: 7.83MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:38	FailCount: 0
-ssr://MjIzLjExMy4xMzYuMTIyOjMyOTgyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpodHRwX3NpbXBsZTplbnAwZHpscWF6ZG5kUT09Lz9vYmZzcGFyYW09WlRWaFlqQTRNelkyTG0xcFkzSnZjMjltZEM1amIyMCUzRCZyZW1hcmtzPVVtVnNZWGxmOEolMkJIcVBDZmg3TkRUaTN3bjRlNjhKJTJCSHVGVlRYekkxTnclM0QlM0QmcHJvdG9wYXJhbT1PRE0yTmpwV016VkhZa0klM0Q=
 ####Ping: 115	AvgSpeed: 3.60MB	MaxSpeed: 5.65MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/26 00:18	UpdateTime: 2023/07/30 23:30	FailCount: 1
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQUAxMDMuMTcyLjExNi43OTo5MDQ0#_24
 ####Ping: 276	AvgSpeed: 3.58MB	MaxSpeed: 7.23MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:43	FailCount: 0
@@ -426,8 +390,6 @@ vmess://eyJhZGQiOiIxNzIuNjcuMjA2LjciLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18xMTE0Iiwi
 vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU180ODYiLCJwb3J0Ijo0NDMsImlkIjoiZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwicGF0aCI6Ii9lYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgtdm0iLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 291	AvgSpeed: 3.38MB	MaxSpeed: 6.68MB	SourceUrl: https://github.com/mianfeifq/share	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 10:46	FailCount: 0
 vmess://ewogICAgImFkZCI6ICIxOTIuNzQuMjQzLjYwIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDUwMjQ2LAogICAgInBzIjogIvCfh7rwn4e4IF9VU1/nvo7lm70gNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-####Ping: 88	AvgSpeed: 3.33MB	MaxSpeed: 9.29MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:23	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjEyLjEyLjIzNzo0NDM=#_30
 ####Ping: 263	AvgSpeed: 3.32MB	MaxSpeed: 6.66MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 07:18	UpdateTime: 2023/07/30 14:19	FailCount: 0
 trojan://telegram-id-privatevpns@54.216.218.112:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE_636
 ####Ping: 784	AvgSpeed: 3.28MB	MaxSpeed: 8.97MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:22	FailCount: 0
@@ -440,8 +402,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxMjEuMTI3LjQ2LjE0Nzo5ODk=#_163
 vmess://eyJhZGQiOiIxOTIuNzQuMjQzLjYwIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU184MjgiLCJwb3J0Ijo1MDI0NiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiJ9
 ####Ping: 1043	AvgSpeed: 3.14MB	MaxSpeed: 9.90MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:56	FailCount: 0
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjExMiIsInYiOiIyIiwicHMiOiLwn4eo8J+Hs0NOXzEzNSIsInBvcnQiOjgwLCJpZCI6ImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZWNjLnZ0Y3NzLnRvcCIsInBhdGgiOiIvYmx1ZSIsInRscyI6IiJ9
-####Ping: 311	AvgSpeed: 3.13MB	MaxSpeed: 4.06MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:32	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxMjEuMTI3LjQ2LjE0Nzo5ODk=#_161
 ####Ping: 526	AvgSpeed: 3.07MB	MaxSpeed: 6.46MB	SourceUrl: https://free.jingfu.cf/vmess/sub	CreateTime: 2023/07/30 06:13	UpdateTime: 2023/07/30 12:53	FailCount: 0
 vmess://eyJhZGQiOiIyMy4yMzQuMTk4Ljg2IiwidiI6IjIiLCJwcyI6IlJlbGF5XyB8IDUuMTNNYiIsInBvcnQiOjM0ODg4LCJpZCI6ImE5YWJmM2U3LTg3ZjQtNDczZC04ZDAzLTJmMjZjYTRiMzU4MyIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
 ####Ping: 91	AvgSpeed: 3.03MB	MaxSpeed: 7.72MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:16	FailCount: 0
@@ -450,6 +410,8 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4wLjE0Ny4yMjo0NDM=#%F0%9F%87%B8%F0%9F%87%
 vmess://eyJhZGQiOiIxOTIuNzQuMjQzLjMzIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU184NSIsInBvcnQiOjUwMjQ2LCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiI1LjM0LjE4Mi4xMiIsInBhdGgiOiIvdnBuamFudGl0IiwidGxzIjoiIn0=
 ####Ping: 868	AvgSpeed: 2.99MB	MaxSpeed: 8.19MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:21	FailCount: 0
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjIyMSIsInYiOiIyIiwicHMiOiLwn4eo8J+Hs0NOXzc4IiwicG9ydCI6ODAsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJlY2MudnRjc3MudG9wIiwicGF0aCI6Ii9ibHVlIiwidGxzIjoiIn0=
+####Ping: 530	AvgSpeed: 2.99MB	MaxSpeed: 6.42MB	SourceUrl: https://github.com/mianfeifq/share	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:30	FailCount: 0
+vmess://ewogICAgImFkZCI6ICIyMy4yMjQuMjAyLjg2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDU3NzAyLAogICAgInBzIjogIvCfh7rwn4e4IOe+juWbvSAzNTEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ####Ping: 452	AvgSpeed: 2.99MB	MaxSpeed: 7.23MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 06:24	UpdateTime: 2023/07/30 13:14	FailCount: 0
 vmess://eyJhZGQiOiIxNTQuOTIuOS4xOSIsInYiOiIyIiwicHMiOiLwn4et8J+HsEhLXzUwMyIsInBvcnQiOjgwLCJpZCI6ImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZWNjLnZ0Y3NzLnRvcCIsInBhdGgiOiIvYmx1ZSIsInRscyI6IiJ9
 ####Ping: 1012	AvgSpeed: 2.99MB	MaxSpeed: 9.67MB	SourceUrl: https://v2rayshare.com/wp-content/uploads/2023/07/20230728.txt	CreateTime: 2023/07/28 10:04	UpdateTime: 2023/07/31 00:09	FailCount: 1
@@ -462,12 +424,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjki
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS42OToyMDAz#%F0%9F%87%B0%F0%9F%87%B7KR_361
 ####Ping: 529	AvgSpeed: 2.94MB	MaxSpeed: 3.58MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/25 20:00	UpdateTime: 2023/07/30 23:22	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_818
-####Ping: 1536	AvgSpeed: 2.93MB	MaxSpeed: 8.51MB	SourceUrl: https://github.com/aiboboxx/v2rayfree	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:21	FailCount: 0
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSAyMSIsICJhZGQiOiAiYW1zenhjLjY2NjY2NjU0Lnh5eiIsICJwb3J0IjogMjA5NSwgImlkIjogIjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiYW1zenguNjY2NjY2NTQueHl6IiwgInBhdGgiOiAiL2hnY2Vmb21uIiwgInRscyI6ICIifQ==
 ####Ping: 261	AvgSpeed: 2.92MB	MaxSpeed: 5.71MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 07:18	UpdateTime: 2023/07/30 14:18	FailCount: 0
 trojan://telegram-id-directvpn@3.97.16.244:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA_38
-####Ping: 341	AvgSpeed: 2.90MB	MaxSpeed: 5.71MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:45	FailCount: 0
-vmess://ewogICAgImFkZCI6ICIxOTIuNzQuMjQzLjMzIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA1MDI0NiwKICAgICJwcyI6ICJSZWxheV/wn4e68J+HuFVTLfCfh7rwn4e4VVNfNTYxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ####Ping: 276	AvgSpeed: 2.90MB	MaxSpeed: 4.35MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:43	FailCount: 0
 trojan://telegram-id-privatevpns@18.170.73.118:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB_429
 ####Ping: 279	AvgSpeed: 2.89MB	MaxSpeed: 8.04MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/30 06:56	UpdateTime: 2023/07/30 13:43	FailCount: 0
@@ -586,6 +544,8 @@ vmess://ewogICAgImFkZCI6ICIyMy4yMjQuMjAyLjg2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySWRhMXF4MWZxSEk2OUdteUVVM2RWQHd6MC5vbmxpbmVqZWxpY2MubmV0OjYzOTc0#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%AC%F0%9F%87%A7GB_452
 ####Ping: 300	AvgSpeed: 2.03MB	MaxSpeed: 3.19MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 06:24	UpdateTime: 2023/07/30 13:25	FailCount: 0
 vmess://eyJhZGQiOiIxNjIuMTU5LjEzMC4xOTgiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+PgVpaLfCfh7rwn4e4VVNfMTMwMCIsInBvcnQiOjgwLCJpZCI6IjVmNzUxYzZlLTUwYjEtNDc5Ny1iYThlLTZmZmUzMjRhMGJjZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZHA0LnNjcHJveHkudG9wIiwicGF0aCI6Ii9zaGlya2VyIiwidGxzIjoiIn0=
+####Ping: 326	AvgSpeed: 2.02MB	MaxSpeed: 5.11MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:29	FailCount: 0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxMjEuMTI3LjQ2LjE0Nzo5ODk=#_161
 ####Ping: 1150	AvgSpeed: 1.97MB	MaxSpeed: 4.82MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 12:18	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjIzLjIyOC4yMTM6NDQz#%F0%9F%87%BA%F0%9F%87%B8US_861
 ####Ping: 371	AvgSpeed: 1.94MB	MaxSpeed: 3.44MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/24 00:48	UpdateTime: 2023/07/30 22:25	FailCount: 1
@@ -606,8 +566,6 @@ ssr://OTEuMTkyLjgxLjE2Njo0NDM6b3JpZ2luOmFlcy0yNTYtY3RyOnRsczEuMl90aWNrZXRfYXV0aD
 vmess://eyJhZGQiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzg2NCIsInBvcnQiOjgwLCJpZCI6IjVmNzUxYzZlLTUwYjEtNDc5Ny1iYThlLTZmZmUzMjRhMGJjZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZHA0LnNjcHJveHkudG9wIiwicGF0aCI6Ii9zaGlya2VyIiwidGxzIjoiIn0=
 ####Ping: 497	AvgSpeed: 1.86MB	MaxSpeed: 3.34MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:12	FailCount: 0
 trojan://telegram-id-privatevpns@3.75.227.17:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE_181
-####Ping: 238	AvgSpeed: 1.86MB	MaxSpeed: 2.33MB	SourceUrl: https://github.com/mianfeifq/share	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:24	FailCount: 0
-vmess://ewogICAgImFkZCI6ICIyMy4yMzQuMTk4LjgzIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYTlhYmYzZTctODdmNC00NzNkLThkMDMtMmYyNmNhNGIzNTgzIiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDM0ODg4LAogICAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV80IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ####Ping: 540	AvgSpeed: 1.83MB	MaxSpeed: 4.29MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 10:11	FailCount: 0
 vmess://eyJhZGQiOiIxMDQuMTguMTYuMTMxIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4e68J+HuFVTXzExODQiLCJwb3J0Ijo0NDMsImlkIjoiMkYwOTQ4NDUtRTJCRC1FQkY3LURFQjctOTk1OTkyNDM2RkFGIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJLYW5zYXMua290aWNrLnNpdGUiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInRscyI6InRscyJ9
 ####Ping: 292	AvgSpeed: 1.83MB	MaxSpeed: 4.54MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:48	FailCount: 0
@@ -634,8 +592,6 @@ vmess://eyJhZGQiOiIxNzIuNjcuNjUuMjEwIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX0NOX+S4reWbvS0+8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTgzLjIzMi4yNDkuMTg5IiwicG9ydCI6IjU5OTAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 ####Ping: 258	AvgSpeed: 1.68MB	MaxSpeed: 2.73MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:43	FailCount: 0
 trojan://telegram-id-privatevpns@15.237.195.89:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR_393
-####Ping: 325	AvgSpeed: 1.65MB	MaxSpeed: 2.40MB	SourceUrl: https://free.iam7.tk/clash/proxies	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:36	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#Pool__156
 ####Ping: 480	AvgSpeed: 1.65MB	MaxSpeed: 8.90MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:52	FailCount: 0
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjE4OCIsInYiOiIyIiwicHMiOiJSZWxheV/wn4eo8J+Hs0NOLfCfh7rwn4e4VVNfMTAwIiwicG9ydCI6NDQzLCJpZCI6IjYyNDMzZWIxLTEzMWYtNGQzYy04NzdjLTE5MjkxNGEyZDQ1YyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXh4LnZ0Y3NzLnRvcCIsInBhdGgiOiIvcXdlciIsInRscyI6InRscyJ9
 ####Ping: 617	AvgSpeed: 1.59MB	MaxSpeed: 5.36MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:22	FailCount: 0
@@ -658,8 +614,6 @@ vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjE1OSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4eo8J+Hs0NO
 trojan://telegram-id-privatevpns@18.194.15.21:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE_252
 ####Ping: 87	AvgSpeed: 1.51MB	MaxSpeed: 1.78MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/25 20:40	UpdateTime: 2023/07/30 23:25	FailCount: 1
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQUAxMDMuMTcyLjExNi43OTo5MDQ0#%F0%9F%87%B8%F0%9F%87%ACSG_592
-####Ping: 273	AvgSpeed: 1.49MB	MaxSpeed: 1.84MB	SourceUrl: https://github.com/Pawdroid/Free-servers	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:18	FailCount: 0
-vmess://eyJhZGQiOiAiMTczLjgyLjY3LjE5NSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFx1NTJhMFx1NTIyOVx1Nzk4Zlx1NWMzY1x1NGU5YVx1NWRkZVx1NmQxYlx1Njc0OVx1NzdmNk1VTFRBQ09NXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIiwgInBvcnQiOiAzNDQxMiwgImlkIjogIjgyNjIwYTZlLWRiZmQtNGQ1Ny04YTU5LTkwMDRhNGJiOWU5MiIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ####Ping: 545	AvgSpeed: 1.48MB	MaxSpeed: 3.48MB	SourceUrl: https://raw.githubusercontent.com/freenodes/freenodes/main/clash_speed.yaml	CreateTime: 2023/07/23 13:54	UpdateTime: 2023/07/30 22:01	FailCount: 2
 vmess://ewogICAgImFkZCI6ICJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY29sZC1kYXduLTkyNDYuZmx5LmRldiIsCiAgICAiaWQiOiAiZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2VhNDkwOWVmLTdjYTYtNGI0Ni1iZjJlLTZjMDc4OTZlZjMzOC12bSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuC1VUy0yNDYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ####Ping: 485	AvgSpeed: 1.48MB	MaxSpeed: 2.55MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/28 11:08	UpdateTime: 2023/07/31 00:24	FailCount: 0
@@ -722,8 +676,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.228.21.235:443#_50
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AyMy45Mi4xMjcuMTM0Ojk4OQ==#Pool_%F0%9F%87%AE%F0%9F%87%AAIE_428
 ####Ping: 337	AvgSpeed: 1.22MB	MaxSpeed: 2.16MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/26 00:18	UpdateTime: 2023/07/30 23:31	FailCount: 0
 vmess://eyJhZGQiOiIxNzIuNjcuNjUuMjEwIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU183NTQiLCJwb3J0Ijo4MCwiaWQiOiI1Zjc1MWM2ZS01MGIxLTQ3OTctYmE4ZS02ZmZlMzI0YTBiY2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRwMy5zY3Byb3h5LnRvcCIsInBhdGgiOiIvc2hpcmtlciIsInRscyI6IiJ9
-####Ping: 875	AvgSpeed: 1.21MB	MaxSpeed: 2.45MB	SourceUrl: https://free.iam7.tk/sip002/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:35	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTE1LjQ3LjIwNDo0NDM=#%F0%9F%87%AF%F0%9F%87%B5JP_383
 ####Ping: 49	AvgSpeed: 1.21MB	MaxSpeed: 0.24MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 07:18	UpdateTime: 2023/07/30 14:32	FailCount: 0
 vmess://eyJhZGQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAzMWEubm9kZS1mb3ItYmlnYWlycG9ydC53aW4iLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HrfCfh7BISy3wn4et8J+HsEhLXzU0MyIsInBvcnQiOjEyMzU2LCJpZCI6ImM3YjViNjE0LTA0YjgtNGE4ZC04ZDllLTg4YjQzMWI5ZmE4YiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDMxYS5ub2RlLWZvci1iaWdhaXJwb3J0LndpbiIsInBhdGgiOiIiLCJ0bHMiOiIifQ==
 ####Ping: 318	AvgSpeed: 1.20MB	MaxSpeed: 2.33MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/30 05:52	UpdateTime: 2023/07/30 12:51	FailCount: 0
@@ -742,10 +694,10 @@ vmess://eyJhZGQiOiIxMjAuMjMzLjQzLjYyIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQUAxMDMuMTcyLjExNi43OTo5MDQ0#_30
 ####Ping: 88	AvgSpeed: 1.15MB	MaxSpeed: 2.12MB	SourceUrl: https://clashfree.eu.org/wp-content/uploads/rss/20230730.txt	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 10:39	FailCount: 0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.213.44.183:443#%F0%9F%87%B8%F0%9F%87%AC%20_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
-####Ping: 329	AvgSpeed: 1.15MB	MaxSpeed: 1.71MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/30 09:49	FailCount: 0
-vmess://eyJhZGQiOiJib2JieWtvdGljay5yaXAiLCJ2IjoiMiIsInBzIjoi8J+PgSBaWl8xMDciLCJwb3J0Ijo0NDMsImlkIjoiMkYwOTQ4NDUtRTJCRC1FQkY3LURFQjctOTk1OTkyNDM2RkFGIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJMaWxsZS5ib2JieWtvdGljay5yaXAiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInRscyI6InRscyJ9
 ####Ping: 280	AvgSpeed: 1.15MB	MaxSpeed: 2.06MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:43	FailCount: 0
 trojan://telegram-id-privatevpns@18.185.113.147:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE_278
+####Ping: 206	AvgSpeed: 1.15MB	MaxSpeed: 2.89MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:29	FailCount: 0
+vmess://eyJhZGQiOiIxOTguMi4xOTcuNzEiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzU1NiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3d3cuNzE4MjUxNTIueHl6IiwicGF0aCI6Ii9wYXRoLzE2ODk1ODg0OTc3NjUiLCJ0bHMiOiJ0bHMifQ==
 ####Ping: 472	AvgSpeed: 1.14MB	MaxSpeed: 1.67MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 07:18	UpdateTime: 2023/07/30 14:48	FailCount: 0
 vmess://eyJhZGQiOiIxNjIuMTU5LjEyOS42OSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4+BWlot8J+HuvCfh7hVU18xNDQwIiwicG9ydCI6ODA4MCwiaWQiOiI1NGQ0YTVlOS02NDQxLTQ0MmMtY2FiNy0wNTYyMGNiZTRmN2QiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImVjYy52dGNzcy50b3AiLCJwYXRoIjoiL3F3ZXIwMSIsInRscyI6IiJ9
 ####Ping: 235	AvgSpeed: 1.14MB	MaxSpeed: 1.75MB	SourceUrl: https://tt.vg/freeclash	CreateTime: 2023/07/23 21:57	UpdateTime: 2023/07/30 22:14	FailCount: 2
@@ -798,3 +750,51 @@ vmess://ewogICAgImFkZCI6ICJkb25ndGFpd2FuZzMuY29tIiwKICAgICJhaWQiOiAwLAogICAgImhv
 trojan://telegram-id-privatevpns@34.245.203.167:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE_567
 ####Ping: 236	AvgSpeed: 1.02MB	MaxSpeed: 1.76MB	SourceUrl: https://anaer.github.io/Sub/clash.yaml	CreateTime: 2023/07/26 12:44	UpdateTime: 2023/07/30 23:38	FailCount: 0
 vmess://ewogICAgImFkZCI6ICJkb25ndGFpd2FuZzMuY29tIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZC5mcmVlaDEueHl6IiwKICAgICJpZCI6ICI2ZGVkZGI3Zi1lNTU3LTQyZGItYmZhMC1jZjQwYjM2YjI3ZTIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIue+juWbvSAwMiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImQuZnJlZWgxLnh5eiIKfQ==
+####Ping: 281	AvgSpeed: 1.01MB	MaxSpeed: 2.25MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/30 06:13	UpdateTime: 2023/07/30 12:54	FailCount: 0
+vmess://eyJhZGQiOiIxNTYuMjQ5LjE4LjE2MSIsInYiOiIyIiwicHMiOiJfMjMiLCJwb3J0Ijo0MjI5MiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiJ9
+####Ping: 438	AvgSpeed: 1.01MB	MaxSpeed: 2.26MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/23 21:57	UpdateTime: 2023/07/30 22:15	FailCount: 3
+vmess://eyJhZGQiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzg2MyIsInBvcnQiOjgwLCJpZCI6IjVmNzUxYzZlLTUwYjEtNDc5Ny1iYThlLTZmZmUzMjRhMGJjZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZHAzLnNjcHJveHkudG9wIiwicGF0aCI6Ii9zaGlya2VyIiwidGxzIjoiIn0=
+####Ping: 236	AvgSpeed: 1.00MB	MaxSpeed: 2.02MB	SourceUrl: https://free.dsdog.tk/vmess/sub	CreateTime: 2023/07/23 13:54	UpdateTime: 2023/07/30 22:01	FailCount: 2
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HqPCfh6ZDQV8wOCIsInBvcnQiOjQ0MywiaWQiOiI2ZGVkZGI3Zi1lNTU3LTQyZGItYmZhMC1jZjQwYjM2YjI3ZTIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImQuZnJlZWgxLnh5eiIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwidGxzIjoidGxzIn0=
+####Ping: 534	AvgSpeed: 1.00MB	MaxSpeed: 2.72MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:21	FailCount: 0
+vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjMzIiwidiI6IjIiLCJwcyI6IvCfh6jwn4ezQ05fODEiLCJwb3J0Ijo4MCwiaWQiOiJkZDQxYjVjYi1iNzJlLTRhOGMtYzc1YS0zZWNjOTI4ZDZlYjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImVjYy52dGNzcy50b3AiLCJwYXRoIjoiL2JsdWUiLCJ0bHMiOiIifQ==
+####Ping: 1035	AvgSpeed: 1.00MB	MaxSpeed: 3.27MB	SourceUrl: https://proxy.crazygeeky.com/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:09	FailCount: 0
+vmess://eyJhZGQiOiJzcGVlZGlwLmV1Lm9yZyIsInYiOiIyIiwicHMiOiLwn4e68J+HuCBVU185OSIsInBvcnQiOjgwODAsImlkIjoiNDRjNDhmYmUtY2ZiZi00MGVlLWIwZTQtMTJhMWNlYzRkYTY5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJzc3JzdWIudjAxLnNzcnN1Yi5jb20iLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIiwidGxzIjoiIn0=
+####Ping: 245	AvgSpeed: 1.00MB	MaxSpeed: 1.71MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/23 22:52	UpdateTime: 2023/07/30 22:17	FailCount: 1
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HuvCfh7hVU18zMSIsInBvcnQiOjQ0MywiaWQiOiI2ZGVkZGI3Zi1lNTU3LTQyZGItYmZhMC1jZjQwYjM2YjI3ZTIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImQuZnJlZWgxLnh5eiIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwidGxzIjoidGxzIn0=
+####Ping: 253	AvgSpeed: 1.00MB	MaxSpeed: 1.42MB	SourceUrl: https://wanshanziwo.eu.org/trojan/sub	CreateTime: 2023/07/30 06:24	UpdateTime: 2023/07/30 12:57	FailCount: 0
+trojan://telegram-id-privatevpns@35.180.51.203:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR_369
+####Ping: 234	AvgSpeed: 1.00MB	MaxSpeed: 1.88MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/28 22:50	UpdateTime: 2023/07/31 00:27	FailCount: 0
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HqPCfh6ZDQV8yNTMiLCJwb3J0Ijo0NDMsImlkIjoiNmRlZGRiN2YtZTU1Ny00MmRiLWJmYTAtY2Y0MGIzNmIyN2UyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkLmZyZWVoMS54eXoiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
+####Ping: 224	AvgSpeed: 1.00MB	MaxSpeed: 1.73MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/30 05:16	UpdateTime: 2023/07/30 11:49	FailCount: 0
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HqPCfh6ZDQV8yNjciLCJwb3J0Ijo0NDMsImlkIjoiNmRlZGRiN2YtZTU1Ny00MmRiLWJmYTAtY2Y0MGIzNmIyN2UyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkLmZyZWVoMS54eXoiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
+####Ping: 227	AvgSpeed: 0.99MB	MaxSpeed: 2.85MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/23 15:12	UpdateTime: 2023/07/30 22:05	FailCount: 1
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HuvCfh7hVU18zNSIsInBvcnQiOjQ0MywiaWQiOiI2ZGVkZGI3Zi1lNTU3LTQyZGItYmZhMC1jZjQwYjM2YjI3ZTIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImQuZnJlZWgxLnh5eiIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwidGxzIjoidGxzIn0=
+####Ping: 234	AvgSpeed: 0.99MB	MaxSpeed: 1.66MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/30 07:05	UpdateTime: 2023/07/30 13:59	FailCount: 0
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HqPCfh6ZDQV8yNzkiLCJwb3J0Ijo0NDMsImlkIjoiNmRlZGRiN2YtZTU1Ny00MmRiLWJmYTAtY2Y0MGIzNmIyN2UyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkLmZyZWVoMS54eXoiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
+####Ping: 230	AvgSpeed: 0.99MB	MaxSpeed: 1.79MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/24 00:54	UpdateTime: 2023/07/30 22:26	FailCount: 1
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IiIsInBvcnQiOjQ0MywiaWQiOiI2ZGVkZGI3Zi1lNTU3LTQyZGItYmZhMC1jZjQwYjM2YjI3ZTIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImQuZnJlZWgxLnh5eiIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwidGxzIjoidGxzIn0=
+####Ping: 231	AvgSpeed: 0.99MB	MaxSpeed: 2.28MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/23 13:54	UpdateTime: 2023/07/30 22:04	FailCount: 2
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HqPCfh6ZDQV8yOTMiLCJwb3J0Ijo0NDMsImlkIjoiNmRlZGRiN2YtZTU1Ny00MmRiLWJmYTAtY2Y0MGIzNmIyN2UyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkLmZyZWVoMS54eXoiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
+####Ping: 230	AvgSpeed: 0.99MB	MaxSpeed: 1.94MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/24 18:00	UpdateTime: 2023/07/30 22:41	FailCount: 0
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HqPCfh6ZDQV8yODgiLCJwb3J0Ijo0NDMsImlkIjoiNmRlZGRiN2YtZTU1Ny00MmRiLWJmYTAtY2Y0MGIzNmIyN2UyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkLmZyZWVoMS54eXoiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
+####Ping: 236	AvgSpeed: 0.99MB	MaxSpeed: 2.11MB	SourceUrl: https://free.dsdog.tk/vmess/sub	CreateTime: 2023/07/23 06:26	UpdateTime: 2023/07/30 21:55	FailCount: 2
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HqPCfh6ZDQV8wNiIsInBvcnQiOjQ0MywiaWQiOiI2ZGVkZGI3Zi1lNTU3LTQyZGItYmZhMC1jZjQwYjM2YjI3ZTIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImQuZnJlZWgxLnh5eiIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwidGxzIjoidGxzIn0=
+####Ping: 241	AvgSpeed: 0.99MB	MaxSpeed: 1.75MB	SourceUrl: https://github.com/mianfeifq/share	CreateTime: 2023/07/24 18:00	UpdateTime: 2023/07/30 22:40	FailCount: 0
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1MTczXHU2Y2U4XHU3NTM1XHU2MmE1aHR0cHM6Ly90Lm1lL2FpZmVueGlhbmcyMDIwIiwgImFkZCI6ICJkb25ndGFpd2FuZzMuY29tIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2ZGVkZGI3Zi1lNTU3LTQyZGItYmZhMC1jZjQwYjM2YjI3ZTIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJob3N0IjogImQuZnJlZWgxLnh5eiIsICJ0bHMiOiAidGxzIn0=
+####Ping: 221	AvgSpeed: 0.99MB	MaxSpeed: 1.74MB	SourceUrl: https://free.dsdog.tk/vmess/sub	CreateTime: 2023/07/30 06:27	UpdateTime: 2023/07/30 13:28	FailCount: 0
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IvCfh6jwn4emQ0EiLCJwb3J0Ijo0NDMsImlkIjoiNmRlZGRiN2YtZTU1Ny00MmRiLWJmYTAtY2Y0MGIzNmIyN2UyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkLmZyZWVoMS54eXoiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
+####Ping: 513	AvgSpeed: 0.99MB	MaxSpeed: 3.15MB	SourceUrl: https://wanshanziwo.eu.org/sip002/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:17	FailCount: 0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySWRhMXF4MWZxSEk2OUdteUVVM2RWQHd6MC5vbmxpbmVqZWxpY2MubmV0OjYzOTc0#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%AC%F0%9F%87%A7GB_409
+####Ping: 236	AvgSpeed: 0.99MB	MaxSpeed: 1.92MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 10:50	FailCount: 0
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HqPCfh6ZDQV8yNjkiLCJwb3J0Ijo0NDMsImlkIjoiNmRlZGRiN2YtZTU1Ny00MmRiLWJmYTAtY2Y0MGIzNmIyN2UyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkLmZyZWVoMS54eXoiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
+####Ping: 230	AvgSpeed: 0.99MB	MaxSpeed: 2.46MB	SourceUrl: https://github.com/mianfeifq/share	CreateTime: 2023/07/23 13:54	UpdateTime: 2023/07/30 22:03	FailCount: 1
+vmess://ewogICAgImFkZCI6ICJkb25ndGFpd2FuZzMuY29tIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZC5mcmVlaDEueHl6IiwKICAgICJpZCI6ICI2ZGVkZGI3Zi1lNTU3LTQyZGItYmZhMC1jZjQwYjM2YjI3ZTIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4emIF9DQV/liqDmi7/lpKciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+####Ping: 227	AvgSpeed: 0.99MB	MaxSpeed: 2.45MB	SourceUrl: https://github.com/Pawdroid/Free-servers	CreateTime: 2023/07/28 11:08	UpdateTime: 2023/07/31 00:19	FailCount: 0
+vmess://eyJhZGQiOiAiZG9uZ3RhaXdhbmczLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJkLmZyZWVoMS54eXoiLCAiaWQiOiAiNmRlZGRiN2YtZTU1Ny00MmRiLWJmYTAtY2Y0MGIzNmIyN2UyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5KHNob3BpZnkpIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+####Ping: 223	AvgSpeed: 0.99MB	MaxSpeed: 1.73MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/30 03:34	UpdateTime: 2023/07/30 11:19	FailCount: 0
+vmess://eyJhZGQiOiJkb25ndGFpd2FuZzMuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HuvCfh7hVU18zNyIsInBvcnQiOjQ0MywiaWQiOiI2ZGVkZGI3Zi1lNTU3LTQyZGItYmZhMC1jZjQwYjM2YjI3ZTIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImQuZnJlZWgxLnh5eiIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwidGxzIjoidGxzIn0=
+####Ping: 237	AvgSpeed: 0.99MB	MaxSpeed: 2.24MB	SourceUrl: https://freefq.neocities.org/free.txt	CreateTime: 2023/07/23 21:57	UpdateTime: 2023/07/30 22:11	FailCount: 2
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWKoOaLv+Wkp+OAkOS7mOi0ueaOqOiNkO+8mmh0dHBzOi8vdHQudmcvdmlw44CRMTY5IiwNCiAgImFkZCI6ICJkb25ndGFpd2FuZzMuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjZkZWRkYjdmLWU1NTctNDJkYi1iZmEwLWNmNDBiMzZiMjdlMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZC5mcmVlaDEueHl6IiwNCiAgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+####Ping: 231	AvgSpeed: 0.98MB	MaxSpeed: 2.30MB	SourceUrl: https://github.com/Pawdroid/Free-servers	CreateTime: 2023/07/23 02:48	UpdateTime: 2023/07/30 21:52	FailCount: 2
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTUxNmNcdTUzZjhDRE5cdTgyODJcdTcwYjkoc2hvcGlmeSkiLCAiYWRkIjogImRvbmd0YWl3YW5nMy5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNmRlZGRiN2YtZTU1Ny00MmRiLWJmYTAtY2Y0MGIzNmIyN2UyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJkLmZyZWVoMS54eXoiLCAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
