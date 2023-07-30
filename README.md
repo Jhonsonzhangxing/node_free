@@ -62,9 +62,8 @@ trojan://786c77b1-8792-4b6f-89d6-5b9088c68c09@pqs-tw-2013.strongpipe.live:29444#
 
 ```
 
-### 打赏
-    ##微信打赏
-    ![image][https://github.com/sanzhang007/node_free/blob/main/png/weixin.png]
-
+## 打赏
+### 微信打赏
+![image](https://github.com/sanzhang007/node_free/blob/main/png/weixin.png)
 
 [回到顶部](#readme)
