@@ -1,6 +1,6 @@
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-07-31 01:15:59
+#  创建时间：       2023-07-31 01:16:26
 #  模版：           自定义模版
 #  节点数量：       400
 #  vmess数量：      250
@@ -61,7 +61,7 @@ dns:
 
 
 proxies:
- - {name: "下载更新时间：2023-07-31 01:15:59", server: 13.213.44.183, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "下载更新时间：2023-07-31 01:16:26", server: 13.213.44.183, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
  - {name: "🇸🇬 _SG_新加坡@1", server: 13.213.44.183, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
  - {name: "🇸🇬SG_413@2", server: 3.0.147.22, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
  - {name: "🇸🇬SG_664@3", server: 13.213.44.183, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
@@ -194,20 +194,20 @@ proxies:
  - {name: "🇺🇸US_818@130", server: 52.26.147.33, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
  - {name: "🇨🇦CA_38@131", server: 3.97.16.244, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
  - {name: "@132", server: speedip.eu.org, port: 8080, type: vmess, cipher: auto, uuid: 44c48fbe-cfbf-40ee-b0e4-12a1cec4da69, tls: false, alterId: 0, network: ws, ws-opts: {path: "/api/v3/download.getFile", headers: {Host: "ssrsub.v02.ssrsub.com"}}}
- - {name: "@133", server: 104.21.239.41, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "美国 V2CROSS.COM@134", server: amszxc.66666654.xyz, port: 2095, type: vmess, cipher: auto, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "amszx.66666654.xyz"}}}
- - {name: "Relay_🇨🇳CN-🇺🇸US_179@135", server: 103.184.45.166, port: 2052, type: vmess, cipher: auto, uuid: 50c6f498-9c49-49b4-b87c-fda69d822e5c, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "uxx.vtcss.top"}}}
- - {name: "Relay_🇨🇳CN-🇺🇸US_64@136", server: 103.184.44.252, port: 80, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "_163@137", server: 121.127.46.147, port: 989, type: ss, password: "f8f7aCzcPKbsF8p3", cipher: aes-256-cfb}
- - {name: "Relay_🇺🇸US-🇺🇸US_1239@138", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
- - {name: "Relay_🇺🇸US-🇺🇸US_1145@139", server: cf-lt.sharecentre.online, port: 8080, type: vmess, cipher: auto, uuid: 44c48fbe-cfbf-40ee-b0e4-12a1cec4da69, tls: false, alterId: 0, network: ws, ws-opts: {path: "/api/v3/download.getFile", headers: {Host: "ssrsub.v02.ssrsub.com"}}}
- - {name: "Relay_🇨🇳CN-🇺🇸US_107@140", server: 103.184.45.7, port: 80, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "Relay_🇫🇷FR-🇳🇱NL_417@141", server: 156.249.18.37, port: 48222, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: tcp}
- - {name: "Relay_🇺🇸US-🇺🇸US_1167@142", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
- - {name: "🇷🇺RU_440@143", server: 91.192.81.166, port: 443, type: ssr, password: "NewBypasser2023", cipher: aes-256-ctr, obfs: tls1.2_ticket_auth, obfs-param: cdn.appsflyer.c%�, protocol: origin}
- - {name: "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@144", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
- - {name: "🇨🇳CN_114@145", server: 103.184.45.104, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "Relay_🏁ZZ-🇸🇬SG_1193@146", server: ilped.andrecell.v6.army, port: 443, type: vmess, cipher: auto, uuid: 6cd7f5aa-ca23-46ae-b13d-2c0398bf2117, tls: false, alterId: 0, network: ws, ws-opts: {path: "/vmess-ws", headers: {Host: "vip12.globalssh.com"}}}
+ - {name: "美国 V2CROSS.COM@133", server: amszxc.66666654.xyz, port: 2095, type: vmess, cipher: auto, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "amszx.66666654.xyz"}}}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_179@134", server: 103.184.45.166, port: 2052, type: vmess, cipher: auto, uuid: 50c6f498-9c49-49b4-b87c-fda69d822e5c, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "uxx.vtcss.top"}}}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_64@135", server: 103.184.44.252, port: 80, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "_163@136", server: 121.127.46.147, port: 989, type: ss, password: "f8f7aCzcPKbsF8p3", cipher: aes-256-cfb}
+ - {name: "Relay_🇺🇸US-🇺🇸US_1239@137", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
+ - {name: "Relay_🇺🇸US-🇺🇸US_1145@138", server: cf-lt.sharecentre.online, port: 8080, type: vmess, cipher: auto, uuid: 44c48fbe-cfbf-40ee-b0e4-12a1cec4da69, tls: false, alterId: 0, network: ws, ws-opts: {path: "/api/v3/download.getFile", headers: {Host: "ssrsub.v02.ssrsub.com"}}}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_107@139", server: 103.184.45.7, port: 80, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "Relay_🇫🇷FR-🇳🇱NL_417@140", server: 156.249.18.37, port: 48222, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: tcp}
+ - {name: "Relay_🇺🇸US-🇺🇸US_1167@141", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
+ - {name: "🇷🇺RU_440@142", server: 91.192.81.166, port: 443, type: ssr, password: "NewBypasser2023", cipher: aes-256-ctr, obfs: tls1.2_ticket_auth, obfs-param: cdn.appsflyer.c%�, protocol: origin}
+ - {name: "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@143", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
+ - {name: "🇨🇳CN_114@144", server: 103.184.45.104, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "Relay_🏁ZZ-🇸🇬SG_1193@145", server: ilped.andrecell.v6.army, port: 443, type: vmess, cipher: auto, uuid: 6cd7f5aa-ca23-46ae-b13d-2c0398bf2117, tls: false, alterId: 0, network: ws, ws-opts: {path: "/vmess-ws", headers: {Host: "vip12.globalssh.com"}}}
+ - {name: "@146", server: 104.21.239.41, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
  - {name: "Relay_🇺🇸US-🇺🇸US_583@147", server: 192.74.243.60, port: 50246, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
  - {name: "Relay_🇺🇸US-🇺🇸US_1173@148", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
  - {name: "🇷🇺RU_412@149", server: 91.192.81.166, port: 443, type: ssr, password: "NewBypasser2023", cipher: aes-256-ctr, obfs: tls1.2_ticket_auth, obfs-param: cdn.appsflyer.c%�, protocol: origin}
@@ -471,7 +471,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "下载更新时间：2023-07-31 01:15:59"
+      - "下载更新时间：2023-07-31 01:16:26"
       - "🇸🇬 _SG_新加坡@1"
       - "🇸🇬SG_413@2"
       - "🇸🇬SG_664@3"
@@ -604,20 +604,20 @@ proxy-groups:
       - "🇺🇸US_818@130"
       - "🇨🇦CA_38@131"
       - "@132"
-      - "@133"
-      - "美国 V2CROSS.COM@134"
-      - "Relay_🇨🇳CN-🇺🇸US_179@135"
-      - "Relay_🇨🇳CN-🇺🇸US_64@136"
-      - "_163@137"
-      - "Relay_🇺🇸US-🇺🇸US_1239@138"
-      - "Relay_🇺🇸US-🇺🇸US_1145@139"
-      - "Relay_🇨🇳CN-🇺🇸US_107@140"
-      - "Relay_🇫🇷FR-🇳🇱NL_417@141"
-      - "Relay_🇺🇸US-🇺🇸US_1167@142"
-      - "🇷🇺RU_440@143"
-      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@144"
-      - "🇨🇳CN_114@145"
-      - "Relay_🏁ZZ-🇸🇬SG_1193@146"
+      - "美国 V2CROSS.COM@133"
+      - "Relay_🇨🇳CN-🇺🇸US_179@134"
+      - "Relay_🇨🇳CN-🇺🇸US_64@135"
+      - "_163@136"
+      - "Relay_🇺🇸US-🇺🇸US_1239@137"
+      - "Relay_🇺🇸US-🇺🇸US_1145@138"
+      - "Relay_🇨🇳CN-🇺🇸US_107@139"
+      - "Relay_🇫🇷FR-🇳🇱NL_417@140"
+      - "Relay_🇺🇸US-🇺🇸US_1167@141"
+      - "🇷🇺RU_440@142"
+      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@143"
+      - "🇨🇳CN_114@144"
+      - "Relay_🏁ZZ-🇸🇬SG_1193@145"
+      - "@146"
       - "Relay_🇺🇸US-🇺🇸US_583@147"
       - "Relay_🇺🇸US-🇺🇸US_1173@148"
       - "🇷🇺RU_412@149"
@@ -879,7 +879,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - "下载更新时间：2023-07-31 01:15:59"
+      - "下载更新时间：2023-07-31 01:16:26"
       - "🇸🇬 _SG_新加坡@1"
       - "🇸🇬SG_413@2"
       - "🇸🇬SG_664@3"
@@ -1012,20 +1012,20 @@ proxy-groups:
       - "🇺🇸US_818@130"
       - "🇨🇦CA_38@131"
       - "@132"
-      - "@133"
-      - "美国 V2CROSS.COM@134"
-      - "Relay_🇨🇳CN-🇺🇸US_179@135"
-      - "Relay_🇨🇳CN-🇺🇸US_64@136"
-      - "_163@137"
-      - "Relay_🇺🇸US-🇺🇸US_1239@138"
-      - "Relay_🇺🇸US-🇺🇸US_1145@139"
-      - "Relay_🇨🇳CN-🇺🇸US_107@140"
-      - "Relay_🇫🇷FR-🇳🇱NL_417@141"
-      - "Relay_🇺🇸US-🇺🇸US_1167@142"
-      - "🇷🇺RU_440@143"
-      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@144"
-      - "🇨🇳CN_114@145"
-      - "Relay_🏁ZZ-🇸🇬SG_1193@146"
+      - "美国 V2CROSS.COM@133"
+      - "Relay_🇨🇳CN-🇺🇸US_179@134"
+      - "Relay_🇨🇳CN-🇺🇸US_64@135"
+      - "_163@136"
+      - "Relay_🇺🇸US-🇺🇸US_1239@137"
+      - "Relay_🇺🇸US-🇺🇸US_1145@138"
+      - "Relay_🇨🇳CN-🇺🇸US_107@139"
+      - "Relay_🇫🇷FR-🇳🇱NL_417@140"
+      - "Relay_🇺🇸US-🇺🇸US_1167@141"
+      - "🇷🇺RU_440@142"
+      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@143"
+      - "🇨🇳CN_114@144"
+      - "Relay_🏁ZZ-🇸🇬SG_1193@145"
+      - "@146"
       - "Relay_🇺🇸US-🇺🇸US_583@147"
       - "Relay_🇺🇸US-🇺🇸US_1173@148"
       - "🇷🇺RU_412@149"
@@ -1287,7 +1287,7 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "下载更新时间：2023-07-31 01:15:59"
+      - "下载更新时间：2023-07-31 01:16:26"
       - "🇸🇬 _SG_新加坡@1"
       - "🇸🇬SG_413@2"
       - "🇸🇬SG_664@3"
@@ -1420,20 +1420,20 @@ proxy-groups:
       - "🇺🇸US_818@130"
       - "🇨🇦CA_38@131"
       - "@132"
-      - "@133"
-      - "美国 V2CROSS.COM@134"
-      - "Relay_🇨🇳CN-🇺🇸US_179@135"
-      - "Relay_🇨🇳CN-🇺🇸US_64@136"
-      - "_163@137"
-      - "Relay_🇺🇸US-🇺🇸US_1239@138"
-      - "Relay_🇺🇸US-🇺🇸US_1145@139"
-      - "Relay_🇨🇳CN-🇺🇸US_107@140"
-      - "Relay_🇫🇷FR-🇳🇱NL_417@141"
-      - "Relay_🇺🇸US-🇺🇸US_1167@142"
-      - "🇷🇺RU_440@143"
-      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@144"
-      - "🇨🇳CN_114@145"
-      - "Relay_🏁ZZ-🇸🇬SG_1193@146"
+      - "美国 V2CROSS.COM@133"
+      - "Relay_🇨🇳CN-🇺🇸US_179@134"
+      - "Relay_🇨🇳CN-🇺🇸US_64@135"
+      - "_163@136"
+      - "Relay_🇺🇸US-🇺🇸US_1239@137"
+      - "Relay_🇺🇸US-🇺🇸US_1145@138"
+      - "Relay_🇨🇳CN-🇺🇸US_107@139"
+      - "Relay_🇫🇷FR-🇳🇱NL_417@140"
+      - "Relay_🇺🇸US-🇺🇸US_1167@141"
+      - "🇷🇺RU_440@142"
+      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@143"
+      - "🇨🇳CN_114@144"
+      - "Relay_🏁ZZ-🇸🇬SG_1193@145"
+      - "@146"
       - "Relay_🇺🇸US-🇺🇸US_583@147"
       - "Relay_🇺🇸US-🇺🇸US_1173@148"
       - "🇷🇺RU_412@149"
@@ -1694,7 +1694,7 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-07-31 01:15:59"
+      - "下载更新时间：2023-07-31 01:16:26"
       - "🇸🇬 _SG_新加坡@1"
       - "🇸🇬SG_413@2"
       - "🇸🇬SG_664@3"
@@ -1827,20 +1827,20 @@ proxy-groups:
       - "🇺🇸US_818@130"
       - "🇨🇦CA_38@131"
       - "@132"
-      - "@133"
-      - "美国 V2CROSS.COM@134"
-      - "Relay_🇨🇳CN-🇺🇸US_179@135"
-      - "Relay_🇨🇳CN-🇺🇸US_64@136"
-      - "_163@137"
-      - "Relay_🇺🇸US-🇺🇸US_1239@138"
-      - "Relay_🇺🇸US-🇺🇸US_1145@139"
-      - "Relay_🇨🇳CN-🇺🇸US_107@140"
-      - "Relay_🇫🇷FR-🇳🇱NL_417@141"
-      - "Relay_🇺🇸US-🇺🇸US_1167@142"
-      - "🇷🇺RU_440@143"
-      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@144"
-      - "🇨🇳CN_114@145"
-      - "Relay_🏁ZZ-🇸🇬SG_1193@146"
+      - "美国 V2CROSS.COM@133"
+      - "Relay_🇨🇳CN-🇺🇸US_179@134"
+      - "Relay_🇨🇳CN-🇺🇸US_64@135"
+      - "_163@136"
+      - "Relay_🇺🇸US-🇺🇸US_1239@137"
+      - "Relay_🇺🇸US-🇺🇸US_1145@138"
+      - "Relay_🇨🇳CN-🇺🇸US_107@139"
+      - "Relay_🇫🇷FR-🇳🇱NL_417@140"
+      - "Relay_🇺🇸US-🇺🇸US_1167@141"
+      - "🇷🇺RU_440@142"
+      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@143"
+      - "🇨🇳CN_114@144"
+      - "Relay_🏁ZZ-🇸🇬SG_1193@145"
+      - "@146"
       - "Relay_🇺🇸US-🇺🇸US_583@147"
       - "Relay_🇺🇸US-🇺🇸US_1173@148"
       - "🇷🇺RU_412@149"
@@ -2101,7 +2101,7 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "下载更新时间：2023-07-31 01:15:59"
+      - "下载更新时间：2023-07-31 01:16:26"
       - "🇸🇬 _SG_新加坡@1"
       - "🇸🇬SG_413@2"
       - "🇸🇬SG_664@3"
@@ -2234,20 +2234,20 @@ proxy-groups:
       - "🇺🇸US_818@130"
       - "🇨🇦CA_38@131"
       - "@132"
-      - "@133"
-      - "美国 V2CROSS.COM@134"
-      - "Relay_🇨🇳CN-🇺🇸US_179@135"
-      - "Relay_🇨🇳CN-🇺🇸US_64@136"
-      - "_163@137"
-      - "Relay_🇺🇸US-🇺🇸US_1239@138"
-      - "Relay_🇺🇸US-🇺🇸US_1145@139"
-      - "Relay_🇨🇳CN-🇺🇸US_107@140"
-      - "Relay_🇫🇷FR-🇳🇱NL_417@141"
-      - "Relay_🇺🇸US-🇺🇸US_1167@142"
-      - "🇷🇺RU_440@143"
-      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@144"
-      - "🇨🇳CN_114@145"
-      - "Relay_🏁ZZ-🇸🇬SG_1193@146"
+      - "美国 V2CROSS.COM@133"
+      - "Relay_🇨🇳CN-🇺🇸US_179@134"
+      - "Relay_🇨🇳CN-🇺🇸US_64@135"
+      - "_163@136"
+      - "Relay_🇺🇸US-🇺🇸US_1239@137"
+      - "Relay_🇺🇸US-🇺🇸US_1145@138"
+      - "Relay_🇨🇳CN-🇺🇸US_107@139"
+      - "Relay_🇫🇷FR-🇳🇱NL_417@140"
+      - "Relay_🇺🇸US-🇺🇸US_1167@141"
+      - "🇷🇺RU_440@142"
+      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@143"
+      - "🇨🇳CN_114@144"
+      - "Relay_🏁ZZ-🇸🇬SG_1193@145"
+      - "@146"
       - "Relay_🇺🇸US-🇺🇸US_583@147"
       - "Relay_🇺🇸US-🇺🇸US_1173@148"
       - "🇷🇺RU_412@149"
@@ -2508,7 +2508,7 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-07-31 01:15:59"
+      - "下载更新时间：2023-07-31 01:16:26"
       - "🇸🇬 _SG_新加坡@1"
       - "🇸🇬SG_413@2"
       - "🇸🇬SG_664@3"
@@ -2641,20 +2641,20 @@ proxy-groups:
       - "🇺🇸US_818@130"
       - "🇨🇦CA_38@131"
       - "@132"
-      - "@133"
-      - "美国 V2CROSS.COM@134"
-      - "Relay_🇨🇳CN-🇺🇸US_179@135"
-      - "Relay_🇨🇳CN-🇺🇸US_64@136"
-      - "_163@137"
-      - "Relay_🇺🇸US-🇺🇸US_1239@138"
-      - "Relay_🇺🇸US-🇺🇸US_1145@139"
-      - "Relay_🇨🇳CN-🇺🇸US_107@140"
-      - "Relay_🇫🇷FR-🇳🇱NL_417@141"
-      - "Relay_🇺🇸US-🇺🇸US_1167@142"
-      - "🇷🇺RU_440@143"
-      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@144"
-      - "🇨🇳CN_114@145"
-      - "Relay_🏁ZZ-🇸🇬SG_1193@146"
+      - "美国 V2CROSS.COM@133"
+      - "Relay_🇨🇳CN-🇺🇸US_179@134"
+      - "Relay_🇨🇳CN-🇺🇸US_64@135"
+      - "_163@136"
+      - "Relay_🇺🇸US-🇺🇸US_1239@137"
+      - "Relay_🇺🇸US-🇺🇸US_1145@138"
+      - "Relay_🇨🇳CN-🇺🇸US_107@139"
+      - "Relay_🇫🇷FR-🇳🇱NL_417@140"
+      - "Relay_🇺🇸US-🇺🇸US_1167@141"
+      - "🇷🇺RU_440@142"
+      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@143"
+      - "🇨🇳CN_114@144"
+      - "Relay_🏁ZZ-🇸🇬SG_1193@145"
+      - "@146"
       - "Relay_🇺🇸US-🇺🇸US_583@147"
       - "Relay_🇺🇸US-🇺🇸US_1173@148"
       - "🇷🇺RU_412@149"
@@ -2935,7 +2935,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "下载更新时间：2023-07-31 01:15:59"
+      - "下载更新时间：2023-07-31 01:16:26"
       - "🇸🇬 _SG_新加坡@1"
       - "🇸🇬SG_413@2"
       - "🇸🇬SG_664@3"
@@ -3068,20 +3068,20 @@ proxy-groups:
       - "🇺🇸US_818@130"
       - "🇨🇦CA_38@131"
       - "@132"
-      - "@133"
-      - "美国 V2CROSS.COM@134"
-      - "Relay_🇨🇳CN-🇺🇸US_179@135"
-      - "Relay_🇨🇳CN-🇺🇸US_64@136"
-      - "_163@137"
-      - "Relay_🇺🇸US-🇺🇸US_1239@138"
-      - "Relay_🇺🇸US-🇺🇸US_1145@139"
-      - "Relay_🇨🇳CN-🇺🇸US_107@140"
-      - "Relay_🇫🇷FR-🇳🇱NL_417@141"
-      - "Relay_🇺🇸US-🇺🇸US_1167@142"
-      - "🇷🇺RU_440@143"
-      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@144"
-      - "🇨🇳CN_114@145"
-      - "Relay_🏁ZZ-🇸🇬SG_1193@146"
+      - "美国 V2CROSS.COM@133"
+      - "Relay_🇨🇳CN-🇺🇸US_179@134"
+      - "Relay_🇨🇳CN-🇺🇸US_64@135"
+      - "_163@136"
+      - "Relay_🇺🇸US-🇺🇸US_1239@137"
+      - "Relay_🇺🇸US-🇺🇸US_1145@138"
+      - "Relay_🇨🇳CN-🇺🇸US_107@139"
+      - "Relay_🇫🇷FR-🇳🇱NL_417@140"
+      - "Relay_🇺🇸US-🇺🇸US_1167@141"
+      - "🇷🇺RU_440@142"
+      - "🇺🇲 美国【付费推荐：https://tt.vg/vip】213@143"
+      - "🇨🇳CN_114@144"
+      - "Relay_🏁ZZ-🇸🇬SG_1193@145"
+      - "@146"
       - "Relay_🇺🇸US-🇺🇸US_583@147"
       - "Relay_🇺🇸US-🇺🇸US_1173@148"
       - "🇷🇺RU_412@149"
@@ -6693,7 +6693,7 @@ rules:
   - MATCH,🐟 漏网之鱼
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-07-31 01:15:59
+#  创建时间：       2023-07-31 01:16:26
 #  模版：           自定义模版
 #  节点数量：       400
 #  vmess数量：      250
