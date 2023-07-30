@@ -50,7 +50,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjA3LjgzLjIyMTo0NDM=#%F0%9F%87%AF%F0%9F
 ```
 ## 推荐节点转换网址
 ```
-如果clash不可用到此网站转换(我的转换和LiteSpeedTest都有点小问题)
+如果clash不可用到此网站转换
 - https://v1.v2rayse.com/v2ray-clash
 ```
 
