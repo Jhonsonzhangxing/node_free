@@ -57,7 +57,8 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjA3LjgzLjIyMTo0NDM=#%F0%9F%87%AF%F0%9F
 ## 感谢
 ### 代码来源
 - [clash](https://github.com/Dreamacro/clash)
-- [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest) 
+- [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest)
+- [v2ray-clash](https://v1.v2rayse.com/v2ray-clash) 
 
 
 ### 测速节点来源
