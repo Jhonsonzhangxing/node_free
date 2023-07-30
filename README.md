@@ -64,6 +64,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F
 ## 打赏
 
 #### 微信 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支付宝 
-<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png" width="80px" alt="非常感谢">&nbsp;<img src="https://github.com/sanzhang007/node_free/blob/main/png/alipay.png" width="80px" alt="非常感谢">
+<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png" width="80px" alt="非常感谢">
+<img src="https://github.com/sanzhang007/node_free/blob/main/png/alipay.png" width="80px" alt="非常感谢">
 </br>
 [回到顶部](#readme)
