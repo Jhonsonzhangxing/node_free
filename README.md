@@ -41,7 +41,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_855
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_575
 vmess://eyJhZGQiOiJTaG9waWZ5LmNvbSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4eo8J+HpkNBLfCfh6vwn4e3RlJfMzEiLCJwb3J0IjoyMDg2LCJpZCI6IjI1MGY0MzMxLThjM2UtNGI4Ny1hODZiLTVjNWZiZjlkZGJhOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiRnIuY2xvdWRmbGFyZS5xdWVzdCIsInBhdGgiOiIvYXJpZXMiLCJ0bHMiOiIifQ==
-vmess://eyJhZGQiOiJjYW10bGViYi43Njg5ODEwMi54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4eo8J+HpkNBXzEwMzIiLCJwb3J0IjoyMDk1LCJpZCI6IjBlOGYwODY3LTg1YTAtMzlhZi1hNWViLTM2ODVkMjZmODQxMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiY2FtdGxlYi43Njg5ODEwMi54eXoiLCJwYXRoIjoiL2Z1bnNkZnJoIiwidGxzIjoiIn0=
+vmess://eyJhZGQiOiJjYW10bGViYi43Njg5ODEwMi54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4eo8J+HpkNBXzExMzEiLCJwb3J0IjoyMDk1LCJpZCI6IjBlOGYwODY3LTg1YTAtMzlhZi1hNWViLTM2ODVkMjZmODQxMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiY2FtdGxlYi43Njg5ODEwMi54eXoiLCJwYXRoIjoiL2Z1bnNkZnJoIiwidGxzIjoiIn0=
 
 ```
 
@@ -63,6 +63,7 @@ vmess://eyJhZGQiOiJjYW10bGViYi43Njg5ODEwMi54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+H
 ```
 ## 打赏
 
-#### 微信 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支付宝 
-<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png" width="80px" alt="非常感谢">         <img src="https://github.com/sanzhang007/node_free/blob/main/png/alipay.png" width="80px" alt="非常感谢">
+#### 微信 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&&nbsp;nbsp;支付宝 
+<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png" width="80px" alt="非常感谢"><img src="https://github.com/sanzhang007/node_free/blob/main/png/alipay.png" width="80px" alt="非常感谢">
+
 [回到顶部](#readme)
