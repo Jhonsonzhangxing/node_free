@@ -64,5 +64,5 @@ vmess://eyJhZGQiOiJjYW10bGViYi43Njg5ODEwMi54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+H
 
 ## 打赏
 ### 微信打赏
-<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png",width="50px" alt="非常感谢">
+<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png" width="50px" alt="非常感谢">
 [回到顶部](#readme)
