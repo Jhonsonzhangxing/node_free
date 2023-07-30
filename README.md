@@ -29,7 +29,6 @@ vmess://eyJhZGQiOiJobjAxLmZ1enp5bmcubmV0IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7vwn4ez
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_764
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_847
 vmess://eyJhZGQiOiJobjAxLmZ1enp5bmcubmV0IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7vwn4ezVk4t8J+Hu/Cfh7NWTl85ODUiLCJwb3J0Ijo4MCwiaWQiOiJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsInBhdGgiOiIvZnV6enluZz9lZD0yMDQ4IiwidGxzIjoiIn0=
-vmess://eyJhZGQiOiIzOC42My4wLjg0IiwidiI6IjIiLCJwcyI6IvCfh7rwn4e4VVNfNTkxIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Ind3dy4xOTQ1ODE2Mi54eXoiLCJwYXRoIjoiL3BhdGgvMTY4OTY3MzgyODA3MCIsInRscyI6InRscyJ9
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_889
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_613
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE5LjQwLjc0OjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_938
@@ -42,6 +41,7 @@ vmess://eyJhZGQiOiJTaG9waWZ5LmNvbSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4eo8J+HpkNBLfCf
 vmess://eyJhZGQiOiJjYW10bGViYi43Njg5ODEwMi54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4eo8J+HpkNBXzEwMzIiLCJwb3J0IjoyMDk1LCJpZCI6IjBlOGYwODY3LTg1YTAtMzlhZi1hNWViLTM2ODVkMjZmODQxMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiY2FtdGxlYi43Njg5ODEwMi54eXoiLCJwYXRoIjoiL2Z1bnNkZnJoIiwidGxzIjoiIn0=
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjI4LjIxLjIzNTo0NDM=#_55
 vmess://eyJhZGQiOiJjYW10bGViYi43Njg5ODEwMi54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4eo8J+HpkNBXzExMTIiLCJwb3J0IjoyMDk1LCJpZCI6IjBlOGYwODY3LTg1YTAtMzlhZi1hNWViLTM2ODVkMjZmODQxMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiY2FtdGxlYi43Njg5ODEwMi54eXoiLCJwYXRoIjoiL2Z1bnNkZnJoIiwidGxzIjoiIn0=
+trojan://29f2cf65-f0ee-4a08-83f3-df1beb74d55d@57.128.173.6:443?allowInsecure=1&sni=www.speedtest.net#%F0%9F%87%A7%F0%9F%87%AABE_249
 
 ```
 
@@ -64,5 +64,6 @@ vmess://eyJhZGQiOiJjYW10bGViYi43Njg5ODEwMi54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+H
 
 ## 打赏
 ### 微信打赏
-<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png" width="50px" alt="非常感谢">
+<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png" width="80px" alt="非常感谢">
+
 [回到顶部](#readme)
