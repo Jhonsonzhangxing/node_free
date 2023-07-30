@@ -27,8 +27,8 @@
 
 ## 感谢
 ### 代码来源
-- [clash]("http")
-- [LiteSpeedTest]("") 
+- [clash](https://github.com/Dreamacro/clash)
+- [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest) 
 
 
 ### 测速节点来源
