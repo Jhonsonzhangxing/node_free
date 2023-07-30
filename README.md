@@ -14,7 +14,7 @@
     速度比我付费节点还快(不过部分节点会失效)
 ```
 
-## 展示部分[v2ray](https://github.com/sanzhang007/node_free/blob/main/v2ray.txt)
+## 展示部分[v2ray](https://github.com/sanzhang007/node_free/blob/main/v2ray.txt) <-点击显示更多
 
 ```
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjEzLjQ0LjE4Mzo0NDM=#%F0%9F%87%BA%F0%9F%87%B8US_444
@@ -64,6 +64,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F
 ## 打赏
 
 #### 微信 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支付宝 
-<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png" width="80px" alt="非常感谢">&nbsp;<img src="https://github.com/sanzhang007/node_free/blob/main/png/alipay.png" width="80px" alt="非常感谢">
+<img src="https://github.com/sanzhang007/node_free/blob/main/png/weixin.png" width="80px" alt="非常感谢">&nb<img src="https://github.com/sanzhang007/node_free/blob/main/png/alipay.png" width="80px" alt="非常感谢">
 </br>
 [回到顶部](#readme)
