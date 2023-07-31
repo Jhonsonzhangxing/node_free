@@ -28,6 +28,7 @@ trojan://29f2cf65-f0ee-4a08-83f3-df1beb74d55d@57.128.173.6:443?allowInsecure=1&s
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4wLjE4Mi4yMTg6NDQz#%F0%9F%87%B8%F0%9F%87%ACSG_604
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_748
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_637
+vmess://eyJhZGQiOiJobjAxLmZ1enp5bmcubmV0IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7vwn4ezVk4t8J+Hu/Cfh7NWTl85ODUiLCJwb3J0Ijo4MCwiaWQiOiJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsInBhdGgiOiIvZnV6enluZz9lZD0yMDQ4IiwidGxzIjoiIn0=
 vmess://eyJhZGQiOiJobjAxLmZ1enp5bmcubmV0IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7vwn4ezVk4t8J+Hu/Cfh7NWTl8xMDMxIiwicG9ydCI6ODAsImlkIjoiZWM3Yzk0YjUtNmNhNi00Mjg5LWI0NGItYzY1ODNmMmM1ZjZjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkbC5rZ3ZuLmdhcmVuYW5vdy5jb20iLCJwYXRoIjoiL2Z1enp5bmc/ZWQ9MjA0OCIsInRscyI6IiJ9
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjA3LjgzLjIyMTo0NDM=#%F0%9F%87%AF%F0%9F%87%B5JP_432
 vmess://eyJhZGQiOiJjZmNkbjUuc2FuZmVuY2RuLm5ldCIsInYiOiIyIiwicHMiOiLwn4e68J+HuFVTIiwicG9ydCI6ODAsImlkIjoiMzAwYmYxNDItOTgzMy00ZGZjLWI5YzAtMGRjNWQ5YzE0MGU5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJqcDIuc2FuZmVuY2RuMi5jb20iLCJwYXRoIjoiL3poLWNuIiwidGxzIjoiIn0=
@@ -40,7 +41,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F
 vmess://eyJhZGQiOiIyMy4xMDguMTAwLjEwMSIsInYiOiIyIiwicHMiOiLwn4e68J+HuFVTXzgxMyIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3d3cuNDA1ODczMzMueHl6IiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0=
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjYuMTQ3LjMzOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_594
 vmess://eyJhZGQiOiJTaG9waWZ5LmNvbSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4eo8J+HpkNBLfCfh6vwn4e3RlJfMzEiLCJwb3J0IjoyMDg2LCJpZCI6IjI1MGY0MzMxLThjM2UtNGI4Ny1hODZiLTVjNWZiZjlkZGJhOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiRnIuY2xvdWRmbGFyZS5xdWVzdCIsInBhdGgiOiIvYXJpZXMiLCJ0bHMiOiIifQ==
-vmess://eyJhZGQiOiJqcDUueDg5ODk4OS54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+Hr/Cfh7VKUC3wn4ev8J+HtUpQXzYwNCIsInBvcnQiOjQwMDIwLCJpZCI6ImVkZGU4Y2QyLThlZGItNGZkOC04ZDBjLWEwNDBjYjY0YTY4OCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoianA1Lng4OTg5ODkueHl6IiwicGF0aCI6Ii9hcmlja2UuY29tIiwidGxzIjoidGxzIn0=
 
 ```
 
@@ -66,9 +66,6 @@ clash 已可直接使用 （之前gin模板导入不支持特殊字符，现改�
 ```
 
 ```
-## 统计
-
-[![Stargazers over time](https://starchart.cc/freenodes/freenodes.svg)](https://starchart.cc/freenodes/freenodes)
 
 ## 打赏
 
