@@ -1,0 +1,15 @@
+name: Merge upstream branches
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '0/30 * * * *'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tgymnich/fork-sync@v1.9
+        with:
+          owner: sanzhang007
+          base: main
+          head: main
