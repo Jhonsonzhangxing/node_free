@@ -1,9 +1,9 @@
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-01 01:04:11
+#  创建时间：       2023-08-01 01:07:19
 #  模版：           自定义模版
-#  节点数量：       179
-#  vmess数量：      112
+#  节点数量：       180
+#  vmess数量：      113
 #  trojan数量：     30
 #  ss数量：         34
 #  ssr数量：        3
@@ -61,7 +61,7 @@ dns:
 
 
 proxies:
- - {name: "下载更新时间：2023-08-01 01:04:11", server: 163.123.192.155, port: 443, type: trojan, password: "d31792a4-b843-469f-9185-4a6111ff7612", skip-cert-verify: true}
+ - {name: "下载更新时间：2023-08-01 01:07:19", server: 163.123.192.155, port: 443, type: trojan, password: "d31792a4-b843-469f-9185-4a6111ff7612", skip-cert-verify: true}
  - {name: "🇯🇵JP_426@1", server: 43.207.83.221, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
  - {name: "Relay_🇰🇷KR-🇰🇷KR_485@2", server: 11.v2-ray.cyou, port: 23611, type: vmess, cipher: auto, uuid: f09f3667-6f15-3a4f-b8f5-ce478d759449, tls: false, alterId: 2, network: ws, ws-opts: {path: "/", headers: {Host: ""}}}
  - {name: "🇺🇸US_886@3", server: 35.85.46.131, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
@@ -234,26 +234,212 @@ proxies:
  - {name: "🇺🇸US_648@170", server: 15.204.209.50, port: 80, type: trojan, password: "7ea37e4f-325b-416f-901a-67012367307f", skip-cert-verify: true}
  - {name: "Relay_🇨🇳CN-🇺🇸US_152@171", server: 103.184.44.245, port: 80, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
  - {name: "Relay_🇺🇸US-🇺🇸US_996@172", server: 142.4.109.68, port: 46672, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: tcp}
- - {name: "Relay_🇨🇳CN-🇺🇸US_116@173", server: 103.184.44.164, port: 80, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "Relay_🇨🇦CA-🇨🇦CA_286@174", server: dongtaiwang3.com, port: 443, type: vmess, cipher: auto, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "d.freeh1.xyz"}}}
- - {name: "@175", server: dongtaiwang3.com, port: 443, type: vmess, cipher: auto, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "d.freeh1.xyz"}}}
- - {name: "Relay_🇨🇦CA-🇨🇦CA_274@176", server: dongtaiwang3.com, port: 443, type: vmess, cipher: auto, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "d.freeh1.xyz"}}}
- - {name: "🇨🇦 加拿大 238@177", server: dongtaiwang3.com, port: 443, type: vmess, cipher: auto, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "d.freeh1.xyz"}}}
- - {name: "Relay_🏁ZZ-🇫🇷FR_1121@178", server: cdnjs.com, port: 443, type: vmess, cipher: auto, uuid: 691C16EE-D3A5-4BA6-AE8B-59C12B278D86, tls: false, alterId: 0, network: ws, ws-opts: {path: "/speedtest", headers: {Host: "Amsterdam.kotick.site"}}}
+ - {name: "Relay_🇨🇦CA-🇨🇦CA_267@173", server: dongtaiwang3.com, port: 443, type: vmess, cipher: auto, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "d.freeh1.xyz"}}}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_116@174", server: 103.184.44.164, port: 80, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "Relay_🇨🇦CA-🇨🇦CA_286@175", server: dongtaiwang3.com, port: 443, type: vmess, cipher: auto, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "d.freeh1.xyz"}}}
+ - {name: "@176", server: dongtaiwang3.com, port: 443, type: vmess, cipher: auto, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "d.freeh1.xyz"}}}
+ - {name: "Relay_🇨🇦CA-🇨🇦CA_274@177", server: dongtaiwang3.com, port: 443, type: vmess, cipher: auto, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "d.freeh1.xyz"}}}
+ - {name: "🇨🇦 加拿大 238@178", server: dongtaiwang3.com, port: 443, type: vmess, cipher: auto, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "d.freeh1.xyz"}}}
+ - {name: "Relay_🏁ZZ-🇫🇷FR_1121@179", server: cdnjs.com, port: 443, type: vmess, cipher: auto, uuid: 691C16EE-D3A5-4BA6-AE8B-59C12B278D86, tls: false, alterId: 0, network: ws, ws-opts: {path: "/speedtest", headers: {Host: "Amsterdam.kotick.site"}}}
 
 
 
 proxy-groups:
   - name: 🚀 节点选择
     type: select
-    #interface-name: WLAN
+    interface-name: WLAN
+    proxies:
+      - ♻️ 自动选择
+      - DIRECT
+      - "下载更新时间：2023-08-01 01:07:19"
+      - "🇯🇵JP_426@1"
+      - "Relay_🇰🇷KR-🇰🇷KR_485@2"
+      - "🇺🇸US_886@3"
+      - "Relay_🇺🇸US-🇺🇸US_1130@4"
+      - "🇺🇸 _US_美国@5"
+      - "Relay_🇺🇸US-🇺🇸US_772@6"
+      - "🇰🇷KR_481@7"
+      - "Relay_🇻🇳VN-🇻🇳VN_1092@8"
+      - "🇺🇸US_841@9"
+      - "🇯🇵JP_522@10"
+      - "Pool_🏁ZZ_745@11"
+      - "Pool_🏁ZZ_707@12"
+      - "Relay_🇨🇳CN-🇺🇸US_108@13"
+      - "Relay_🇯🇵JP-🇯🇵JP_690@14"
+      - "🇧🇪BE_265@15"
+      - "Relay_🇨🇳CN-🇺🇸US_95@16"
+      - "Relay_🇺🇸US-🇺🇸US_107@17"
+      - "Relay_🇺🇸US-🇺🇸US_850@18"
+      - "🇯🇵JP_527@19"
+      - "Pool_🏁ZZ_578@20"
+      - "🇺🇸 美国 239@21"
+      - "🇺🇸_US_美国_18@22"
+      - "Relay_🇺🇸US-🇺🇸US_431@23"
+      - "🇺🇸US_449@24"
+      - "🇺🇸US_561@25"
+      - "Relay_🏁ZZ-🇺🇸US_1219@26"
+      - "Relay_🇺🇸US-🇨🇦CA_1022@27"
+      - "Relay_🇹🇼TW-🇹🇼TW_667@28"
+      - "Pool_🏁ZZ_742@29"
+      - "🇯🇵JP_541@30"
+      - "Relay_🇹🇼TW-🇹🇼TW_665@31"
+      - "Relay_🇨🇳CN-🇺🇸US_149@32"
+      - "🇺🇸 US_84@33"
+      - "🇸🇬SG_706@34"
+      - "🇺🇸US@35"
+      - "Relay_🇺🇸US-🇨🇦CA_946@36"
+      - "🇸🇬SG_633@37"
+      - "Relay_🇨🇳CN-🇺🇸US_137@38"
+      - "Pool_🏁ZZ_670@39"
+      - "🇺🇸US_822@40"
+      - "Relay_🇻🇳VN-🇻🇳VN_1020@41"
+      - "Relay_🇯🇵JP-🇯🇵JP_631@42"
+      - "_US_美国@43"
+      - "🇸🇬SG_707@44"
+      - "Relay_🇨🇳CN-🇹🇼TW_102@45"
+      - "Relay_🇺🇸US-🇸🇬SG_515@46"
+      - "Relay_🇺🇸US-🇺🇸US_101@47"
+      - "美国 加利福尼亚州圣何塞PEG TECH@48"
+      - "🇸🇬 _SG_新加坡@49"
+      - "Relay_🏁ZZ-🇸🇬SG_1144@50"
+      - "🇧🇪BE_249@51"
+      - "Pool_🏁ZZ_583@52"
+      - "🇨🇳CN_110@53"
+      - "🇺🇸US_807@54"
+      - "Relay_🇨🇳CN-🇺🇸US_101@55"
+      - "美国 18@56"
+      - "Relay_🇹🇼TW-🇹🇼TW_671@57"
+      - "Relay_🇨🇦CA-🇳🇱NL_40@58"
+      - "Relay_🇺🇸US-🇺🇸US_831@59"
+      - "🇸🇬 _SG_新加坡@60"
+      - "🇺🇸US_789@61"
+      - "Pool_🏁ZZ_621@62"
+      - "🇺🇸US_750@63"
+      - "🇺🇸 美国 351@64"
+      - "🇺🇸 美国 351@65"
+      - "🇺🇸US@66"
+      - "🇯🇵JP_621@67"
+      - "🇺🇸US_1058@68"
+      - "🇯🇵JP_548@69"
+      - "Relay_🇨🇳CN-🇺🇸US_127@70"
+      - "🇺🇸 _US_美国@71"
+      - "🇪🇸ES_198@72"
+      - "🇭🇰HK_391@73"
+      - "Relay_🇺🇸US-🇺🇸US_1313@74"
+      - "Relay_🇨🇳CN-🇭🇰HK_111@75"
+      - "Relay_🇨🇳CN-🇺🇸US_97@76"
+      - "_75@77"
+      - "🇯🇵JP_465@78"
+      - "Relay_🇹🇼TW-🇹🇼TW_673@79"
+      - "Relay_🇨🇳CN-🇺🇸US_128@80"
+      - "🇯🇵JP_479@81"
+      - "Relay_🇺🇸US-🇺🇸US_996@82"
+      - "Relay_🇺🇸US-🇨🇦CA_955@83"
+      - "🇯🇵JP_408@84"
+      - "Relay_🇨🇳CN-🇺🇸US_118@85"
+      - "Relay_🏁ZZ-🇨🇦CA_1289@86"
+      - "Relay_🇺🇸US-🇺🇸US_501@87"
+      - "Relay_🇨🇳CN-🇺🇸US_62@88"
+      - "🇻🇳VN_1248@89"
+      - "Relay_🇨🇳CN-🇺🇸US_73@90"
+      - "Relay_🇨🇳CN-🇺🇸US_60@91"
+      - "🇷🇺RU_386@92"
+      - "🇨🇳CN_116@93"
+      - "🇯🇵JP_531@94"
+      - "🇺🇸US_847@95"
+      - "🇸🇬&#43;_SG_新加坡&#43;3@96"
+      - "🇯🇵JP_517@97"
+      - "Relay_🇨🇳CN-🇺🇸US_140@98"
+      - "🇸🇬SG_636@99"
+      - "🇪🇸ES_197@100"
+      - "_US_美国&#43;20@101"
+      - "Relay_🇨🇳CN-🇯🇵JP_112@102"
+      - "Relay_🇨🇳CN-🇹🇼TW_106@103"
+      - "Relay_🏁ZZ-🇸🇬SG_1154@104"
+      - "🇺🇸US_1067@105"
+      - "🇯🇵JP_433@106"
+      - "🇺🇸US_1064@107"
+      - "Relay_🇺🇸US-🇺🇸US_143@108"
+      - "🇺🇸_US_美国_1_1@0@109"
+      - "🇷🇺RU_412@110"
+      - "美国CloudFlare节点 13@111"
+      - "Relay_🇭🇰HK-🇭🇰HK_374@112"
+      - "Relay_🇭🇰HK-🇭🇰HK_369@113"
+      - "_74@114"
+      - "Relay_🇫🇷FR-🇳🇱NL_290@115"
+      - "Relay_🇭🇰HK-🇭🇰HK_372@116"
+      - "Relay_🇺🇸US-🇺🇸US_58@117"
+      - "🇺🇸 _CN_中国-&gt;🇺🇸_US_美国@118"
+      - "Relay_🇰🇷KR-🇧🇷BR_633@119"
+      - "🇺🇸_US_美国@120"
+      - "🇺🇸 _US_美国@121"
+      - "香港 特别行政区@122"
+      - "Relay_🇨🇳CN-🇺🇸US_72@123"
+      - "Relay_🇺🇸US-🇩🇪DE_866@124"
+      - "Relay_🇺🇸US-🇦🇪AE_902@125"
+      - "Relay_🇹🇼TW-🇹🇼TW_670@126"
+      - "Relay_🇨🇳CN-🇺🇸US_86@127"
+      - "Relay_🏁ZZ-🇿🇦ZA_1193@128"
+      - "Relay_🇨🇳CN-🇺🇸US_42@129"
+      - "_73@130"
+      - "🇺🇸US_791@131"
+      - "Relay_🇹🇼TW-🇹🇼TW_668@132"
+      - "Relay_🏁ZZ-🇺🇸US_1186@133"
+      - "Relay_🇹🇼TW-🇹🇼TW_672@134"
+      - "🇺🇸US_1059@135"
+      - "Relay_-🇯🇵JP_184@136"
+      - "美国 CloudFlare节点@137"
+      - "🇺🇸 _CN_中国-&gt;🇺🇸_US_美国@138"
+      - "Relay_🇺🇸US-🇯🇵JP_882@139"
+      - "Relay_🇺🇸US-🇨🇦CA_1001@140"
+      - "🇰🇷KR_594@141"
+      - "Relay_🏁ZZ-🇳🇱NL_1206@142"
+      - "Relay_🇺🇸US-🇺🇸US_1167@143"
+      - "Relay_🇰🇷KR-🇧🇷BR_483@144"
+      - "Relay_🇮🇱IL-🇮🇱IL_472@145"
+      - "Relay_🇭🇰HK-🇭🇰HK_370@146"
+      - "Relay_🇨🇳CN-🇭🇰HK_105@147"
+      - "🇺🇸 _CN_中国-&gt;🇺🇸_US_美国 2@148"
+      - "🇯🇵JP_531@149"
+      - "🇺🇸 _US_美国-&gt;🇳🇱_NL_荷兰@150"
+      - "Relay_🇺🇸US-🇺🇸US_927@151"
+      - "_25 | 7.12Mb@152"
+      - "Relay_🏁ZZ-🇦🇪AE_1212@153"
+      - "Relay_🇪🇸ES-🇪🇸ES_319@154"
+      - "Relay_🇺🇸US-🇺🇸US_1095@155"
+      - "🇺🇸US_942@156"
+      - "_238@157"
+      - "Relay_🇪🇸ES-🇪🇸ES_265@158"
+      - "Relay_🇨🇳CN-🇺🇸US_61@159"
+      - "Relay_🇺🇸US-🇺🇸US_884@160"
+      - "Relay_🇰🇷KR-🇧🇷BR_507@161"
+      - "🇺🇸US_1060@162"
+      - "美国CloudFlare节点 21@163"
+      - "Relay_🇨🇳CN-🇭🇰HK_113@164"
+      - "Relay_🏁ZZ-🇺🇸US_1235@165"
+      - "Relay_🇺🇸US-🇺🇸US_979@166"
+      - "Relay_🇺🇸US-🇺🇸US_1061@167"
+      - "Relay_🏁ZZ-🇺🇸US_1040@168"
+      - "🇨🇳CN_274@169"
+      - "🇺🇸US_648@170"
+      - "Relay_🇨🇳CN-🇺🇸US_152@171"
+      - "Relay_🇺🇸US-🇺🇸US_996@172"
+      - "Relay_🇨🇦CA-🇨🇦CA_267@173"
+      - "Relay_🇨🇳CN-🇺🇸US_116@174"
+      - "Relay_🇨🇦CA-🇨🇦CA_286@175"
+      - "@176"
+      - "Relay_🇨🇦CA-🇨🇦CA_274@177"
+      - "🇨🇦 加拿大 238@178"
+      - "Relay_🏁ZZ-🇫🇷FR_1121@179"
+
   - name: ♻️ 自动选择
     type: url-test
+    interface-name: WLAN
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - "下载更新时间：2023-08-01 01:04:11"
+      - "下载更新时间：2023-08-01 01:07:19"
       - "🇯🇵JP_426@1"
       - "Relay_🇰🇷KR-🇰🇷KR_485@2"
       - "🇺🇸US_886@3"
@@ -426,20 +612,22 @@ proxy-groups:
       - "🇺🇸US_648@170"
       - "Relay_🇨🇳CN-🇺🇸US_152@171"
       - "Relay_🇺🇸US-🇺🇸US_996@172"
-      - "Relay_🇨🇳CN-🇺🇸US_116@173"
-      - "Relay_🇨🇦CA-🇨🇦CA_286@174"
-      - "@175"
-      - "Relay_🇨🇦CA-🇨🇦CA_274@176"
-      - "🇨🇦 加拿大 238@177"
-      - "Relay_🏁ZZ-🇫🇷FR_1121@178"
+      - "Relay_🇨🇦CA-🇨🇦CA_267@173"
+      - "Relay_🇨🇳CN-🇺🇸US_116@174"
+      - "Relay_🇨🇦CA-🇨🇦CA_286@175"
+      - "@176"
+      - "Relay_🇨🇦CA-🇨🇦CA_274@177"
+      - "🇨🇦 加拿大 238@178"
+      - "Relay_🏁ZZ-🇫🇷FR_1121@179"
 
   - name: 🌍 国外媒体
     type: select
+    interface-name: WLAN
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-01 01:04:11"
+      - "下载更新时间：2023-08-01 01:07:19"
       - "🇯🇵JP_426@1"
       - "Relay_🇰🇷KR-🇰🇷KR_485@2"
       - "🇺🇸US_886@3"
@@ -612,19 +800,21 @@ proxy-groups:
       - "🇺🇸US_648@170"
       - "Relay_🇨🇳CN-🇺🇸US_152@171"
       - "Relay_🇺🇸US-🇺🇸US_996@172"
-      - "Relay_🇨🇳CN-🇺🇸US_116@173"
-      - "Relay_🇨🇦CA-🇨🇦CA_286@174"
-      - "@175"
-      - "Relay_🇨🇦CA-🇨🇦CA_274@176"
-      - "🇨🇦 加拿大 238@177"
-      - "Relay_🏁ZZ-🇫🇷FR_1121@178"
+      - "Relay_🇨🇦CA-🇨🇦CA_267@173"
+      - "Relay_🇨🇳CN-🇺🇸US_116@174"
+      - "Relay_🇨🇦CA-🇨🇦CA_286@175"
+      - "@176"
+      - "Relay_🇨🇦CA-🇨🇦CA_274@177"
+      - "🇨🇦 加拿大 238@178"
+      - "Relay_🏁ZZ-🇫🇷FR_1121@179"
 
   - name: 📲 电报信息
     type: select
+    interface-name: WLAN
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-01 01:04:11"
+      - "下载更新时间：2023-08-01 01:07:19"
       - "🇯🇵JP_426@1"
       - "Relay_🇰🇷KR-🇰🇷KR_485@2"
       - "🇺🇸US_886@3"
@@ -797,19 +987,21 @@ proxy-groups:
       - "🇺🇸US_648@170"
       - "Relay_🇨🇳CN-🇺🇸US_152@171"
       - "Relay_🇺🇸US-🇺🇸US_996@172"
-      - "Relay_🇨🇳CN-🇺🇸US_116@173"
-      - "Relay_🇨🇦CA-🇨🇦CA_286@174"
-      - "@175"
-      - "Relay_🇨🇦CA-🇨🇦CA_274@176"
-      - "🇨🇦 加拿大 238@177"
-      - "Relay_🏁ZZ-🇫🇷FR_1121@178"
+      - "Relay_🇨🇦CA-🇨🇦CA_267@173"
+      - "Relay_🇨🇳CN-🇺🇸US_116@174"
+      - "Relay_🇨🇦CA-🇨🇦CA_286@175"
+      - "@176"
+      - "Relay_🇨🇦CA-🇨🇦CA_274@177"
+      - "🇨🇦 加拿大 238@178"
+      - "Relay_🏁ZZ-🇫🇷FR_1121@179"
 
   - name: Ⓜ️ 微软服务
     type: select
+    interface-name: WLAN
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "下载更新时间：2023-08-01 01:04:11"
+      - "下载更新时间：2023-08-01 01:07:19"
       - "🇯🇵JP_426@1"
       - "Relay_🇰🇷KR-🇰🇷KR_485@2"
       - "🇺🇸US_886@3"
@@ -982,19 +1174,21 @@ proxy-groups:
       - "🇺🇸US_648@170"
       - "Relay_🇨🇳CN-🇺🇸US_152@171"
       - "Relay_🇺🇸US-🇺🇸US_996@172"
-      - "Relay_🇨🇳CN-🇺🇸US_116@173"
-      - "Relay_🇨🇦CA-🇨🇦CA_286@174"
-      - "@175"
-      - "Relay_🇨🇦CA-🇨🇦CA_274@176"
-      - "🇨🇦 加拿大 238@177"
-      - "Relay_🏁ZZ-🇫🇷FR_1121@178"
+      - "Relay_🇨🇦CA-🇨🇦CA_267@173"
+      - "Relay_🇨🇳CN-🇺🇸US_116@174"
+      - "Relay_🇨🇦CA-🇨🇦CA_286@175"
+      - "@176"
+      - "Relay_🇨🇦CA-🇨🇦CA_274@177"
+      - "🇨🇦 加拿大 238@178"
+      - "Relay_🏁ZZ-🇫🇷FR_1121@179"
 
   - name: 🍎 苹果服务
     type: select
+    interface-name: WLAN
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-01 01:04:11"
+      - "下载更新时间：2023-08-01 01:07:19"
       - "🇯🇵JP_426@1"
       - "Relay_🇰🇷KR-🇰🇷KR_485@2"
       - "🇺🇸US_886@3"
@@ -1167,36 +1361,41 @@ proxy-groups:
       - "🇺🇸US_648@170"
       - "Relay_🇨🇳CN-🇺🇸US_152@171"
       - "Relay_🇺🇸US-🇺🇸US_996@172"
-      - "Relay_🇨🇳CN-🇺🇸US_116@173"
-      - "Relay_🇨🇦CA-🇨🇦CA_286@174"
-      - "@175"
-      - "Relay_🇨🇦CA-🇨🇦CA_274@176"
-      - "🇨🇦 加拿大 238@177"
-      - "Relay_🏁ZZ-🇫🇷FR_1121@178"
+      - "Relay_🇨🇦CA-🇨🇦CA_267@173"
+      - "Relay_🇨🇳CN-🇺🇸US_116@174"
+      - "Relay_🇨🇦CA-🇨🇦CA_286@175"
+      - "@176"
+      - "Relay_🇨🇦CA-🇨🇦CA_274@177"
+      - "🇨🇦 加拿大 238@178"
+      - "Relay_🏁ZZ-🇫🇷FR_1121@179"
 
   - name: 🎯 全球直连
     type: select
+    interface-name: WLAN
     proxies:
       - DIRECT
       - 🚀 节点选择
       - ♻️ 自动选择
   - name: 🛑 全球拦截
     type: select
+    interface-name: WLAN
     proxies:
       - REJECT
       - DIRECT
   - name: 🍃 应用净化
     type: select
+    interface-name: WLAN
     proxies:
       - REJECT
       - DIRECT
   - name: 🐟 漏网之鱼
     type: select
+    interface-name: WLAN
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "下载更新时间：2023-08-01 01:04:11"
+      - "下载更新时间：2023-08-01 01:07:19"
       - "🇯🇵JP_426@1"
       - "Relay_🇰🇷KR-🇰🇷KR_485@2"
       - "🇺🇸US_886@3"
@@ -1369,12 +1568,13 @@ proxy-groups:
       - "🇺🇸US_648@170"
       - "Relay_🇨🇳CN-🇺🇸US_152@171"
       - "Relay_🇺🇸US-🇺🇸US_996@172"
-      - "Relay_🇨🇳CN-🇺🇸US_116@173"
-      - "Relay_🇨🇦CA-🇨🇦CA_286@174"
-      - "@175"
-      - "Relay_🇨🇦CA-🇨🇦CA_274@176"
-      - "🇨🇦 加拿大 238@177"
-      - "Relay_🏁ZZ-🇫🇷FR_1121@178"
+      - "Relay_🇨🇦CA-🇨🇦CA_267@173"
+      - "Relay_🇨🇳CN-🇺🇸US_116@174"
+      - "Relay_🇨🇦CA-🇨🇦CA_286@175"
+      - "@176"
+      - "Relay_🇨🇦CA-🇨🇦CA_274@177"
+      - "🇨🇦 加拿大 238@178"
+      - "Relay_🏁ZZ-🇫🇷FR_1121@179"
 
 
 rules:
@@ -4731,13 +4931,12 @@ rules:
   - IP-CIDR,101.199.196.0/22,🎯 全球直连,no-resolve
   - GEOIP,CN,🎯 全球直连
   - MATCH,🐟 漏网之鱼
-
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-01 01:04:11
+#  创建时间：       2023-08-01 01:07:19
 #  模版：           自定义模版
-#  节点数量：       179
-#  vmess数量：      112
+#  节点数量：       180
+#  vmess数量：      113
 #  trojan数量：     30
 #  ss数量：         34
 #  ssr数量：        3
