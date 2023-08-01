@@ -11,6 +11,7 @@
 ```
     节点全部来自互联网
     速度比我付费节点还快(不过极少数节点会失效)
+    有任何问题都可以反馈
 ```
 
 ## 展示部分[v2ray](https://github.com/sanzhang007/node_free/blob/main/v2ray.txt) <-点击显示更多
