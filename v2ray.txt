@@ -2986,6 +2986,8 @@ vmess://eyJhZGQiOiIxMjAuMjMzLjQzLjYyIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuNjQuMjMwLjE1NTo0NDM=#%F0%9F%87%AF%F0%9F%87%B5JP_595
 ####Ping: 606	AvgSpeed: 1.54MB	MaxSpeed: 2.73MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/08/01 21:12	UpdateTime: 2023/08/02 03:28	FailCount: 0
 vmess://eyJhZGQiOiJqZC5zaGFiaWppY2hhbmcuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4es8J+Hp0dCXzEyNTYiLCJwb3J0Ijo4MCwiaWQiOiIzOTYwZjUyMy1kZjk1LTRjZTUtOWNjMy1lM2VmYjY1NDQ0ZGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImpkLnNoYWJpamljaGFuZy5jb20iLCJwYXRoIjoiLyIsInRscyI6IiJ9
+####Ping: 376	AvgSpeed: 1.54MB	MaxSpeed: 2.54MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/07/31 21:54	UpdateTime: 2023/08/02 07:44	FailCount: 0
+vmess://eyJhZGQiOiJtY2kuaXJjZi5zcGFjZSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4e68J+HuFVTLfCfh7rwn4e4VVNfNDk4IiwicG9ydCI6NDQzLCJpZCI6Ijc5NzcwYTMyLTk2MDctNDkxOS05NDgzLTBmMTc5NDU1OTM5MCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoibmlrYTNoZGZ5Mi5mb3JpcmFuLnRyYWRlIiwicGF0aCI6Ii9qdVlMeXZOQnBZMExCT0FvbW15MmFKRSIsInRscyI6InRscyJ9
 ####Ping: 287	AvgSpeed: 1.54MB	MaxSpeed: 2.31MB	SourceUrl: https://wanshanziwo.eu.org/vmess/sub	CreateTime: 2023/07/31 17:03	UpdateTime: 2023/08/02 07:10	FailCount: 1
 vmess://eyJhZGQiOiJhc2Iuc2hhYmlqaWNoYW5nLmNvbSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4e68J+HuFVTLfCfh7rwn4e4VVNfOTg2IiwicG9ydCI6ODAsImlkIjoiNzRhZDMyODMtYTQ3Ny00YzA1LTgzYjgtYTczZTBmNGNmNTRlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
 ####Ping: 909	AvgSpeed: 1.54MB	MaxSpeed: 3.03MB	SourceUrl: https://free.iam7.tk/vmess/sub	CreateTime: 2023/08/01 21:12	UpdateTime: 2023/08/02 02:58	FailCount: 0
