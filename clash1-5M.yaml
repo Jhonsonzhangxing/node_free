@@ -1,11 +1,11 @@
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-07 22:01:01
+#  创建时间：       2023-08-07 23:01:01
 #  模版：           自定义模版
-#  节点数量：       15
-#  vmess数量：      4
-#  trojan数量：     7
-#  ss数量：         4
+#  节点数量：       12
+#  vmess数量：      2
+#  trojan数量：     4
+#  ss数量：         6
 #  ssr数量：        0
 #-------------------------------------------------------------#
 port: 7890
@@ -61,21 +61,18 @@ dns:
 
 
 proxies:
- - {name: "下载更新时间：2023-08-07 22:01:01", server: tr.mjt001.com, port: 443, type: trojan, password: "366c34f3-cc1a-428e-94ac-a5d9c99eef70", skip-cert-verify: false}
- - {name: "Relay_🇯🇵JP-🇵🇹PT_550@1", server: pt.mjt001.com, port: 443, type: trojan, password: "366c34f3-cc1a-428e-94ac-a5d9c99eef70", skip-cert-verify: false}
- - {name: "Relay_🏁ZZ-🇨🇦CA_1370@2", server: camtlebb.76898102.xyz, port: 2095, type: vmess, cipher: auto, uuid: 2c872268-dc65-31cd-afa1-feae910c37b7, tls: false, alterId: 0, network: ws, ws-opts: {path: "/funsdfrh", headers: {Host: "camtleb.76898102.xyz"}}}
- - {name: "🇺🇸US_1618@3", server: 35.166.89.59, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "Relay_🇺🇸US-🇫🇷FR_1125@4", server: frsadubidd.76898102.xyz, port: 2095, type: vmess, cipher: auto, uuid: 2c872268-dc65-31cd-afa1-feae910c37b7, tls: false, alterId: 0, network: ws, ws-opts: {path: "/funsdfrh", headers: {Host: "frsadubid.76898102.xyz"}}}
- - {name: "Relay_🇺🇸US-🇮🇳IN_1100@5", server: ydarm.e5outllok.me, port: 80, type: vmess, cipher: auto, uuid: 4ab886c7-e6e2-44af-b0e9-a2fdc81bf004, tls: false, alterId: 0, network: ws, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "🇺🇸US_1136@6", server: 54.91.252.136, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "_126@7", server: 221.150.109.6, port: 2003, type: ss, password: "qwerREWQ%40%40", cipher: aes-256-cfb}
- - {name: "Relay_🏁ZZ-🇧🇷BR_1364@8", server: hzefss.66666654.xyz, port: 2095, type: vmess, cipher: auto, uuid: 2c872268-dc65-31cd-afa1-feae910c37b7, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "hzefs.66666654.xyz"}}}
- - {name: "_118@9", server: 221.150.109.5, port: 9555, type: ss, password: "qwerREWQ%40%40", cipher: aes-256-cfb}
- - {name: "Relay_-🇺🇸US_105@10", server: series-g1.samanehha.co, port: 443, type: ss, password: "sgjJsZJHLlhmdvUk", cipher: chacha20-ietf-poly1305}
- - {name: "🇨🇦CA_38@11", server: 3.96.137.160, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "🇺🇸US_1131@12", server: 3.92.237.68, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "🇸🇬SG_584@13", server: 13.229.240.227, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
- - {name: "🇺🇸US_1350@14", server: 18.117.158.85, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
+ - {name: "下载更新时间：2023-08-07 23:01:01", server: 52.26.147.33, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "Relay_🇨🇳CN-🇸🇬SG_49@1", server: pinsg.cu.edu.kg, port: 10126, type: ss, password: "9ba99e47-307b-4420-b3d8-ddd76b349c38", cipher: chacha20-ietf-poly1305}
+ - {name: "Relay_🇯🇵JP-🇹🇷TR_547@2", server: tr.mjt001.com, port: 443, type: trojan, password: "366c34f3-cc1a-428e-94ac-a5d9c99eef70", skip-cert-verify: false}
+ - {name: "Relay_🇯🇵JP-🇵🇹PT_550@3", server: pt.mjt001.com, port: 443, type: trojan, password: "366c34f3-cc1a-428e-94ac-a5d9c99eef70", skip-cert-verify: false}
+ - {name: "🇯🇵JP_473@4", server: 18.179.118.255, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "🇺🇸US_1618@5", server: 35.166.89.59, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
+ - {name: "🇰🇷KR_558@6", server: 43.200.6.21, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "Relay_-🇺🇸US_105@7", server: series-g1.samanehha.co, port: 443, type: ss, password: "sgjJsZJHLlhmdvUk", cipher: chacha20-ietf-poly1305}
+ - {name: "Relay_🇨🇳CN-🇬🇧GB_214@8", server: 120.226.50.89, port: 47009, type: vmess, cipher: auto, uuid: 83a424d8-4bcb-4cee-b016-2c8f1db4a921, tls: false, alterId: 1, network: tcp}
+ - {name: "Relay_🇺🇸US-🇩🇪DE_1290@9", server: 141.193.213.21, port: 80, type: vmess, cipher: auto, uuid: 9b7281c2-d1ea-4d00-acfe-9301c217f515, tls: false, alterId: 0, network: ws, ws-opts: {path: "/vmess", headers: {Host: "fast-gvm.mr-radwan-daoud.de"}}}
+ - {name: "_118@10", server: 221.150.109.5, port: 9555, type: ss, password: "qwerREWQ%40%40", cipher: aes-256-cfb}
+ - {name: "🇺🇸US_1131@11", server: 3.92.237.68, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
 
 
 proxy-groups:
@@ -85,21 +82,18 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "下载更新时间：2023-08-07 22:01:01"
-      - "Relay_🇯🇵JP-🇵🇹PT_550@1"
-      - "Relay_🏁ZZ-🇨🇦CA_1370@2"
-      - "🇺🇸US_1618@3"
-      - "Relay_🇺🇸US-🇫🇷FR_1125@4"
-      - "Relay_🇺🇸US-🇮🇳IN_1100@5"
-      - "🇺🇸US_1136@6"
-      - "_126@7"
-      - "Relay_🏁ZZ-🇧🇷BR_1364@8"
-      - "_118@9"
-      - "Relay_-🇺🇸US_105@10"
-      - "🇨🇦CA_38@11"
-      - "🇺🇸US_1131@12"
-      - "🇸🇬SG_584@13"
-      - "🇺🇸US_1350@14"
+      - "下载更新时间：2023-08-07 23:01:01"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@1"
+      - "Relay_🇯🇵JP-🇹🇷TR_547@2"
+      - "Relay_🇯🇵JP-🇵🇹PT_550@3"
+      - "🇯🇵JP_473@4"
+      - "🇺🇸US_1618@5"
+      - "🇰🇷KR_558@6"
+      - "Relay_-🇺🇸US_105@7"
+      - "Relay_🇨🇳CN-🇬🇧GB_214@8"
+      - "Relay_🇺🇸US-🇩🇪DE_1290@9"
+      - "_118@10"
+      - "🇺🇸US_1131@11"
 
   - name: ♻️ 自动选择
     type: url-test
@@ -108,21 +102,18 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - "下载更新时间：2023-08-07 22:01:01"
-      - "Relay_🇯🇵JP-🇵🇹PT_550@1"
-      - "Relay_🏁ZZ-🇨🇦CA_1370@2"
-      - "🇺🇸US_1618@3"
-      - "Relay_🇺🇸US-🇫🇷FR_1125@4"
-      - "Relay_🇺🇸US-🇮🇳IN_1100@5"
-      - "🇺🇸US_1136@6"
-      - "_126@7"
-      - "Relay_🏁ZZ-🇧🇷BR_1364@8"
-      - "_118@9"
-      - "Relay_-🇺🇸US_105@10"
-      - "🇨🇦CA_38@11"
-      - "🇺🇸US_1131@12"
-      - "🇸🇬SG_584@13"
-      - "🇺🇸US_1350@14"
+      - "下载更新时间：2023-08-07 23:01:01"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@1"
+      - "Relay_🇯🇵JP-🇹🇷TR_547@2"
+      - "Relay_🇯🇵JP-🇵🇹PT_550@3"
+      - "🇯🇵JP_473@4"
+      - "🇺🇸US_1618@5"
+      - "🇰🇷KR_558@6"
+      - "Relay_-🇺🇸US_105@7"
+      - "Relay_🇨🇳CN-🇬🇧GB_214@8"
+      - "Relay_🇺🇸US-🇩🇪DE_1290@9"
+      - "_118@10"
+      - "🇺🇸US_1131@11"
 
   - name: 🌍 国外媒体
     type: select
@@ -131,21 +122,18 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-07 22:01:01"
-      - "Relay_🇯🇵JP-🇵🇹PT_550@1"
-      - "Relay_🏁ZZ-🇨🇦CA_1370@2"
-      - "🇺🇸US_1618@3"
-      - "Relay_🇺🇸US-🇫🇷FR_1125@4"
-      - "Relay_🇺🇸US-🇮🇳IN_1100@5"
-      - "🇺🇸US_1136@6"
-      - "_126@7"
-      - "Relay_🏁ZZ-🇧🇷BR_1364@8"
-      - "_118@9"
-      - "Relay_-🇺🇸US_105@10"
-      - "🇨🇦CA_38@11"
-      - "🇺🇸US_1131@12"
-      - "🇸🇬SG_584@13"
-      - "🇺🇸US_1350@14"
+      - "下载更新时间：2023-08-07 23:01:01"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@1"
+      - "Relay_🇯🇵JP-🇹🇷TR_547@2"
+      - "Relay_🇯🇵JP-🇵🇹PT_550@3"
+      - "🇯🇵JP_473@4"
+      - "🇺🇸US_1618@5"
+      - "🇰🇷KR_558@6"
+      - "Relay_-🇺🇸US_105@7"
+      - "Relay_🇨🇳CN-🇬🇧GB_214@8"
+      - "Relay_🇺🇸US-🇩🇪DE_1290@9"
+      - "_118@10"
+      - "🇺🇸US_1131@11"
 
   - name: 📲 电报信息
     type: select
@@ -153,21 +141,18 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-07 22:01:01"
-      - "Relay_🇯🇵JP-🇵🇹PT_550@1"
-      - "Relay_🏁ZZ-🇨🇦CA_1370@2"
-      - "🇺🇸US_1618@3"
-      - "Relay_🇺🇸US-🇫🇷FR_1125@4"
-      - "Relay_🇺🇸US-🇮🇳IN_1100@5"
-      - "🇺🇸US_1136@6"
-      - "_126@7"
-      - "Relay_🏁ZZ-🇧🇷BR_1364@8"
-      - "_118@9"
-      - "Relay_-🇺🇸US_105@10"
-      - "🇨🇦CA_38@11"
-      - "🇺🇸US_1131@12"
-      - "🇸🇬SG_584@13"
-      - "🇺🇸US_1350@14"
+      - "下载更新时间：2023-08-07 23:01:01"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@1"
+      - "Relay_🇯🇵JP-🇹🇷TR_547@2"
+      - "Relay_🇯🇵JP-🇵🇹PT_550@3"
+      - "🇯🇵JP_473@4"
+      - "🇺🇸US_1618@5"
+      - "🇰🇷KR_558@6"
+      - "Relay_-🇺🇸US_105@7"
+      - "Relay_🇨🇳CN-🇬🇧GB_214@8"
+      - "Relay_🇺🇸US-🇩🇪DE_1290@9"
+      - "_118@10"
+      - "🇺🇸US_1131@11"
 
   - name: Ⓜ️ 微软服务
     type: select
@@ -175,21 +160,18 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "下载更新时间：2023-08-07 22:01:01"
-      - "Relay_🇯🇵JP-🇵🇹PT_550@1"
-      - "Relay_🏁ZZ-🇨🇦CA_1370@2"
-      - "🇺🇸US_1618@3"
-      - "Relay_🇺🇸US-🇫🇷FR_1125@4"
-      - "Relay_🇺🇸US-🇮🇳IN_1100@5"
-      - "🇺🇸US_1136@6"
-      - "_126@7"
-      - "Relay_🏁ZZ-🇧🇷BR_1364@8"
-      - "_118@9"
-      - "Relay_-🇺🇸US_105@10"
-      - "🇨🇦CA_38@11"
-      - "🇺🇸US_1131@12"
-      - "🇸🇬SG_584@13"
-      - "🇺🇸US_1350@14"
+      - "下载更新时间：2023-08-07 23:01:01"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@1"
+      - "Relay_🇯🇵JP-🇹🇷TR_547@2"
+      - "Relay_🇯🇵JP-🇵🇹PT_550@3"
+      - "🇯🇵JP_473@4"
+      - "🇺🇸US_1618@5"
+      - "🇰🇷KR_558@6"
+      - "Relay_-🇺🇸US_105@7"
+      - "Relay_🇨🇳CN-🇬🇧GB_214@8"
+      - "Relay_🇺🇸US-🇩🇪DE_1290@9"
+      - "_118@10"
+      - "🇺🇸US_1131@11"
 
   - name: 🍎 苹果服务
     type: select
@@ -197,21 +179,18 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-07 22:01:01"
-      - "Relay_🇯🇵JP-🇵🇹PT_550@1"
-      - "Relay_🏁ZZ-🇨🇦CA_1370@2"
-      - "🇺🇸US_1618@3"
-      - "Relay_🇺🇸US-🇫🇷FR_1125@4"
-      - "Relay_🇺🇸US-🇮🇳IN_1100@5"
-      - "🇺🇸US_1136@6"
-      - "_126@7"
-      - "Relay_🏁ZZ-🇧🇷BR_1364@8"
-      - "_118@9"
-      - "Relay_-🇺🇸US_105@10"
-      - "🇨🇦CA_38@11"
-      - "🇺🇸US_1131@12"
-      - "🇸🇬SG_584@13"
-      - "🇺🇸US_1350@14"
+      - "下载更新时间：2023-08-07 23:01:01"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@1"
+      - "Relay_🇯🇵JP-🇹🇷TR_547@2"
+      - "Relay_🇯🇵JP-🇵🇹PT_550@3"
+      - "🇯🇵JP_473@4"
+      - "🇺🇸US_1618@5"
+      - "🇰🇷KR_558@6"
+      - "Relay_-🇺🇸US_105@7"
+      - "Relay_🇨🇳CN-🇬🇧GB_214@8"
+      - "Relay_🇺🇸US-🇩🇪DE_1290@9"
+      - "_118@10"
+      - "🇺🇸US_1131@11"
 
   - name: 🎯 全球直连
     type: select
@@ -239,21 +218,18 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "下载更新时间：2023-08-07 22:01:01"
-      - "Relay_🇯🇵JP-🇵🇹PT_550@1"
-      - "Relay_🏁ZZ-🇨🇦CA_1370@2"
-      - "🇺🇸US_1618@3"
-      - "Relay_🇺🇸US-🇫🇷FR_1125@4"
-      - "Relay_🇺🇸US-🇮🇳IN_1100@5"
-      - "🇺🇸US_1136@6"
-      - "_126@7"
-      - "Relay_🏁ZZ-🇧🇷BR_1364@8"
-      - "_118@9"
-      - "Relay_-🇺🇸US_105@10"
-      - "🇨🇦CA_38@11"
-      - "🇺🇸US_1131@12"
-      - "🇸🇬SG_584@13"
-      - "🇺🇸US_1350@14"
+      - "下载更新时间：2023-08-07 23:01:01"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@1"
+      - "Relay_🇯🇵JP-🇹🇷TR_547@2"
+      - "Relay_🇯🇵JP-🇵🇹PT_550@3"
+      - "🇯🇵JP_473@4"
+      - "🇺🇸US_1618@5"
+      - "🇰🇷KR_558@6"
+      - "Relay_-🇺🇸US_105@7"
+      - "Relay_🇨🇳CN-🇬🇧GB_214@8"
+      - "Relay_🇺🇸US-🇩🇪DE_1290@9"
+      - "_118@10"
+      - "🇺🇸US_1131@11"
 
 
 rules:
@@ -3612,11 +3588,11 @@ rules:
   - MATCH,🐟 漏网之鱼
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-07 22:01:01
+#  创建时间：       2023-08-07 23:01:01
 #  模版：           自定义模版
-#  节点数量：       15
-#  vmess数量：      4
-#  trojan数量：     7
-#  ss数量：         4
+#  节点数量：       12
+#  vmess数量：      2
+#  trojan数量：     4
+#  ss数量：         6
 #  ssr数量：        0
 #-------------------------------------------------------------#
