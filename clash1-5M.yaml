@@ -1,11 +1,11 @@
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-07 19:12:44
+#  创建时间：       2023-08-07 19:46:00
 #  模版：           自定义模版
-#  节点数量：       26
-#  vmess数量：      11
-#  trojan数量：     10
-#  ss数量：         5
+#  节点数量：       95
+#  vmess数量：      51
+#  trojan数量：     31
+#  ss数量：         13
 #  ssr数量：        0
 #-------------------------------------------------------------#
 port: 7890
@@ -61,32 +61,101 @@ dns:
 
 
 proxies:
- - {name: "下载更新时间：2023-08-07 19:12:44", server: 138.2.106.77, port: 80, type: vmess, cipher: auto, uuid: e3a37909-487c-4748-8ba4-945290267018, tls: false, alterId: 0, network: ws, ws-opts: {path: "e3a37909", headers: {Host: "dd2.1808.cf"}}}
- - {name: "Relay_🇸🇬SG-🇸🇬SG_656@1", server: 6f1sgtr1.106ctc.buzz, port: 50143, type: trojan, password: "aa2423a5-7f4a-3646-b757-40e2cf1d501d", skip-cert-verify: false}
- - {name: "Relay_🇹🇼TW-🇹🇼TW_682@2", server: pqhinet3.aiopen.cfd, port: 443, type: trojan, password: "e8339ff5-acb1-4ef6-96e0-04c78efbc51d", skip-cert-verify: false}
- - {name: "美国(yudou66.com 玉豆免费节点)@3", server: 172.67.198.131, port: 2095, type: vmess, cipher: auto, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "amszx.66666654.xyz"}}}
- - {name: "🇪🇸_ES_西班牙_由快嘴科技提供：kkzui.com_2@4", server: 5.188.181.201, port: 9040, type: ss, password: "p9z5BVADH2YFs3MN", cipher: aes-256-cfb}
- - {name: "美国(yudou66.com 玉豆免费节点)@5", server: 172.67.197.57, port: 2095, type: vmess, cipher: auto, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "amszx.66666654.xyz"}}}
- - {name: "美国(yudou66.com 玉豆免费节点)@6", server: 172.67.193.109, port: 2095, type: vmess, cipher: auto, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "amszx.66666654.xyz"}}}
- - {name: "🇬🇧GB_300@7", server: 13.40.7.116, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "荷兰(yudou66.com 玉豆免费节点)@8", server: 162.159.133.130, port: 2095, type: vmess, cipher: auto, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "amszx.66666654.xyz"}}}
- - {name: "🇺🇸US_1131@9", server: 3.92.237.68, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "🇮🇪IE_370@10", server: 34.244.73.214, port: 22222, type: trojan, password: "telegram-id-privatevpns", skip-cert-verify: false}
- - {name: "🇮🇪IE_336@11", server: 34.251.150.40, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "Relay_🇭🇰HK-🇭🇰HK_321@12", server: zl1.wingsjiasu.link, port: 443, type: trojan, password: "f12f6506-8b31-413f-90b2-2026868c0217", skip-cert-verify: false}
- - {name: "🇨🇦CA_38@13", server: 3.96.137.160, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "Relay_🇯🇵JP-🇯🇵JP_413@14", server: gsawshk1.aiopen.cfd, port: 443, type: trojan, password: "e8339ff5-acb1-4ef6-96e0-04c78efbc51d", skip-cert-verify: false}
- - {name: "🇪🇸_ES_西班牙_2_34@15", server: 5.188.181.201, port: 9031, type: ss, password: "BwcAUZk8hUFAkDGN", cipher: aes-256-cfb}
- - {name: "_127@16", server: 221.150.109.67, port: 2003, type: ss, password: "qwerREWQ%40%40", cipher: aes-256-cfb}
- - {name: "美国(yudou66.com 玉豆免费节点)@17", server: amszxc.66666654.xyz, port: 2095, type: vmess, cipher: auto, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "amszx.66666654.xyz"}}}
- - {name: "_26@18", server: 121.127.46.147, port: 989, type: ss, password: "f8f7aCzcPKbsF8p3", cipher: aes-256-cfb}
- - {name: "Relay_🇺🇸US-🇺🇸US_493@19", server: cdn.anycast.eu.org, port: 443, type: vmess, cipher: auto, uuid: e3a37909-487c-4748-8ba4-945290267018, tls: false, alterId: 0, network: ws, ws-opts: {path: "e3a37909", headers: {Host: "dd2.1808.cf"}}}
- - {name: "🇺🇸US_598@20", server: 13.40.164.172, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "🇺🇸US_432@21", server: bobbykotick.rip, port: 443, type: vmess, cipher: auto, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, tls: false, alterId: 0, network: ws, ws-opts: {path: "/speedtest", headers: {Host: "Lille.bobbykotick.rip"}}}
- - {name: "美国(yudou66.com 玉豆免费节点)@22", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
- - {name: "Relay_🇺🇸US-🇺🇸US_582@23", server: www.gov.tw, port: 443, type: vmess, cipher: auto, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, tls: false, alterId: 0, network: ws, ws-opts: {path: "/speedtest", headers: {Host: "Kansas.kotick.site"}}}
- - {name: "🇸🇬 _SG_新加坡@24", server: 54.254.129.246, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
- - {name: "Relay_🇺🇸US-🇭🇰HK_539@25", server: 00000000000000000000000000000000000000000000000000000000000002a.node-for-bigairport.win, port: 443, type: vmess, cipher: auto, uuid: c7b5b614-04b8-4a8d-8d9e-88b431b9fa8b, tls: false, alterId: 0, network: ws, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "下载更新时间：2023-08-07 19:46:00", server: 52.26.147.33, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "Relay_🇯🇵JP-🇸🇪SE_361@1", server: se1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇸🇬SG-🇵🇭PH_643@2", server: ph2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇸🇬SG-🇩🇪DE_649@3", server: de1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇺🇸US-🇯🇵JP_934@4", server: cfcdn5.sanfencdn.net, port: 2052, type: vmess, cipher: auto, uuid: 216070ae-f028-4bf0-857a-38412ac62e82, tls: false, alterId: 0, network: ws, ws-opts: {path: "/zh-cn", headers: {Host: "jp5.sanfencdn2.com"}}}
+ - {name: "Relay_🏁ZZ-🇨🇦CA_1370@5", server: camtlebb.76898102.xyz, port: 2095, type: vmess, cipher: auto, uuid: 2c872268-dc65-31cd-afa1-feae910c37b7, tls: false, alterId: 0, network: ws, ws-opts: {path: "/funsdfrh", headers: {Host: "camtleb.76898102.xyz"}}}
+ - {name: "Relay_🇸🇬SG-🇫🇷FR_622@6", server: fr1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇸🇬SG-🇩🇪DE_651@7", server: de2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇨🇳CN-🇯🇵JP_124@8", server: gg.xn--gmqa02ag57d.com, port: 31313, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇭🇰HK_97@9", server: gg.xn--gmqa02ag57d.com, port: 28678, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇺🇸US-🇸🇬SG_928@10", server: sgbb.76898102.xyz, port: 2095, type: vmess, cipher: auto, uuid: 2c872268-dc65-31cd-afa1-feae910c37b7, tls: false, alterId: 0, network: ws, ws-opts: {path: "/adwrfeyiyuisfesf", headers: {Host: "sgb.76898102.xyz"}}}
+ - {name: "Relay_🇯🇵JP-🇯🇵JP_480@11", server: zrpfgo.ssplane.cn, port: 18629, type: ss, password: "af5aae24-a61b-4f03-b815-121d3bba655d", cipher: chacha20-ietf-poly1305}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_112@12", server: gg.xn--gmqa02ag57d.com, port: 20295, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "🇸🇬SG_567@13", server: 103.172.116.79, port: 9044, type: ss, password: "KBGjZYcy4SyRShmA", cipher: aes-256-cfb}
+ - {name: "Relay_🇸🇬SG-🇰🇭KH_837@14", server: kh.mjt001.com, port: 443, type: trojan, password: "366c34f3-cc1a-428e-94ac-a5d9c99eef70", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇭🇰HK_126@15", server: gg.xn--gmqa02ag57d.com, port: 20294, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "法国(yudou66.com 玉豆免费节点)@16", server: cdn.narutos.top, port: 8880, type: vmess, cipher: auto, uuid: 4b5e4565-322f-4223-a891-78a84f189726, tls: false, alterId: 0, network: ws, ws-opts: {path: "/SMNxcwVdTTzcou9yQftDyZcCGQui9a", headers: {Host: "paris.yj2022.gq"}}}
+ - {name: "🇰🇷KR_569@17", server: 43.202.42.149, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "Relay_🇸🇬SG-🇮🇱IL_654@18", server: il.mjt001.com, port: 443, type: trojan, password: "366c34f3-cc1a-428e-94ac-a5d9c99eef70", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇸🇬SG_130@19", server: gg.xn--gmqa02ag57d.com, port: 20130, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇯🇵JP-🇺🇸US_390@20", server: us2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "🇺🇸US_445@21", server: 172.67.197.17, port: 443, type: vmess, cipher: auto, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, tls: false, alterId: 0, network: ws, ws-opts: {path: "/speedtest", headers: {Host: "Lille.kotick.site"}}}
+ - {name: "Relay_🇸🇬SG-🇸🇬SG_832@22", server: pt1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "🇰🇷KR_558@23", server: 43.200.6.21, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "_US_美国@24", server: cloudconebbb.gorgorchicken.one, port: 8443, type: vmess, cipher: auto, uuid: aa0c4744-9568-4bee-a08b-73668a9b2a42, tls: false, alterId: 0, network: ws, ws-opts: {path: "/cloudconebbb", headers: {Host: "cloudconebbb.gorgorchicken.one"}}}
+ - {name: "Relay_🏁ZZ-🇺🇸US_1377@25", server: laxdscaa.76898102.xyz, port: 2095, type: vmess, cipher: auto, uuid: 2c872268-dc65-31cd-afa1-feae910c37b7, tls: false, alterId: 0, network: ws, ws-opts: {path: "/bvdfyueusf", headers: {Host: "laxdsca.76898102.xyz"}}}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_131@26", server: gg.xn--gmqa02ag57d.com, port: 14846, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇸🇬SG-🇨🇱CL_833@27", server: cl2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇯🇵JP-🇸🇪SE_398@28", server: se2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇯🇵JP-🇰🇿KZ_554@29", server: kz.mjt001.com, port: 443, type: trojan, password: "366c34f3-cc1a-428e-94ac-a5d9c99eef70", skip-cert-verify: false}
+ - {name: "Relay_🇯🇵JP-🇮🇳IN_362@30", server: in4.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇯🇵JP-🇳🇱NL_395@31", server: nl1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇭🇰HK-🇭🇰HK_311@32", server: hk1.594888.xyz, port: 2443, type: vmess, cipher: auto, uuid: 8befd097-e85a-32d5-8655-a56f40e91508, tls: false, alterId: 0, network: ws, ws-opts: {path: "/maohk3", headers: {Host: ""}}}
+ - {name: "Relay_🇨🇳CN-🇭🇰HK_129@33", server: gg.xn--gmqa02ag57d.com, port: 22741, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_122@34", server: gg.xn--gmqa02ag57d.com, port: 21970, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇺🇸US-🇺🇸US_853@35", server: maous2.wzgmail.com, port: 443, type: vmess, cipher: auto, uuid: 9332f809-6347-3ea8-9c0d-7e789609eb36, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hls/us8.m3u8", headers: {Host: ""}}}
+ - {name: "Relay_🇯🇵JP-🇧🇷BR_364@36", server: br1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "🇯🇵JP_350@37", server: 3.113.7.154, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "Relay_🇯🇵JP-🇳🇱NL_387@38", server: nl2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇨🇳CN-🇯🇵JP_115@39", server: gg.xn--gmqa02ag57d.com, port: 54178, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇹🇼TW-🇹🇼TW_675@40", server: twtw.henyo.us, port: 443, type: vmess, cipher: auto, uuid: 9332f809-6347-3ea8-9c0d-7e789609eb36, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hls/us8.m3u8", headers: {Host: ""}}}
+ - {name: "Relay_🏁ZZ-🇧🇷BR_1364@41", server: hzefss.66666654.xyz, port: 2095, type: vmess, cipher: auto, uuid: 2c872268-dc65-31cd-afa1-feae910c37b7, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "hzefs.66666654.xyz"}}}
+ - {name: "Relay_🇯🇵JP-🇯🇵JP_394@42", server: jp05-vm0.entry.srthdw.art, port: 46486, type: vmess, cipher: auto, uuid: 6774a870-83b6-383c-92f3-96e75a1c0171, tls: false, alterId: 1, network: tcp}
+ - {name: "Relay_🇺🇸US-🇸🇬SG_940@43", server: cfcdn3.sanfencdn.net, port: 2052, type: vmess, cipher: auto, uuid: 216070ae-f028-4bf0-857a-38412ac62e82, tls: false, alterId: 0, network: ws, ws-opts: {path: "/zh-cn", headers: {Host: "sg1.sanfencdn2.com"}}}
+ - {name: "🇰🇷KR_557@44", server: 43.201.7.243, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "_127@45", server: 221.150.109.67, port: 2003, type: ss, password: "qwerREWQ%40%40", cipher: aes-256-cfb}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_114@46", server: gg.xn--gmqa02ag57d.com, port: 56783, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇺🇸US-🇳🇱NL_879@47", server: 45.199.138.139, port: 43832, type: vmess, cipher: auto, uuid: fe5f69e7-e183-439b-950b-9661ef0651f2, tls: false, alterId: 64}
+ - {name: "Relay_🇯🇵JP-🇯🇵JP_406@48", server: jp1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇸🇬SG-🇵🇪PE_778@49", server: pe2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇯🇵JP-🇯🇵JP_376@50", server: jp2.yihaobao.xyz, port: 10053, type: trojan, password: "f78b6dfe-d15c-42bf-a9d6-a6b2db2fff5b", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇹🇼TW_116@51", server: gg.xn--gmqa02ag57d.com, port: 33323, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇯🇵JP_98@52", server: gg.xn--gmqa02ag57d.com, port: 20071, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇯🇵JP-🇧🇷BR_393@53", server: br2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇸🇬SG-🇵🇭PH_779@54", server: ph1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇸🇬SG-🇸🇬SG_840@55", server: 6f1sgtr1.106ctc.buzz, port: 50143, type: trojan, password: "2d63e6b3-cea8-3f79-9e7e-facd013c027b", skip-cert-verify: false}
+ - {name: "Relay_-🇺🇸US_105@56", server: series-g1.samanehha.co, port: 443, type: ss, password: "sgjJsZJHLlhmdvUk", cipher: chacha20-ietf-poly1305}
+ - {name: "🇩🇪DE_213@57", server: 3.72.249.166, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇯🇵JP_125@58", server: gg.xn--gmqa02ag57d.com, port: 20059, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇹🇼TW_123@59", server: gg.xn--gmqa02ag57d.com, port: 17629, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇸🇬SG-🇸🇬SG_815@60", server: pt2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇯🇵JP-🇨🇴CO_384@61", server: co2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇨🇳CN-🇰🇷KR_105@62", server: gg.xn--gmqa02ag57d.com, port: 50355, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "_26@63", server: 121.127.46.147, port: 989, type: ss, password: "f8f7aCzcPKbsF8p3", cipher: aes-256-cfb}
+ - {name: "Relay_🇨🇳CN-🇸🇬SG_47@64", server: pinsg.cu.edu.kg, port: 10124, type: ss, password: "9ba99e47-307b-4420-b3d8-ddd76b349c38", cipher: chacha20-ietf-poly1305}
+ - {name: "Relay_🇨🇳CN-🇹🇼TW_111@65", server: gg.xn--gmqa02ag57d.com, port: 21247, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇺🇸US-🇺🇸US_848@66", server: maous3.wzgmail.com, port: 31235, type: vmess, cipher: auto, uuid: 9332f809-6347-3ea8-9c0d-7e789609eb36, tls: false, alterId: 0, network: ws, ws-opts: {path: "/maohk3", headers: {Host: ""}}}
+ - {name: "Relay_🇨🇳CN-🇸🇬SG_127@67", server: gg.xn--gmqa02ag57d.com, port: 17806, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇸🇬SG_103@68", server: gg.xn--gmqa02ag57d.com, port: 20129, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇸🇬SG_104@69", server: gg.xn--gmqa02ag57d.com, port: 20299, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "美国(yudou66.com 玉豆免费节点)@70", server: 172.67.198.131, port: 2095, type: vmess, cipher: auto, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hgcefomn", headers: {Host: "amszx.66666654.xyz"}}}
+ - {name: "Relay_🇸🇬SG-🇳🇿NZ_804@71", server: nz1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_128@72", server: gg.xn--gmqa02ag57d.com, port: 16895, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇯🇵JP-🇺🇸US_373@73", server: us1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🏁ZZ-🇺🇸US_1385@74", server: iudbvcxa.76898102.xyz, port: 2095, type: vmess, cipher: auto, uuid: 2c872268-dc65-31cd-afa1-feae910c37b7, tls: false, alterId: 0, network: ws, ws-opts: {path: "/bvdfyueusf", headers: {Host: "laxdscb.76898102.xyz"}}}
+ - {name: "Relay_🇨🇳CN-🇸🇬SG_109@75", server: gg.xn--gmqa02ag57d.com, port: 30712, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇹🇼TW-🇹🇼TW_672@76", server: hinet.henyo.us, port: 31235, type: vmess, cipher: auto, uuid: 9332f809-6347-3ea8-9c0d-7e789609eb36, tls: false, alterId: 0, network: ws, ws-opts: {path: "/maohk3", headers: {Host: ""}}}
+ - {name: "Relay_🇭🇰HK-🇭🇰HK_304@77", server: hk2.594888.xyz, port: 443, type: vmess, cipher: auto, uuid: 8befd097-e85a-32d5-8655-a56f40e91508, tls: false, alterId: 0, network: ws, ws-opts: {path: "/hls/us8.m3u8", headers: {Host: ""}}}
+ - {name: "🇺🇸US_205@78", server: 64.32.4.6, port: 50005, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "Relay_🇭🇰HK-🇳🇱NL_308@79", server: 156.245.8.240, port: 443, type: vmess, cipher: auto, uuid: 29a5d48e-24f1-48fd-a5e1-9a46cb31032f, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.41758112.xyz"}}}
+ - {name: "🇺🇸US_432@80", server: bobbykotick.rip, port: 443, type: vmess, cipher: auto, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, tls: false, alterId: 0, network: ws, ws-opts: {path: "/speedtest", headers: {Host: "Lille.bobbykotick.rip"}}}
+ - {name: "Relay_🇸🇬SG-🇹🇼TW_636@81", server: tw1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🏁ZZ-🇬🇧GB_1379@82", server: gbbb.76898102.xyz, port: 2052, type: vmess, cipher: auto, uuid: 2c872268-dc65-31cd-afa1-feae910c37b7, tls: false, alterId: 0, network: ws, ws-opts: {path: "/miao", headers: {Host: "gbb.76898102.xyz"}}}
+ - {name: "🇪🇸_ES_西班牙_2_34@83", server: 5.188.181.201, port: 9031, type: ss, password: "BwcAUZk8hUFAkDGN", cipher: aes-256-cfb}
+ - {name: "Relay_🇯🇵JP-🇷🇺RU_386@84", server: ru1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇨🇳CN-🇺🇸US_118@85", server: gg.xn--gmqa02ag57d.com, port: 30767, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇸🇬SG-🇳🇿NZ_648@86", server: nz2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇸🇬SG-🇦🇪AE_640@87", server: ae1.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇸🇬SG-🇹🇼TW_632@88", server: tw2.amazonwebservicesss.com, port: 80, type: vmess, cipher: auto, uuid: 18f6091b-f448-46db-842a-8d040376fd75, tls: false, alterId: 0, network: ws, ws-opts: {path: "/aws-china-media/QAcTKp3Ic-M.mp4", headers: {Host: ""}}}
+ - {name: "Relay_🇨🇳CN-🇭🇰HK_119@89", server: gg.xn--gmqa02ag57d.com, port: 20301, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "Relay_🇯🇵JP-🇯🇵JP_546@90", server: 6hkf1.102ctc.xyz, port: 32558, type: trojan, password: "aa2423a5-7f4a-3646-b757-40e2cf1d501d", skip-cert-verify: false}
+ - {name: "Relay_🇨🇳CN-🇯🇵JP_121@91", server: gg.xn--gmqa02ag57d.com, port: 41767, type: trojan, password: "59f17ad1-4499-3dac-ac7b-269b6e01141d", skip-cert-verify: false}
+ - {name: "美国(yudou66.com 玉豆免费节点)@92", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
+ - {name: "Relay_🇹🇼TW-🇹🇼TW_676@93", server: tw.henyo.us, port: 31235, type: vmess, cipher: auto, uuid: 8befd097-e85a-32d5-8655-a56f40e91508, tls: false, alterId: 0, network: ws, ws-opts: {path: "/maohk3", headers: {Host: ""}}}
+ - {name: "Relay_🇨🇳CN-🇸🇬SG_49@94", server: pinsg.cu.edu.kg, port: 10126, type: ss, password: "9ba99e47-307b-4420-b3d8-ddd76b349c38", cipher: chacha20-ietf-poly1305}
 
 
 proxy-groups:
@@ -96,32 +165,101 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "下载更新时间：2023-08-07 19:12:44"
-      - "Relay_🇸🇬SG-🇸🇬SG_656@1"
-      - "Relay_🇹🇼TW-🇹🇼TW_682@2"
-      - "美国(yudou66.com 玉豆免费节点)@3"
-      - "🇪🇸_ES_西班牙_由快嘴科技提供：kkzui.com_2@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "🇬🇧GB_300@7"
-      - "荷兰(yudou66.com 玉豆免费节点)@8"
-      - "🇺🇸US_1131@9"
-      - "🇮🇪IE_370@10"
-      - "🇮🇪IE_336@11"
-      - "Relay_🇭🇰HK-🇭🇰HK_321@12"
-      - "🇨🇦CA_38@13"
-      - "Relay_🇯🇵JP-🇯🇵JP_413@14"
-      - "🇪🇸_ES_西班牙_2_34@15"
-      - "_127@16"
-      - "美国(yudou66.com 玉豆免费节点)@17"
-      - "_26@18"
-      - "Relay_🇺🇸US-🇺🇸US_493@19"
-      - "🇺🇸US_598@20"
-      - "🇺🇸US_432@21"
-      - "美国(yudou66.com 玉豆免费节点)@22"
-      - "Relay_🇺🇸US-🇺🇸US_582@23"
-      - "🇸🇬 _SG_新加坡@24"
-      - "Relay_🇺🇸US-🇭🇰HK_539@25"
+      - "下载更新时间：2023-08-07 19:46:00"
+      - "Relay_🇯🇵JP-🇸🇪SE_361@1"
+      - "Relay_🇸🇬SG-🇵🇭PH_643@2"
+      - "Relay_🇸🇬SG-🇩🇪DE_649@3"
+      - "Relay_🇺🇸US-🇯🇵JP_934@4"
+      - "Relay_🏁ZZ-🇨🇦CA_1370@5"
+      - "Relay_🇸🇬SG-🇫🇷FR_622@6"
+      - "Relay_🇸🇬SG-🇩🇪DE_651@7"
+      - "Relay_🇨🇳CN-🇯🇵JP_124@8"
+      - "Relay_🇨🇳CN-🇭🇰HK_97@9"
+      - "Relay_🇺🇸US-🇸🇬SG_928@10"
+      - "Relay_🇯🇵JP-🇯🇵JP_480@11"
+      - "Relay_🇨🇳CN-🇺🇸US_112@12"
+      - "🇸🇬SG_567@13"
+      - "Relay_🇸🇬SG-🇰🇭KH_837@14"
+      - "Relay_🇨🇳CN-🇭🇰HK_126@15"
+      - "法国(yudou66.com 玉豆免费节点)@16"
+      - "🇰🇷KR_569@17"
+      - "Relay_🇸🇬SG-🇮🇱IL_654@18"
+      - "Relay_🇨🇳CN-🇸🇬SG_130@19"
+      - "Relay_🇯🇵JP-🇺🇸US_390@20"
+      - "🇺🇸US_445@21"
+      - "Relay_🇸🇬SG-🇸🇬SG_832@22"
+      - "🇰🇷KR_558@23"
+      - "_US_美国@24"
+      - "Relay_🏁ZZ-🇺🇸US_1377@25"
+      - "Relay_🇨🇳CN-🇺🇸US_131@26"
+      - "Relay_🇸🇬SG-🇨🇱CL_833@27"
+      - "Relay_🇯🇵JP-🇸🇪SE_398@28"
+      - "Relay_🇯🇵JP-🇰🇿KZ_554@29"
+      - "Relay_🇯🇵JP-🇮🇳IN_362@30"
+      - "Relay_🇯🇵JP-🇳🇱NL_395@31"
+      - "Relay_🇭🇰HK-🇭🇰HK_311@32"
+      - "Relay_🇨🇳CN-🇭🇰HK_129@33"
+      - "Relay_🇨🇳CN-🇺🇸US_122@34"
+      - "Relay_🇺🇸US-🇺🇸US_853@35"
+      - "Relay_🇯🇵JP-🇧🇷BR_364@36"
+      - "🇯🇵JP_350@37"
+      - "Relay_🇯🇵JP-🇳🇱NL_387@38"
+      - "Relay_🇨🇳CN-🇯🇵JP_115@39"
+      - "Relay_🇹🇼TW-🇹🇼TW_675@40"
+      - "Relay_🏁ZZ-🇧🇷BR_1364@41"
+      - "Relay_🇯🇵JP-🇯🇵JP_394@42"
+      - "Relay_🇺🇸US-🇸🇬SG_940@43"
+      - "🇰🇷KR_557@44"
+      - "_127@45"
+      - "Relay_🇨🇳CN-🇺🇸US_114@46"
+      - "Relay_🇺🇸US-🇳🇱NL_879@47"
+      - "Relay_🇯🇵JP-🇯🇵JP_406@48"
+      - "Relay_🇸🇬SG-🇵🇪PE_778@49"
+      - "Relay_🇯🇵JP-🇯🇵JP_376@50"
+      - "Relay_🇨🇳CN-🇹🇼TW_116@51"
+      - "Relay_🇨🇳CN-🇯🇵JP_98@52"
+      - "Relay_🇯🇵JP-🇧🇷BR_393@53"
+      - "Relay_🇸🇬SG-🇵🇭PH_779@54"
+      - "Relay_🇸🇬SG-🇸🇬SG_840@55"
+      - "Relay_-🇺🇸US_105@56"
+      - "🇩🇪DE_213@57"
+      - "Relay_🇨🇳CN-🇯🇵JP_125@58"
+      - "Relay_🇨🇳CN-🇹🇼TW_123@59"
+      - "Relay_🇸🇬SG-🇸🇬SG_815@60"
+      - "Relay_🇯🇵JP-🇨🇴CO_384@61"
+      - "Relay_🇨🇳CN-🇰🇷KR_105@62"
+      - "_26@63"
+      - "Relay_🇨🇳CN-🇸🇬SG_47@64"
+      - "Relay_🇨🇳CN-🇹🇼TW_111@65"
+      - "Relay_🇺🇸US-🇺🇸US_848@66"
+      - "Relay_🇨🇳CN-🇸🇬SG_127@67"
+      - "Relay_🇨🇳CN-🇸🇬SG_103@68"
+      - "Relay_🇨🇳CN-🇸🇬SG_104@69"
+      - "美国(yudou66.com 玉豆免费节点)@70"
+      - "Relay_🇸🇬SG-🇳🇿NZ_804@71"
+      - "Relay_🇨🇳CN-🇺🇸US_128@72"
+      - "Relay_🇯🇵JP-🇺🇸US_373@73"
+      - "Relay_🏁ZZ-🇺🇸US_1385@74"
+      - "Relay_🇨🇳CN-🇸🇬SG_109@75"
+      - "Relay_🇹🇼TW-🇹🇼TW_672@76"
+      - "Relay_🇭🇰HK-🇭🇰HK_304@77"
+      - "🇺🇸US_205@78"
+      - "Relay_🇭🇰HK-🇳🇱NL_308@79"
+      - "🇺🇸US_432@80"
+      - "Relay_🇸🇬SG-🇹🇼TW_636@81"
+      - "Relay_🏁ZZ-🇬🇧GB_1379@82"
+      - "🇪🇸_ES_西班牙_2_34@83"
+      - "Relay_🇯🇵JP-🇷🇺RU_386@84"
+      - "Relay_🇨🇳CN-🇺🇸US_118@85"
+      - "Relay_🇸🇬SG-🇳🇿NZ_648@86"
+      - "Relay_🇸🇬SG-🇦🇪AE_640@87"
+      - "Relay_🇸🇬SG-🇹🇼TW_632@88"
+      - "Relay_🇨🇳CN-🇭🇰HK_119@89"
+      - "Relay_🇯🇵JP-🇯🇵JP_546@90"
+      - "Relay_🇨🇳CN-🇯🇵JP_121@91"
+      - "美国(yudou66.com 玉豆免费节点)@92"
+      - "Relay_🇹🇼TW-🇹🇼TW_676@93"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@94"
 
   - name: ♻️ 自动选择
     type: url-test
@@ -130,32 +268,101 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - "下载更新时间：2023-08-07 19:12:44"
-      - "Relay_🇸🇬SG-🇸🇬SG_656@1"
-      - "Relay_🇹🇼TW-🇹🇼TW_682@2"
-      - "美国(yudou66.com 玉豆免费节点)@3"
-      - "🇪🇸_ES_西班牙_由快嘴科技提供：kkzui.com_2@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "🇬🇧GB_300@7"
-      - "荷兰(yudou66.com 玉豆免费节点)@8"
-      - "🇺🇸US_1131@9"
-      - "🇮🇪IE_370@10"
-      - "🇮🇪IE_336@11"
-      - "Relay_🇭🇰HK-🇭🇰HK_321@12"
-      - "🇨🇦CA_38@13"
-      - "Relay_🇯🇵JP-🇯🇵JP_413@14"
-      - "🇪🇸_ES_西班牙_2_34@15"
-      - "_127@16"
-      - "美国(yudou66.com 玉豆免费节点)@17"
-      - "_26@18"
-      - "Relay_🇺🇸US-🇺🇸US_493@19"
-      - "🇺🇸US_598@20"
-      - "🇺🇸US_432@21"
-      - "美国(yudou66.com 玉豆免费节点)@22"
-      - "Relay_🇺🇸US-🇺🇸US_582@23"
-      - "🇸🇬 _SG_新加坡@24"
-      - "Relay_🇺🇸US-🇭🇰HK_539@25"
+      - "下载更新时间：2023-08-07 19:46:00"
+      - "Relay_🇯🇵JP-🇸🇪SE_361@1"
+      - "Relay_🇸🇬SG-🇵🇭PH_643@2"
+      - "Relay_🇸🇬SG-🇩🇪DE_649@3"
+      - "Relay_🇺🇸US-🇯🇵JP_934@4"
+      - "Relay_🏁ZZ-🇨🇦CA_1370@5"
+      - "Relay_🇸🇬SG-🇫🇷FR_622@6"
+      - "Relay_🇸🇬SG-🇩🇪DE_651@7"
+      - "Relay_🇨🇳CN-🇯🇵JP_124@8"
+      - "Relay_🇨🇳CN-🇭🇰HK_97@9"
+      - "Relay_🇺🇸US-🇸🇬SG_928@10"
+      - "Relay_🇯🇵JP-🇯🇵JP_480@11"
+      - "Relay_🇨🇳CN-🇺🇸US_112@12"
+      - "🇸🇬SG_567@13"
+      - "Relay_🇸🇬SG-🇰🇭KH_837@14"
+      - "Relay_🇨🇳CN-🇭🇰HK_126@15"
+      - "法国(yudou66.com 玉豆免费节点)@16"
+      - "🇰🇷KR_569@17"
+      - "Relay_🇸🇬SG-🇮🇱IL_654@18"
+      - "Relay_🇨🇳CN-🇸🇬SG_130@19"
+      - "Relay_🇯🇵JP-🇺🇸US_390@20"
+      - "🇺🇸US_445@21"
+      - "Relay_🇸🇬SG-🇸🇬SG_832@22"
+      - "🇰🇷KR_558@23"
+      - "_US_美国@24"
+      - "Relay_🏁ZZ-🇺🇸US_1377@25"
+      - "Relay_🇨🇳CN-🇺🇸US_131@26"
+      - "Relay_🇸🇬SG-🇨🇱CL_833@27"
+      - "Relay_🇯🇵JP-🇸🇪SE_398@28"
+      - "Relay_🇯🇵JP-🇰🇿KZ_554@29"
+      - "Relay_🇯🇵JP-🇮🇳IN_362@30"
+      - "Relay_🇯🇵JP-🇳🇱NL_395@31"
+      - "Relay_🇭🇰HK-🇭🇰HK_311@32"
+      - "Relay_🇨🇳CN-🇭🇰HK_129@33"
+      - "Relay_🇨🇳CN-🇺🇸US_122@34"
+      - "Relay_🇺🇸US-🇺🇸US_853@35"
+      - "Relay_🇯🇵JP-🇧🇷BR_364@36"
+      - "🇯🇵JP_350@37"
+      - "Relay_🇯🇵JP-🇳🇱NL_387@38"
+      - "Relay_🇨🇳CN-🇯🇵JP_115@39"
+      - "Relay_🇹🇼TW-🇹🇼TW_675@40"
+      - "Relay_🏁ZZ-🇧🇷BR_1364@41"
+      - "Relay_🇯🇵JP-🇯🇵JP_394@42"
+      - "Relay_🇺🇸US-🇸🇬SG_940@43"
+      - "🇰🇷KR_557@44"
+      - "_127@45"
+      - "Relay_🇨🇳CN-🇺🇸US_114@46"
+      - "Relay_🇺🇸US-🇳🇱NL_879@47"
+      - "Relay_🇯🇵JP-🇯🇵JP_406@48"
+      - "Relay_🇸🇬SG-🇵🇪PE_778@49"
+      - "Relay_🇯🇵JP-🇯🇵JP_376@50"
+      - "Relay_🇨🇳CN-🇹🇼TW_116@51"
+      - "Relay_🇨🇳CN-🇯🇵JP_98@52"
+      - "Relay_🇯🇵JP-🇧🇷BR_393@53"
+      - "Relay_🇸🇬SG-🇵🇭PH_779@54"
+      - "Relay_🇸🇬SG-🇸🇬SG_840@55"
+      - "Relay_-🇺🇸US_105@56"
+      - "🇩🇪DE_213@57"
+      - "Relay_🇨🇳CN-🇯🇵JP_125@58"
+      - "Relay_🇨🇳CN-🇹🇼TW_123@59"
+      - "Relay_🇸🇬SG-🇸🇬SG_815@60"
+      - "Relay_🇯🇵JP-🇨🇴CO_384@61"
+      - "Relay_🇨🇳CN-🇰🇷KR_105@62"
+      - "_26@63"
+      - "Relay_🇨🇳CN-🇸🇬SG_47@64"
+      - "Relay_🇨🇳CN-🇹🇼TW_111@65"
+      - "Relay_🇺🇸US-🇺🇸US_848@66"
+      - "Relay_🇨🇳CN-🇸🇬SG_127@67"
+      - "Relay_🇨🇳CN-🇸🇬SG_103@68"
+      - "Relay_🇨🇳CN-🇸🇬SG_104@69"
+      - "美国(yudou66.com 玉豆免费节点)@70"
+      - "Relay_🇸🇬SG-🇳🇿NZ_804@71"
+      - "Relay_🇨🇳CN-🇺🇸US_128@72"
+      - "Relay_🇯🇵JP-🇺🇸US_373@73"
+      - "Relay_🏁ZZ-🇺🇸US_1385@74"
+      - "Relay_🇨🇳CN-🇸🇬SG_109@75"
+      - "Relay_🇹🇼TW-🇹🇼TW_672@76"
+      - "Relay_🇭🇰HK-🇭🇰HK_304@77"
+      - "🇺🇸US_205@78"
+      - "Relay_🇭🇰HK-🇳🇱NL_308@79"
+      - "🇺🇸US_432@80"
+      - "Relay_🇸🇬SG-🇹🇼TW_636@81"
+      - "Relay_🏁ZZ-🇬🇧GB_1379@82"
+      - "🇪🇸_ES_西班牙_2_34@83"
+      - "Relay_🇯🇵JP-🇷🇺RU_386@84"
+      - "Relay_🇨🇳CN-🇺🇸US_118@85"
+      - "Relay_🇸🇬SG-🇳🇿NZ_648@86"
+      - "Relay_🇸🇬SG-🇦🇪AE_640@87"
+      - "Relay_🇸🇬SG-🇹🇼TW_632@88"
+      - "Relay_🇨🇳CN-🇭🇰HK_119@89"
+      - "Relay_🇯🇵JP-🇯🇵JP_546@90"
+      - "Relay_🇨🇳CN-🇯🇵JP_121@91"
+      - "美国(yudou66.com 玉豆免费节点)@92"
+      - "Relay_🇹🇼TW-🇹🇼TW_676@93"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@94"
 
   - name: 🌍 国外媒体
     type: select
@@ -164,32 +371,101 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-07 19:12:44"
-      - "Relay_🇸🇬SG-🇸🇬SG_656@1"
-      - "Relay_🇹🇼TW-🇹🇼TW_682@2"
-      - "美国(yudou66.com 玉豆免费节点)@3"
-      - "🇪🇸_ES_西班牙_由快嘴科技提供：kkzui.com_2@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "🇬🇧GB_300@7"
-      - "荷兰(yudou66.com 玉豆免费节点)@8"
-      - "🇺🇸US_1131@9"
-      - "🇮🇪IE_370@10"
-      - "🇮🇪IE_336@11"
-      - "Relay_🇭🇰HK-🇭🇰HK_321@12"
-      - "🇨🇦CA_38@13"
-      - "Relay_🇯🇵JP-🇯🇵JP_413@14"
-      - "🇪🇸_ES_西班牙_2_34@15"
-      - "_127@16"
-      - "美国(yudou66.com 玉豆免费节点)@17"
-      - "_26@18"
-      - "Relay_🇺🇸US-🇺🇸US_493@19"
-      - "🇺🇸US_598@20"
-      - "🇺🇸US_432@21"
-      - "美国(yudou66.com 玉豆免费节点)@22"
-      - "Relay_🇺🇸US-🇺🇸US_582@23"
-      - "🇸🇬 _SG_新加坡@24"
-      - "Relay_🇺🇸US-🇭🇰HK_539@25"
+      - "下载更新时间：2023-08-07 19:46:00"
+      - "Relay_🇯🇵JP-🇸🇪SE_361@1"
+      - "Relay_🇸🇬SG-🇵🇭PH_643@2"
+      - "Relay_🇸🇬SG-🇩🇪DE_649@3"
+      - "Relay_🇺🇸US-🇯🇵JP_934@4"
+      - "Relay_🏁ZZ-🇨🇦CA_1370@5"
+      - "Relay_🇸🇬SG-🇫🇷FR_622@6"
+      - "Relay_🇸🇬SG-🇩🇪DE_651@7"
+      - "Relay_🇨🇳CN-🇯🇵JP_124@8"
+      - "Relay_🇨🇳CN-🇭🇰HK_97@9"
+      - "Relay_🇺🇸US-🇸🇬SG_928@10"
+      - "Relay_🇯🇵JP-🇯🇵JP_480@11"
+      - "Relay_🇨🇳CN-🇺🇸US_112@12"
+      - "🇸🇬SG_567@13"
+      - "Relay_🇸🇬SG-🇰🇭KH_837@14"
+      - "Relay_🇨🇳CN-🇭🇰HK_126@15"
+      - "法国(yudou66.com 玉豆免费节点)@16"
+      - "🇰🇷KR_569@17"
+      - "Relay_🇸🇬SG-🇮🇱IL_654@18"
+      - "Relay_🇨🇳CN-🇸🇬SG_130@19"
+      - "Relay_🇯🇵JP-🇺🇸US_390@20"
+      - "🇺🇸US_445@21"
+      - "Relay_🇸🇬SG-🇸🇬SG_832@22"
+      - "🇰🇷KR_558@23"
+      - "_US_美国@24"
+      - "Relay_🏁ZZ-🇺🇸US_1377@25"
+      - "Relay_🇨🇳CN-🇺🇸US_131@26"
+      - "Relay_🇸🇬SG-🇨🇱CL_833@27"
+      - "Relay_🇯🇵JP-🇸🇪SE_398@28"
+      - "Relay_🇯🇵JP-🇰🇿KZ_554@29"
+      - "Relay_🇯🇵JP-🇮🇳IN_362@30"
+      - "Relay_🇯🇵JP-🇳🇱NL_395@31"
+      - "Relay_🇭🇰HK-🇭🇰HK_311@32"
+      - "Relay_🇨🇳CN-🇭🇰HK_129@33"
+      - "Relay_🇨🇳CN-🇺🇸US_122@34"
+      - "Relay_🇺🇸US-🇺🇸US_853@35"
+      - "Relay_🇯🇵JP-🇧🇷BR_364@36"
+      - "🇯🇵JP_350@37"
+      - "Relay_🇯🇵JP-🇳🇱NL_387@38"
+      - "Relay_🇨🇳CN-🇯🇵JP_115@39"
+      - "Relay_🇹🇼TW-🇹🇼TW_675@40"
+      - "Relay_🏁ZZ-🇧🇷BR_1364@41"
+      - "Relay_🇯🇵JP-🇯🇵JP_394@42"
+      - "Relay_🇺🇸US-🇸🇬SG_940@43"
+      - "🇰🇷KR_557@44"
+      - "_127@45"
+      - "Relay_🇨🇳CN-🇺🇸US_114@46"
+      - "Relay_🇺🇸US-🇳🇱NL_879@47"
+      - "Relay_🇯🇵JP-🇯🇵JP_406@48"
+      - "Relay_🇸🇬SG-🇵🇪PE_778@49"
+      - "Relay_🇯🇵JP-🇯🇵JP_376@50"
+      - "Relay_🇨🇳CN-🇹🇼TW_116@51"
+      - "Relay_🇨🇳CN-🇯🇵JP_98@52"
+      - "Relay_🇯🇵JP-🇧🇷BR_393@53"
+      - "Relay_🇸🇬SG-🇵🇭PH_779@54"
+      - "Relay_🇸🇬SG-🇸🇬SG_840@55"
+      - "Relay_-🇺🇸US_105@56"
+      - "🇩🇪DE_213@57"
+      - "Relay_🇨🇳CN-🇯🇵JP_125@58"
+      - "Relay_🇨🇳CN-🇹🇼TW_123@59"
+      - "Relay_🇸🇬SG-🇸🇬SG_815@60"
+      - "Relay_🇯🇵JP-🇨🇴CO_384@61"
+      - "Relay_🇨🇳CN-🇰🇷KR_105@62"
+      - "_26@63"
+      - "Relay_🇨🇳CN-🇸🇬SG_47@64"
+      - "Relay_🇨🇳CN-🇹🇼TW_111@65"
+      - "Relay_🇺🇸US-🇺🇸US_848@66"
+      - "Relay_🇨🇳CN-🇸🇬SG_127@67"
+      - "Relay_🇨🇳CN-🇸🇬SG_103@68"
+      - "Relay_🇨🇳CN-🇸🇬SG_104@69"
+      - "美国(yudou66.com 玉豆免费节点)@70"
+      - "Relay_🇸🇬SG-🇳🇿NZ_804@71"
+      - "Relay_🇨🇳CN-🇺🇸US_128@72"
+      - "Relay_🇯🇵JP-🇺🇸US_373@73"
+      - "Relay_🏁ZZ-🇺🇸US_1385@74"
+      - "Relay_🇨🇳CN-🇸🇬SG_109@75"
+      - "Relay_🇹🇼TW-🇹🇼TW_672@76"
+      - "Relay_🇭🇰HK-🇭🇰HK_304@77"
+      - "🇺🇸US_205@78"
+      - "Relay_🇭🇰HK-🇳🇱NL_308@79"
+      - "🇺🇸US_432@80"
+      - "Relay_🇸🇬SG-🇹🇼TW_636@81"
+      - "Relay_🏁ZZ-🇬🇧GB_1379@82"
+      - "🇪🇸_ES_西班牙_2_34@83"
+      - "Relay_🇯🇵JP-🇷🇺RU_386@84"
+      - "Relay_🇨🇳CN-🇺🇸US_118@85"
+      - "Relay_🇸🇬SG-🇳🇿NZ_648@86"
+      - "Relay_🇸🇬SG-🇦🇪AE_640@87"
+      - "Relay_🇸🇬SG-🇹🇼TW_632@88"
+      - "Relay_🇨🇳CN-🇭🇰HK_119@89"
+      - "Relay_🇯🇵JP-🇯🇵JP_546@90"
+      - "Relay_🇨🇳CN-🇯🇵JP_121@91"
+      - "美国(yudou66.com 玉豆免费节点)@92"
+      - "Relay_🇹🇼TW-🇹🇼TW_676@93"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@94"
 
   - name: 📲 电报信息
     type: select
@@ -197,32 +473,101 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-07 19:12:44"
-      - "Relay_🇸🇬SG-🇸🇬SG_656@1"
-      - "Relay_🇹🇼TW-🇹🇼TW_682@2"
-      - "美国(yudou66.com 玉豆免费节点)@3"
-      - "🇪🇸_ES_西班牙_由快嘴科技提供：kkzui.com_2@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "🇬🇧GB_300@7"
-      - "荷兰(yudou66.com 玉豆免费节点)@8"
-      - "🇺🇸US_1131@9"
-      - "🇮🇪IE_370@10"
-      - "🇮🇪IE_336@11"
-      - "Relay_🇭🇰HK-🇭🇰HK_321@12"
-      - "🇨🇦CA_38@13"
-      - "Relay_🇯🇵JP-🇯🇵JP_413@14"
-      - "🇪🇸_ES_西班牙_2_34@15"
-      - "_127@16"
-      - "美国(yudou66.com 玉豆免费节点)@17"
-      - "_26@18"
-      - "Relay_🇺🇸US-🇺🇸US_493@19"
-      - "🇺🇸US_598@20"
-      - "🇺🇸US_432@21"
-      - "美国(yudou66.com 玉豆免费节点)@22"
-      - "Relay_🇺🇸US-🇺🇸US_582@23"
-      - "🇸🇬 _SG_新加坡@24"
-      - "Relay_🇺🇸US-🇭🇰HK_539@25"
+      - "下载更新时间：2023-08-07 19:46:00"
+      - "Relay_🇯🇵JP-🇸🇪SE_361@1"
+      - "Relay_🇸🇬SG-🇵🇭PH_643@2"
+      - "Relay_🇸🇬SG-🇩🇪DE_649@3"
+      - "Relay_🇺🇸US-🇯🇵JP_934@4"
+      - "Relay_🏁ZZ-🇨🇦CA_1370@5"
+      - "Relay_🇸🇬SG-🇫🇷FR_622@6"
+      - "Relay_🇸🇬SG-🇩🇪DE_651@7"
+      - "Relay_🇨🇳CN-🇯🇵JP_124@8"
+      - "Relay_🇨🇳CN-🇭🇰HK_97@9"
+      - "Relay_🇺🇸US-🇸🇬SG_928@10"
+      - "Relay_🇯🇵JP-🇯🇵JP_480@11"
+      - "Relay_🇨🇳CN-🇺🇸US_112@12"
+      - "🇸🇬SG_567@13"
+      - "Relay_🇸🇬SG-🇰🇭KH_837@14"
+      - "Relay_🇨🇳CN-🇭🇰HK_126@15"
+      - "法国(yudou66.com 玉豆免费节点)@16"
+      - "🇰🇷KR_569@17"
+      - "Relay_🇸🇬SG-🇮🇱IL_654@18"
+      - "Relay_🇨🇳CN-🇸🇬SG_130@19"
+      - "Relay_🇯🇵JP-🇺🇸US_390@20"
+      - "🇺🇸US_445@21"
+      - "Relay_🇸🇬SG-🇸🇬SG_832@22"
+      - "🇰🇷KR_558@23"
+      - "_US_美国@24"
+      - "Relay_🏁ZZ-🇺🇸US_1377@25"
+      - "Relay_🇨🇳CN-🇺🇸US_131@26"
+      - "Relay_🇸🇬SG-🇨🇱CL_833@27"
+      - "Relay_🇯🇵JP-🇸🇪SE_398@28"
+      - "Relay_🇯🇵JP-🇰🇿KZ_554@29"
+      - "Relay_🇯🇵JP-🇮🇳IN_362@30"
+      - "Relay_🇯🇵JP-🇳🇱NL_395@31"
+      - "Relay_🇭🇰HK-🇭🇰HK_311@32"
+      - "Relay_🇨🇳CN-🇭🇰HK_129@33"
+      - "Relay_🇨🇳CN-🇺🇸US_122@34"
+      - "Relay_🇺🇸US-🇺🇸US_853@35"
+      - "Relay_🇯🇵JP-🇧🇷BR_364@36"
+      - "🇯🇵JP_350@37"
+      - "Relay_🇯🇵JP-🇳🇱NL_387@38"
+      - "Relay_🇨🇳CN-🇯🇵JP_115@39"
+      - "Relay_🇹🇼TW-🇹🇼TW_675@40"
+      - "Relay_🏁ZZ-🇧🇷BR_1364@41"
+      - "Relay_🇯🇵JP-🇯🇵JP_394@42"
+      - "Relay_🇺🇸US-🇸🇬SG_940@43"
+      - "🇰🇷KR_557@44"
+      - "_127@45"
+      - "Relay_🇨🇳CN-🇺🇸US_114@46"
+      - "Relay_🇺🇸US-🇳🇱NL_879@47"
+      - "Relay_🇯🇵JP-🇯🇵JP_406@48"
+      - "Relay_🇸🇬SG-🇵🇪PE_778@49"
+      - "Relay_🇯🇵JP-🇯🇵JP_376@50"
+      - "Relay_🇨🇳CN-🇹🇼TW_116@51"
+      - "Relay_🇨🇳CN-🇯🇵JP_98@52"
+      - "Relay_🇯🇵JP-🇧🇷BR_393@53"
+      - "Relay_🇸🇬SG-🇵🇭PH_779@54"
+      - "Relay_🇸🇬SG-🇸🇬SG_840@55"
+      - "Relay_-🇺🇸US_105@56"
+      - "🇩🇪DE_213@57"
+      - "Relay_🇨🇳CN-🇯🇵JP_125@58"
+      - "Relay_🇨🇳CN-🇹🇼TW_123@59"
+      - "Relay_🇸🇬SG-🇸🇬SG_815@60"
+      - "Relay_🇯🇵JP-🇨🇴CO_384@61"
+      - "Relay_🇨🇳CN-🇰🇷KR_105@62"
+      - "_26@63"
+      - "Relay_🇨🇳CN-🇸🇬SG_47@64"
+      - "Relay_🇨🇳CN-🇹🇼TW_111@65"
+      - "Relay_🇺🇸US-🇺🇸US_848@66"
+      - "Relay_🇨🇳CN-🇸🇬SG_127@67"
+      - "Relay_🇨🇳CN-🇸🇬SG_103@68"
+      - "Relay_🇨🇳CN-🇸🇬SG_104@69"
+      - "美国(yudou66.com 玉豆免费节点)@70"
+      - "Relay_🇸🇬SG-🇳🇿NZ_804@71"
+      - "Relay_🇨🇳CN-🇺🇸US_128@72"
+      - "Relay_🇯🇵JP-🇺🇸US_373@73"
+      - "Relay_🏁ZZ-🇺🇸US_1385@74"
+      - "Relay_🇨🇳CN-🇸🇬SG_109@75"
+      - "Relay_🇹🇼TW-🇹🇼TW_672@76"
+      - "Relay_🇭🇰HK-🇭🇰HK_304@77"
+      - "🇺🇸US_205@78"
+      - "Relay_🇭🇰HK-🇳🇱NL_308@79"
+      - "🇺🇸US_432@80"
+      - "Relay_🇸🇬SG-🇹🇼TW_636@81"
+      - "Relay_🏁ZZ-🇬🇧GB_1379@82"
+      - "🇪🇸_ES_西班牙_2_34@83"
+      - "Relay_🇯🇵JP-🇷🇺RU_386@84"
+      - "Relay_🇨🇳CN-🇺🇸US_118@85"
+      - "Relay_🇸🇬SG-🇳🇿NZ_648@86"
+      - "Relay_🇸🇬SG-🇦🇪AE_640@87"
+      - "Relay_🇸🇬SG-🇹🇼TW_632@88"
+      - "Relay_🇨🇳CN-🇭🇰HK_119@89"
+      - "Relay_🇯🇵JP-🇯🇵JP_546@90"
+      - "Relay_🇨🇳CN-🇯🇵JP_121@91"
+      - "美国(yudou66.com 玉豆免费节点)@92"
+      - "Relay_🇹🇼TW-🇹🇼TW_676@93"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@94"
 
   - name: Ⓜ️ 微软服务
     type: select
@@ -230,32 +575,101 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "下载更新时间：2023-08-07 19:12:44"
-      - "Relay_🇸🇬SG-🇸🇬SG_656@1"
-      - "Relay_🇹🇼TW-🇹🇼TW_682@2"
-      - "美国(yudou66.com 玉豆免费节点)@3"
-      - "🇪🇸_ES_西班牙_由快嘴科技提供：kkzui.com_2@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "🇬🇧GB_300@7"
-      - "荷兰(yudou66.com 玉豆免费节点)@8"
-      - "🇺🇸US_1131@9"
-      - "🇮🇪IE_370@10"
-      - "🇮🇪IE_336@11"
-      - "Relay_🇭🇰HK-🇭🇰HK_321@12"
-      - "🇨🇦CA_38@13"
-      - "Relay_🇯🇵JP-🇯🇵JP_413@14"
-      - "🇪🇸_ES_西班牙_2_34@15"
-      - "_127@16"
-      - "美国(yudou66.com 玉豆免费节点)@17"
-      - "_26@18"
-      - "Relay_🇺🇸US-🇺🇸US_493@19"
-      - "🇺🇸US_598@20"
-      - "🇺🇸US_432@21"
-      - "美国(yudou66.com 玉豆免费节点)@22"
-      - "Relay_🇺🇸US-🇺🇸US_582@23"
-      - "🇸🇬 _SG_新加坡@24"
-      - "Relay_🇺🇸US-🇭🇰HK_539@25"
+      - "下载更新时间：2023-08-07 19:46:00"
+      - "Relay_🇯🇵JP-🇸🇪SE_361@1"
+      - "Relay_🇸🇬SG-🇵🇭PH_643@2"
+      - "Relay_🇸🇬SG-🇩🇪DE_649@3"
+      - "Relay_🇺🇸US-🇯🇵JP_934@4"
+      - "Relay_🏁ZZ-🇨🇦CA_1370@5"
+      - "Relay_🇸🇬SG-🇫🇷FR_622@6"
+      - "Relay_🇸🇬SG-🇩🇪DE_651@7"
+      - "Relay_🇨🇳CN-🇯🇵JP_124@8"
+      - "Relay_🇨🇳CN-🇭🇰HK_97@9"
+      - "Relay_🇺🇸US-🇸🇬SG_928@10"
+      - "Relay_🇯🇵JP-🇯🇵JP_480@11"
+      - "Relay_🇨🇳CN-🇺🇸US_112@12"
+      - "🇸🇬SG_567@13"
+      - "Relay_🇸🇬SG-🇰🇭KH_837@14"
+      - "Relay_🇨🇳CN-🇭🇰HK_126@15"
+      - "法国(yudou66.com 玉豆免费节点)@16"
+      - "🇰🇷KR_569@17"
+      - "Relay_🇸🇬SG-🇮🇱IL_654@18"
+      - "Relay_🇨🇳CN-🇸🇬SG_130@19"
+      - "Relay_🇯🇵JP-🇺🇸US_390@20"
+      - "🇺🇸US_445@21"
+      - "Relay_🇸🇬SG-🇸🇬SG_832@22"
+      - "🇰🇷KR_558@23"
+      - "_US_美国@24"
+      - "Relay_🏁ZZ-🇺🇸US_1377@25"
+      - "Relay_🇨🇳CN-🇺🇸US_131@26"
+      - "Relay_🇸🇬SG-🇨🇱CL_833@27"
+      - "Relay_🇯🇵JP-🇸🇪SE_398@28"
+      - "Relay_🇯🇵JP-🇰🇿KZ_554@29"
+      - "Relay_🇯🇵JP-🇮🇳IN_362@30"
+      - "Relay_🇯🇵JP-🇳🇱NL_395@31"
+      - "Relay_🇭🇰HK-🇭🇰HK_311@32"
+      - "Relay_🇨🇳CN-🇭🇰HK_129@33"
+      - "Relay_🇨🇳CN-🇺🇸US_122@34"
+      - "Relay_🇺🇸US-🇺🇸US_853@35"
+      - "Relay_🇯🇵JP-🇧🇷BR_364@36"
+      - "🇯🇵JP_350@37"
+      - "Relay_🇯🇵JP-🇳🇱NL_387@38"
+      - "Relay_🇨🇳CN-🇯🇵JP_115@39"
+      - "Relay_🇹🇼TW-🇹🇼TW_675@40"
+      - "Relay_🏁ZZ-🇧🇷BR_1364@41"
+      - "Relay_🇯🇵JP-🇯🇵JP_394@42"
+      - "Relay_🇺🇸US-🇸🇬SG_940@43"
+      - "🇰🇷KR_557@44"
+      - "_127@45"
+      - "Relay_🇨🇳CN-🇺🇸US_114@46"
+      - "Relay_🇺🇸US-🇳🇱NL_879@47"
+      - "Relay_🇯🇵JP-🇯🇵JP_406@48"
+      - "Relay_🇸🇬SG-🇵🇪PE_778@49"
+      - "Relay_🇯🇵JP-🇯🇵JP_376@50"
+      - "Relay_🇨🇳CN-🇹🇼TW_116@51"
+      - "Relay_🇨🇳CN-🇯🇵JP_98@52"
+      - "Relay_🇯🇵JP-🇧🇷BR_393@53"
+      - "Relay_🇸🇬SG-🇵🇭PH_779@54"
+      - "Relay_🇸🇬SG-🇸🇬SG_840@55"
+      - "Relay_-🇺🇸US_105@56"
+      - "🇩🇪DE_213@57"
+      - "Relay_🇨🇳CN-🇯🇵JP_125@58"
+      - "Relay_🇨🇳CN-🇹🇼TW_123@59"
+      - "Relay_🇸🇬SG-🇸🇬SG_815@60"
+      - "Relay_🇯🇵JP-🇨🇴CO_384@61"
+      - "Relay_🇨🇳CN-🇰🇷KR_105@62"
+      - "_26@63"
+      - "Relay_🇨🇳CN-🇸🇬SG_47@64"
+      - "Relay_🇨🇳CN-🇹🇼TW_111@65"
+      - "Relay_🇺🇸US-🇺🇸US_848@66"
+      - "Relay_🇨🇳CN-🇸🇬SG_127@67"
+      - "Relay_🇨🇳CN-🇸🇬SG_103@68"
+      - "Relay_🇨🇳CN-🇸🇬SG_104@69"
+      - "美国(yudou66.com 玉豆免费节点)@70"
+      - "Relay_🇸🇬SG-🇳🇿NZ_804@71"
+      - "Relay_🇨🇳CN-🇺🇸US_128@72"
+      - "Relay_🇯🇵JP-🇺🇸US_373@73"
+      - "Relay_🏁ZZ-🇺🇸US_1385@74"
+      - "Relay_🇨🇳CN-🇸🇬SG_109@75"
+      - "Relay_🇹🇼TW-🇹🇼TW_672@76"
+      - "Relay_🇭🇰HK-🇭🇰HK_304@77"
+      - "🇺🇸US_205@78"
+      - "Relay_🇭🇰HK-🇳🇱NL_308@79"
+      - "🇺🇸US_432@80"
+      - "Relay_🇸🇬SG-🇹🇼TW_636@81"
+      - "Relay_🏁ZZ-🇬🇧GB_1379@82"
+      - "🇪🇸_ES_西班牙_2_34@83"
+      - "Relay_🇯🇵JP-🇷🇺RU_386@84"
+      - "Relay_🇨🇳CN-🇺🇸US_118@85"
+      - "Relay_🇸🇬SG-🇳🇿NZ_648@86"
+      - "Relay_🇸🇬SG-🇦🇪AE_640@87"
+      - "Relay_🇸🇬SG-🇹🇼TW_632@88"
+      - "Relay_🇨🇳CN-🇭🇰HK_119@89"
+      - "Relay_🇯🇵JP-🇯🇵JP_546@90"
+      - "Relay_🇨🇳CN-🇯🇵JP_121@91"
+      - "美国(yudou66.com 玉豆免费节点)@92"
+      - "Relay_🇹🇼TW-🇹🇼TW_676@93"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@94"
 
   - name: 🍎 苹果服务
     type: select
@@ -263,32 +677,101 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-07 19:12:44"
-      - "Relay_🇸🇬SG-🇸🇬SG_656@1"
-      - "Relay_🇹🇼TW-🇹🇼TW_682@2"
-      - "美国(yudou66.com 玉豆免费节点)@3"
-      - "🇪🇸_ES_西班牙_由快嘴科技提供：kkzui.com_2@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "🇬🇧GB_300@7"
-      - "荷兰(yudou66.com 玉豆免费节点)@8"
-      - "🇺🇸US_1131@9"
-      - "🇮🇪IE_370@10"
-      - "🇮🇪IE_336@11"
-      - "Relay_🇭🇰HK-🇭🇰HK_321@12"
-      - "🇨🇦CA_38@13"
-      - "Relay_🇯🇵JP-🇯🇵JP_413@14"
-      - "🇪🇸_ES_西班牙_2_34@15"
-      - "_127@16"
-      - "美国(yudou66.com 玉豆免费节点)@17"
-      - "_26@18"
-      - "Relay_🇺🇸US-🇺🇸US_493@19"
-      - "🇺🇸US_598@20"
-      - "🇺🇸US_432@21"
-      - "美国(yudou66.com 玉豆免费节点)@22"
-      - "Relay_🇺🇸US-🇺🇸US_582@23"
-      - "🇸🇬 _SG_新加坡@24"
-      - "Relay_🇺🇸US-🇭🇰HK_539@25"
+      - "下载更新时间：2023-08-07 19:46:00"
+      - "Relay_🇯🇵JP-🇸🇪SE_361@1"
+      - "Relay_🇸🇬SG-🇵🇭PH_643@2"
+      - "Relay_🇸🇬SG-🇩🇪DE_649@3"
+      - "Relay_🇺🇸US-🇯🇵JP_934@4"
+      - "Relay_🏁ZZ-🇨🇦CA_1370@5"
+      - "Relay_🇸🇬SG-🇫🇷FR_622@6"
+      - "Relay_🇸🇬SG-🇩🇪DE_651@7"
+      - "Relay_🇨🇳CN-🇯🇵JP_124@8"
+      - "Relay_🇨🇳CN-🇭🇰HK_97@9"
+      - "Relay_🇺🇸US-🇸🇬SG_928@10"
+      - "Relay_🇯🇵JP-🇯🇵JP_480@11"
+      - "Relay_🇨🇳CN-🇺🇸US_112@12"
+      - "🇸🇬SG_567@13"
+      - "Relay_🇸🇬SG-🇰🇭KH_837@14"
+      - "Relay_🇨🇳CN-🇭🇰HK_126@15"
+      - "法国(yudou66.com 玉豆免费节点)@16"
+      - "🇰🇷KR_569@17"
+      - "Relay_🇸🇬SG-🇮🇱IL_654@18"
+      - "Relay_🇨🇳CN-🇸🇬SG_130@19"
+      - "Relay_🇯🇵JP-🇺🇸US_390@20"
+      - "🇺🇸US_445@21"
+      - "Relay_🇸🇬SG-🇸🇬SG_832@22"
+      - "🇰🇷KR_558@23"
+      - "_US_美国@24"
+      - "Relay_🏁ZZ-🇺🇸US_1377@25"
+      - "Relay_🇨🇳CN-🇺🇸US_131@26"
+      - "Relay_🇸🇬SG-🇨🇱CL_833@27"
+      - "Relay_🇯🇵JP-🇸🇪SE_398@28"
+      - "Relay_🇯🇵JP-🇰🇿KZ_554@29"
+      - "Relay_🇯🇵JP-🇮🇳IN_362@30"
+      - "Relay_🇯🇵JP-🇳🇱NL_395@31"
+      - "Relay_🇭🇰HK-🇭🇰HK_311@32"
+      - "Relay_🇨🇳CN-🇭🇰HK_129@33"
+      - "Relay_🇨🇳CN-🇺🇸US_122@34"
+      - "Relay_🇺🇸US-🇺🇸US_853@35"
+      - "Relay_🇯🇵JP-🇧🇷BR_364@36"
+      - "🇯🇵JP_350@37"
+      - "Relay_🇯🇵JP-🇳🇱NL_387@38"
+      - "Relay_🇨🇳CN-🇯🇵JP_115@39"
+      - "Relay_🇹🇼TW-🇹🇼TW_675@40"
+      - "Relay_🏁ZZ-🇧🇷BR_1364@41"
+      - "Relay_🇯🇵JP-🇯🇵JP_394@42"
+      - "Relay_🇺🇸US-🇸🇬SG_940@43"
+      - "🇰🇷KR_557@44"
+      - "_127@45"
+      - "Relay_🇨🇳CN-🇺🇸US_114@46"
+      - "Relay_🇺🇸US-🇳🇱NL_879@47"
+      - "Relay_🇯🇵JP-🇯🇵JP_406@48"
+      - "Relay_🇸🇬SG-🇵🇪PE_778@49"
+      - "Relay_🇯🇵JP-🇯🇵JP_376@50"
+      - "Relay_🇨🇳CN-🇹🇼TW_116@51"
+      - "Relay_🇨🇳CN-🇯🇵JP_98@52"
+      - "Relay_🇯🇵JP-🇧🇷BR_393@53"
+      - "Relay_🇸🇬SG-🇵🇭PH_779@54"
+      - "Relay_🇸🇬SG-🇸🇬SG_840@55"
+      - "Relay_-🇺🇸US_105@56"
+      - "🇩🇪DE_213@57"
+      - "Relay_🇨🇳CN-🇯🇵JP_125@58"
+      - "Relay_🇨🇳CN-🇹🇼TW_123@59"
+      - "Relay_🇸🇬SG-🇸🇬SG_815@60"
+      - "Relay_🇯🇵JP-🇨🇴CO_384@61"
+      - "Relay_🇨🇳CN-🇰🇷KR_105@62"
+      - "_26@63"
+      - "Relay_🇨🇳CN-🇸🇬SG_47@64"
+      - "Relay_🇨🇳CN-🇹🇼TW_111@65"
+      - "Relay_🇺🇸US-🇺🇸US_848@66"
+      - "Relay_🇨🇳CN-🇸🇬SG_127@67"
+      - "Relay_🇨🇳CN-🇸🇬SG_103@68"
+      - "Relay_🇨🇳CN-🇸🇬SG_104@69"
+      - "美国(yudou66.com 玉豆免费节点)@70"
+      - "Relay_🇸🇬SG-🇳🇿NZ_804@71"
+      - "Relay_🇨🇳CN-🇺🇸US_128@72"
+      - "Relay_🇯🇵JP-🇺🇸US_373@73"
+      - "Relay_🏁ZZ-🇺🇸US_1385@74"
+      - "Relay_🇨🇳CN-🇸🇬SG_109@75"
+      - "Relay_🇹🇼TW-🇹🇼TW_672@76"
+      - "Relay_🇭🇰HK-🇭🇰HK_304@77"
+      - "🇺🇸US_205@78"
+      - "Relay_🇭🇰HK-🇳🇱NL_308@79"
+      - "🇺🇸US_432@80"
+      - "Relay_🇸🇬SG-🇹🇼TW_636@81"
+      - "Relay_🏁ZZ-🇬🇧GB_1379@82"
+      - "🇪🇸_ES_西班牙_2_34@83"
+      - "Relay_🇯🇵JP-🇷🇺RU_386@84"
+      - "Relay_🇨🇳CN-🇺🇸US_118@85"
+      - "Relay_🇸🇬SG-🇳🇿NZ_648@86"
+      - "Relay_🇸🇬SG-🇦🇪AE_640@87"
+      - "Relay_🇸🇬SG-🇹🇼TW_632@88"
+      - "Relay_🇨🇳CN-🇭🇰HK_119@89"
+      - "Relay_🇯🇵JP-🇯🇵JP_546@90"
+      - "Relay_🇨🇳CN-🇯🇵JP_121@91"
+      - "美国(yudou66.com 玉豆免费节点)@92"
+      - "Relay_🇹🇼TW-🇹🇼TW_676@93"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@94"
 
   - name: 🎯 全球直连
     type: select
@@ -316,32 +799,101 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "下载更新时间：2023-08-07 19:12:44"
-      - "Relay_🇸🇬SG-🇸🇬SG_656@1"
-      - "Relay_🇹🇼TW-🇹🇼TW_682@2"
-      - "美国(yudou66.com 玉豆免费节点)@3"
-      - "🇪🇸_ES_西班牙_由快嘴科技提供：kkzui.com_2@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "🇬🇧GB_300@7"
-      - "荷兰(yudou66.com 玉豆免费节点)@8"
-      - "🇺🇸US_1131@9"
-      - "🇮🇪IE_370@10"
-      - "🇮🇪IE_336@11"
-      - "Relay_🇭🇰HK-🇭🇰HK_321@12"
-      - "🇨🇦CA_38@13"
-      - "Relay_🇯🇵JP-🇯🇵JP_413@14"
-      - "🇪🇸_ES_西班牙_2_34@15"
-      - "_127@16"
-      - "美国(yudou66.com 玉豆免费节点)@17"
-      - "_26@18"
-      - "Relay_🇺🇸US-🇺🇸US_493@19"
-      - "🇺🇸US_598@20"
-      - "🇺🇸US_432@21"
-      - "美国(yudou66.com 玉豆免费节点)@22"
-      - "Relay_🇺🇸US-🇺🇸US_582@23"
-      - "🇸🇬 _SG_新加坡@24"
-      - "Relay_🇺🇸US-🇭🇰HK_539@25"
+      - "下载更新时间：2023-08-07 19:46:00"
+      - "Relay_🇯🇵JP-🇸🇪SE_361@1"
+      - "Relay_🇸🇬SG-🇵🇭PH_643@2"
+      - "Relay_🇸🇬SG-🇩🇪DE_649@3"
+      - "Relay_🇺🇸US-🇯🇵JP_934@4"
+      - "Relay_🏁ZZ-🇨🇦CA_1370@5"
+      - "Relay_🇸🇬SG-🇫🇷FR_622@6"
+      - "Relay_🇸🇬SG-🇩🇪DE_651@7"
+      - "Relay_🇨🇳CN-🇯🇵JP_124@8"
+      - "Relay_🇨🇳CN-🇭🇰HK_97@9"
+      - "Relay_🇺🇸US-🇸🇬SG_928@10"
+      - "Relay_🇯🇵JP-🇯🇵JP_480@11"
+      - "Relay_🇨🇳CN-🇺🇸US_112@12"
+      - "🇸🇬SG_567@13"
+      - "Relay_🇸🇬SG-🇰🇭KH_837@14"
+      - "Relay_🇨🇳CN-🇭🇰HK_126@15"
+      - "法国(yudou66.com 玉豆免费节点)@16"
+      - "🇰🇷KR_569@17"
+      - "Relay_🇸🇬SG-🇮🇱IL_654@18"
+      - "Relay_🇨🇳CN-🇸🇬SG_130@19"
+      - "Relay_🇯🇵JP-🇺🇸US_390@20"
+      - "🇺🇸US_445@21"
+      - "Relay_🇸🇬SG-🇸🇬SG_832@22"
+      - "🇰🇷KR_558@23"
+      - "_US_美国@24"
+      - "Relay_🏁ZZ-🇺🇸US_1377@25"
+      - "Relay_🇨🇳CN-🇺🇸US_131@26"
+      - "Relay_🇸🇬SG-🇨🇱CL_833@27"
+      - "Relay_🇯🇵JP-🇸🇪SE_398@28"
+      - "Relay_🇯🇵JP-🇰🇿KZ_554@29"
+      - "Relay_🇯🇵JP-🇮🇳IN_362@30"
+      - "Relay_🇯🇵JP-🇳🇱NL_395@31"
+      - "Relay_🇭🇰HK-🇭🇰HK_311@32"
+      - "Relay_🇨🇳CN-🇭🇰HK_129@33"
+      - "Relay_🇨🇳CN-🇺🇸US_122@34"
+      - "Relay_🇺🇸US-🇺🇸US_853@35"
+      - "Relay_🇯🇵JP-🇧🇷BR_364@36"
+      - "🇯🇵JP_350@37"
+      - "Relay_🇯🇵JP-🇳🇱NL_387@38"
+      - "Relay_🇨🇳CN-🇯🇵JP_115@39"
+      - "Relay_🇹🇼TW-🇹🇼TW_675@40"
+      - "Relay_🏁ZZ-🇧🇷BR_1364@41"
+      - "Relay_🇯🇵JP-🇯🇵JP_394@42"
+      - "Relay_🇺🇸US-🇸🇬SG_940@43"
+      - "🇰🇷KR_557@44"
+      - "_127@45"
+      - "Relay_🇨🇳CN-🇺🇸US_114@46"
+      - "Relay_🇺🇸US-🇳🇱NL_879@47"
+      - "Relay_🇯🇵JP-🇯🇵JP_406@48"
+      - "Relay_🇸🇬SG-🇵🇪PE_778@49"
+      - "Relay_🇯🇵JP-🇯🇵JP_376@50"
+      - "Relay_🇨🇳CN-🇹🇼TW_116@51"
+      - "Relay_🇨🇳CN-🇯🇵JP_98@52"
+      - "Relay_🇯🇵JP-🇧🇷BR_393@53"
+      - "Relay_🇸🇬SG-🇵🇭PH_779@54"
+      - "Relay_🇸🇬SG-🇸🇬SG_840@55"
+      - "Relay_-🇺🇸US_105@56"
+      - "🇩🇪DE_213@57"
+      - "Relay_🇨🇳CN-🇯🇵JP_125@58"
+      - "Relay_🇨🇳CN-🇹🇼TW_123@59"
+      - "Relay_🇸🇬SG-🇸🇬SG_815@60"
+      - "Relay_🇯🇵JP-🇨🇴CO_384@61"
+      - "Relay_🇨🇳CN-🇰🇷KR_105@62"
+      - "_26@63"
+      - "Relay_🇨🇳CN-🇸🇬SG_47@64"
+      - "Relay_🇨🇳CN-🇹🇼TW_111@65"
+      - "Relay_🇺🇸US-🇺🇸US_848@66"
+      - "Relay_🇨🇳CN-🇸🇬SG_127@67"
+      - "Relay_🇨🇳CN-🇸🇬SG_103@68"
+      - "Relay_🇨🇳CN-🇸🇬SG_104@69"
+      - "美国(yudou66.com 玉豆免费节点)@70"
+      - "Relay_🇸🇬SG-🇳🇿NZ_804@71"
+      - "Relay_🇨🇳CN-🇺🇸US_128@72"
+      - "Relay_🇯🇵JP-🇺🇸US_373@73"
+      - "Relay_🏁ZZ-🇺🇸US_1385@74"
+      - "Relay_🇨🇳CN-🇸🇬SG_109@75"
+      - "Relay_🇹🇼TW-🇹🇼TW_672@76"
+      - "Relay_🇭🇰HK-🇭🇰HK_304@77"
+      - "🇺🇸US_205@78"
+      - "Relay_🇭🇰HK-🇳🇱NL_308@79"
+      - "🇺🇸US_432@80"
+      - "Relay_🇸🇬SG-🇹🇼TW_636@81"
+      - "Relay_🏁ZZ-🇬🇧GB_1379@82"
+      - "🇪🇸_ES_西班牙_2_34@83"
+      - "Relay_🇯🇵JP-🇷🇺RU_386@84"
+      - "Relay_🇨🇳CN-🇺🇸US_118@85"
+      - "Relay_🇸🇬SG-🇳🇿NZ_648@86"
+      - "Relay_🇸🇬SG-🇦🇪AE_640@87"
+      - "Relay_🇸🇬SG-🇹🇼TW_632@88"
+      - "Relay_🇨🇳CN-🇭🇰HK_119@89"
+      - "Relay_🇯🇵JP-🇯🇵JP_546@90"
+      - "Relay_🇨🇳CN-🇯🇵JP_121@91"
+      - "美国(yudou66.com 玉豆免费节点)@92"
+      - "Relay_🇹🇼TW-🇹🇼TW_676@93"
+      - "Relay_🇨🇳CN-🇸🇬SG_49@94"
 
 
 rules:
@@ -3700,11 +4252,11 @@ rules:
   - MATCH,🐟 漏网之鱼
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-07 19:12:44
+#  创建时间：       2023-08-07 19:46:00
 #  模版：           自定义模版
-#  节点数量：       26
-#  vmess数量：      11
-#  trojan数量：     10
-#  ss数量：         5
+#  节点数量：       95
+#  vmess数量：      51
+#  trojan数量：     31
+#  ss数量：         13
 #  ssr数量：        0
 #-------------------------------------------------------------#
