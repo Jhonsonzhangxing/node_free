@@ -1,11 +1,11 @@
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-08 15:05:04
+#  创建时间：       2023-08-08 16:01:01
 #  模版：           自定义模版
-#  节点数量：       14
-#  vmess数量：      4
+#  节点数量：       60
+#  vmess数量：      46
 #  trojan数量：     9
-#  ss数量：         1
+#  ss数量：         5
 #  ssr数量：        0
 #-------------------------------------------------------------#
 port: 7890
@@ -61,20 +61,66 @@ dns:
 
 
 proxies:
- - {name: "下载更新时间：2023-08-08 15:05:04", server: sg1.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "日本(yudou66.com 玉豆免费节点)@1", server: jp2.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "新加坡(yudou66.com 玉豆免费节点)@2", server: sg2.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "日本(yudou66.com 玉豆免费节点)@3", server: azjp2.downloadvip.cfd, port: 38200, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "美国(yudou66.com 玉豆免费节点)@4", server: 199.188.108.229, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.16616906.xyz"}}}
- - {name: "US_分享日记@5", server: iaudhcui.76898102.xyz, port: 2052, type: vmess, cipher: auto, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, tls: false, alterId: 0, network: ws, ws-opts: {path: "/nfdguiw", headers: {Host: "asfgdvf.76898102.xyz"}}}
- - {name: "美国(yudou66.com 玉豆免费节点)@6", server: 163.123.192.154, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "美国(yudou66.com 玉豆免费节点)@7", server: 163.123.192.156, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "美国(yudou66.com 玉豆免费节点)@8", server: 163.123.192.155, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "AE迪拜流(youtube阿伟科技)@9", server: series-g1.samanehha.co, port: 443, type: ss, password: "sgjJsZJHLlhmdvUk", cipher: chacha20-ietf-poly1305}
- - {name: "美国(yudou66.com 玉豆免费节点)@10", server: 163.123.192.153, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "美国(yudou66.com 玉豆免费节点)@11", server: 162.159.130.198, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp4.scproxy.top"}}}
- - {name: "台湾(yudou66.com 玉豆免费节点)@12", server: hinet1.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "美国(yudou66.com 玉豆免费节点)@13", server: downloadvip.cfd, port: 443, type: vmess, cipher: auto, uuid: 6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29, tls: false, alterId: 0, network: ws, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "下载更新时间：2023-08-08 16:01:01", server: sg1.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "_SG_新加坡@1", server: 3.0.147.22, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "日本(yudou66.com 玉豆免费节点)@2", server: jp2.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "新加坡(yudou66.com 玉豆免费节点)@3", server: sg2.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "日本(yudou66.com 玉豆免费节点)@4", server: azjp2.downloadvip.cfd, port: 38200, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "美国(yudou66.com 玉豆免费节点)@5", server: 199.188.108.229, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.16616906.xyz"}}}
+ - {name: "美国_【YouTube-VV科技】@6", server: 142.4.98.24, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@7", server: 103.160.204.31, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国_【YouTube-VV科技】@8", server: 142.4.115.172, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691211678088", headers: {Host: "www.53997395.xyz"}}}
+ - {name: "🇰🇷&#43;_KR_韩国@9", server: 43.200.6.21, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@10", server: 103.184.44.242, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "未知17 20.3MB/s@11", server: 198.200.56.91, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691057598680", headers: {Host: ""}}}
+ - {name: "US_分享日记@12", server: iaudhcui.76898102.xyz, port: 2052, type: vmess, cipher: auto, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, tls: false, alterId: 0, network: ws, ws-opts: {path: "/nfdguiw", headers: {Host: "asfgdvf.76898102.xyz"}}}
+ - {name: "香港_【YouTube-VV科技】@13", server: 103.160.204.91, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@14", server: 103.184.45.37, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@15", server: 103.184.44.238, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "中国_【YouTube-VV科技】@16", server: 103.184.44.130, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@17", server: 103.184.44.245, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "加拿大 17@18", server: sblarm.kaolll.tech, port: 80, type: vmess, cipher: auto, uuid: 4ab886c7-e6e2-44af-b0e9-a2fdc81bf004, tls: false, alterId: 0, network: ws, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "中国_【YouTube-VV科技】@19", server: 103.184.44.240, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@20", server: 103.184.44.234, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@21", server: 103.184.44.117, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@22", server: 103.184.44.185, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@23", server: 103.184.45.42, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@24", server: 103.184.45.175, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@25", server: 103.184.45.169, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国(yudou66.com 玉豆免费节点)@26", server: 163.123.192.154, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@27", server: 103.184.45.1, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "中国_【YouTube-VV科技】@28", server: 103.184.45.26, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@29", server: 103.184.45.67, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@30", server: 103.184.44.163, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@31", server: 103.184.44.146, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@32", server: 103.184.44.193, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国_【YouTube-VV科技】@33", server: 156.225.67.164, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.75544744.xyz"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@34", server: 103.184.44.195, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "中国_【YouTube-VV科技】@35", server: 103.184.45.232, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国(yudou66.com 玉豆免费节点)@36", server: 163.123.192.156, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "荷兰_【YouTube-VV科技】@37", server: 46.182.107.71, port: 48119, type: vmess, cipher: auto, uuid: 375e70f0-5d46-476f-8d69-0fb35c5548a9, tls: false, alterId: 64, network: tcp, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国(yudou66.com 玉豆免费节点)@38", server: 163.123.192.155, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "AE迪拜流(youtube阿伟科技)@39", server: series-g1.samanehha.co, port: 443, type: ss, password: "sgjJsZJHLlhmdvUk", cipher: chacha20-ietf-poly1305}
+ - {name: "美国(yudou66.com 玉豆免费节点)@40", server: 163.123.192.153, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "美国 16@41", server: cold-dawn-9246.fly.dev, port: 443, type: vmess, cipher: auto, uuid: ea4909ef-7ca6-4b46-bf2e-6c07896ef338, tls: false, alterId: 0, network: ws, ws-opts: {path: "/ea4909ef-7ca6-4b46-bf2e-6c07896ef338-vm", headers: {Host: "cold-dawn-9246.fly.dev"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@42", server: 103.184.45.29, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@43", server: 103.184.44.156, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@44", server: 103.184.44.232, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@45", server: 103.184.45.171, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@46", server: 103.184.44.244, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "香港_【YouTube-VV科技】@47", server: 156.245.8.215, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.69414502.xyz"}}}
+ - {name: "美国_【YouTube-VV科技】@48", server: 45.199.138.192, port: 55015, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: tcp, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.69414502.xyz"}}}
+ - {name: "美国(yudou66.com 玉豆免费节点)@49", server: 162.159.130.198, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp4.scproxy.top"}}}
+ - {name: "美国(yudou66.com 玉豆免费节点)@50", server: 45.199.138.172, port: 43033, type: vmess, cipher: auto, uuid: 20b30916-e203-412e-8ec0-900f3acd5128, tls: false, alterId: 64, network: tcp}
+ - {name: "🇪🇺 欧洲(油管:破解资源君)@51", server: 54.36.174.181, port: 8119, type: ss, password: "cdBIDV42DCwnfIN", cipher: aes-256-gcm}
+ - {name: "美国_【YouTube-VV科技】@52", server: 45.199.138.136, port: 49169, type: vmess, cipher: auto, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, tls: false, alterId: 64, network: tcp}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@53", server: 103.184.44.240, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@54", server: 103.160.204.28, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "中国_【YouTube-VV科技】@55", server: 103.184.45.175, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "US美国(mibei77.com 米贝节点分享)@56", server: cfyd.starsea.vip, port: 443, type: vmess, cipher: auto, uuid: 3238151a-f634-4dcb-be84-7fc096e3674a, tls: false, alterId: 0, network: ws, ws-opts: {path: "/", headers: {Host: "dallas.starsea.vip"}}}
+ - {name: "台湾(yudou66.com 玉豆免费节点)@57", server: hinet1.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "美国(yudou66.com 玉豆免费节点)@58", server: downloadvip.cfd, port: 443, type: vmess, cipher: auto, uuid: 6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29, tls: false, alterId: 0, network: ws, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "_KR_韩国@59", server: 43.201.7.243, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
 
 
 proxy-groups:
@@ -84,20 +130,66 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "下载更新时间：2023-08-08 15:05:04"
-      - "日本(yudou66.com 玉豆免费节点)@1"
-      - "新加坡(yudou66.com 玉豆免费节点)@2"
-      - "日本(yudou66.com 玉豆免费节点)@3"
-      - "美国(yudou66.com 玉豆免费节点)@4"
-      - "US_分享日记@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "美国(yudou66.com 玉豆免费节点)@7"
-      - "美国(yudou66.com 玉豆免费节点)@8"
-      - "AE迪拜流(youtube阿伟科技)@9"
-      - "美国(yudou66.com 玉豆免费节点)@10"
-      - "美国(yudou66.com 玉豆免费节点)@11"
-      - "台湾(yudou66.com 玉豆免费节点)@12"
-      - "美国(yudou66.com 玉豆免费节点)@13"
+      - "下载更新时间：2023-08-08 16:01:01"
+      - "_SG_新加坡@1"
+      - "日本(yudou66.com 玉豆免费节点)@2"
+      - "新加坡(yudou66.com 玉豆免费节点)@3"
+      - "日本(yudou66.com 玉豆免费节点)@4"
+      - "美国(yudou66.com 玉豆免费节点)@5"
+      - "美国_【YouTube-VV科技】@6"
+      - "HK香港(mibei77.com 米贝节点分享)@7"
+      - "美国_【YouTube-VV科技】@8"
+      - "🇰🇷&#43;_KR_韩国@9"
+      - "HK香港(mibei77.com 米贝节点分享)@10"
+      - "未知17 20.3MB/s@11"
+      - "US_分享日记@12"
+      - "香港_【YouTube-VV科技】@13"
+      - "HK香港(mibei77.com 米贝节点分享)@14"
+      - "HK香港(mibei77.com 米贝节点分享)@15"
+      - "中国_【YouTube-VV科技】@16"
+      - "HK香港(mibei77.com 米贝节点分享)@17"
+      - "加拿大 17@18"
+      - "中国_【YouTube-VV科技】@19"
+      - "HK香港(mibei77.com 米贝节点分享)@20"
+      - "HK香港(mibei77.com 米贝节点分享)@21"
+      - "HK香港(mibei77.com 米贝节点分享)@22"
+      - "HK香港(mibei77.com 米贝节点分享)@23"
+      - "HK香港(mibei77.com 米贝节点分享)@24"
+      - "HK香港(mibei77.com 米贝节点分享)@25"
+      - "美国(yudou66.com 玉豆免费节点)@26"
+      - "HK香港(mibei77.com 米贝节点分享)@27"
+      - "中国_【YouTube-VV科技】@28"
+      - "HK香港(mibei77.com 米贝节点分享)@29"
+      - "HK香港(mibei77.com 米贝节点分享)@30"
+      - "HK香港(mibei77.com 米贝节点分享)@31"
+      - "HK香港(mibei77.com 米贝节点分享)@32"
+      - "美国_【YouTube-VV科技】@33"
+      - "HK香港(mibei77.com 米贝节点分享)@34"
+      - "中国_【YouTube-VV科技】@35"
+      - "美国(yudou66.com 玉豆免费节点)@36"
+      - "荷兰_【YouTube-VV科技】@37"
+      - "美国(yudou66.com 玉豆免费节点)@38"
+      - "AE迪拜流(youtube阿伟科技)@39"
+      - "美国(yudou66.com 玉豆免费节点)@40"
+      - "美国 16@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "HK香港(mibei77.com 米贝节点分享)@43"
+      - "HK香港(mibei77.com 米贝节点分享)@44"
+      - "HK香港(mibei77.com 米贝节点分享)@45"
+      - "HK香港(mibei77.com 米贝节点分享)@46"
+      - "香港_【YouTube-VV科技】@47"
+      - "美国_【YouTube-VV科技】@48"
+      - "美国(yudou66.com 玉豆免费节点)@49"
+      - "美国(yudou66.com 玉豆免费节点)@50"
+      - "🇪🇺 欧洲(油管:破解资源君)@51"
+      - "美国_【YouTube-VV科技】@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "HK香港(mibei77.com 米贝节点分享)@54"
+      - "中国_【YouTube-VV科技】@55"
+      - "US美国(mibei77.com 米贝节点分享)@56"
+      - "台湾(yudou66.com 玉豆免费节点)@57"
+      - "美国(yudou66.com 玉豆免费节点)@58"
+      - "_KR_韩国@59"
 
   - name: ♻️ 自动选择
     type: url-test
@@ -106,20 +198,66 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - "下载更新时间：2023-08-08 15:05:04"
-      - "日本(yudou66.com 玉豆免费节点)@1"
-      - "新加坡(yudou66.com 玉豆免费节点)@2"
-      - "日本(yudou66.com 玉豆免费节点)@3"
-      - "美国(yudou66.com 玉豆免费节点)@4"
-      - "US_分享日记@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "美国(yudou66.com 玉豆免费节点)@7"
-      - "美国(yudou66.com 玉豆免费节点)@8"
-      - "AE迪拜流(youtube阿伟科技)@9"
-      - "美国(yudou66.com 玉豆免费节点)@10"
-      - "美国(yudou66.com 玉豆免费节点)@11"
-      - "台湾(yudou66.com 玉豆免费节点)@12"
-      - "美国(yudou66.com 玉豆免费节点)@13"
+      - "下载更新时间：2023-08-08 16:01:01"
+      - "_SG_新加坡@1"
+      - "日本(yudou66.com 玉豆免费节点)@2"
+      - "新加坡(yudou66.com 玉豆免费节点)@3"
+      - "日本(yudou66.com 玉豆免费节点)@4"
+      - "美国(yudou66.com 玉豆免费节点)@5"
+      - "美国_【YouTube-VV科技】@6"
+      - "HK香港(mibei77.com 米贝节点分享)@7"
+      - "美国_【YouTube-VV科技】@8"
+      - "🇰🇷&#43;_KR_韩国@9"
+      - "HK香港(mibei77.com 米贝节点分享)@10"
+      - "未知17 20.3MB/s@11"
+      - "US_分享日记@12"
+      - "香港_【YouTube-VV科技】@13"
+      - "HK香港(mibei77.com 米贝节点分享)@14"
+      - "HK香港(mibei77.com 米贝节点分享)@15"
+      - "中国_【YouTube-VV科技】@16"
+      - "HK香港(mibei77.com 米贝节点分享)@17"
+      - "加拿大 17@18"
+      - "中国_【YouTube-VV科技】@19"
+      - "HK香港(mibei77.com 米贝节点分享)@20"
+      - "HK香港(mibei77.com 米贝节点分享)@21"
+      - "HK香港(mibei77.com 米贝节点分享)@22"
+      - "HK香港(mibei77.com 米贝节点分享)@23"
+      - "HK香港(mibei77.com 米贝节点分享)@24"
+      - "HK香港(mibei77.com 米贝节点分享)@25"
+      - "美国(yudou66.com 玉豆免费节点)@26"
+      - "HK香港(mibei77.com 米贝节点分享)@27"
+      - "中国_【YouTube-VV科技】@28"
+      - "HK香港(mibei77.com 米贝节点分享)@29"
+      - "HK香港(mibei77.com 米贝节点分享)@30"
+      - "HK香港(mibei77.com 米贝节点分享)@31"
+      - "HK香港(mibei77.com 米贝节点分享)@32"
+      - "美国_【YouTube-VV科技】@33"
+      - "HK香港(mibei77.com 米贝节点分享)@34"
+      - "中国_【YouTube-VV科技】@35"
+      - "美国(yudou66.com 玉豆免费节点)@36"
+      - "荷兰_【YouTube-VV科技】@37"
+      - "美国(yudou66.com 玉豆免费节点)@38"
+      - "AE迪拜流(youtube阿伟科技)@39"
+      - "美国(yudou66.com 玉豆免费节点)@40"
+      - "美国 16@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "HK香港(mibei77.com 米贝节点分享)@43"
+      - "HK香港(mibei77.com 米贝节点分享)@44"
+      - "HK香港(mibei77.com 米贝节点分享)@45"
+      - "HK香港(mibei77.com 米贝节点分享)@46"
+      - "香港_【YouTube-VV科技】@47"
+      - "美国_【YouTube-VV科技】@48"
+      - "美国(yudou66.com 玉豆免费节点)@49"
+      - "美国(yudou66.com 玉豆免费节点)@50"
+      - "🇪🇺 欧洲(油管:破解资源君)@51"
+      - "美国_【YouTube-VV科技】@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "HK香港(mibei77.com 米贝节点分享)@54"
+      - "中国_【YouTube-VV科技】@55"
+      - "US美国(mibei77.com 米贝节点分享)@56"
+      - "台湾(yudou66.com 玉豆免费节点)@57"
+      - "美国(yudou66.com 玉豆免费节点)@58"
+      - "_KR_韩国@59"
 
   - name: 🌍 国外媒体
     type: select
@@ -128,20 +266,66 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-08 15:05:04"
-      - "日本(yudou66.com 玉豆免费节点)@1"
-      - "新加坡(yudou66.com 玉豆免费节点)@2"
-      - "日本(yudou66.com 玉豆免费节点)@3"
-      - "美国(yudou66.com 玉豆免费节点)@4"
-      - "US_分享日记@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "美国(yudou66.com 玉豆免费节点)@7"
-      - "美国(yudou66.com 玉豆免费节点)@8"
-      - "AE迪拜流(youtube阿伟科技)@9"
-      - "美国(yudou66.com 玉豆免费节点)@10"
-      - "美国(yudou66.com 玉豆免费节点)@11"
-      - "台湾(yudou66.com 玉豆免费节点)@12"
-      - "美国(yudou66.com 玉豆免费节点)@13"
+      - "下载更新时间：2023-08-08 16:01:01"
+      - "_SG_新加坡@1"
+      - "日本(yudou66.com 玉豆免费节点)@2"
+      - "新加坡(yudou66.com 玉豆免费节点)@3"
+      - "日本(yudou66.com 玉豆免费节点)@4"
+      - "美国(yudou66.com 玉豆免费节点)@5"
+      - "美国_【YouTube-VV科技】@6"
+      - "HK香港(mibei77.com 米贝节点分享)@7"
+      - "美国_【YouTube-VV科技】@8"
+      - "🇰🇷&#43;_KR_韩国@9"
+      - "HK香港(mibei77.com 米贝节点分享)@10"
+      - "未知17 20.3MB/s@11"
+      - "US_分享日记@12"
+      - "香港_【YouTube-VV科技】@13"
+      - "HK香港(mibei77.com 米贝节点分享)@14"
+      - "HK香港(mibei77.com 米贝节点分享)@15"
+      - "中国_【YouTube-VV科技】@16"
+      - "HK香港(mibei77.com 米贝节点分享)@17"
+      - "加拿大 17@18"
+      - "中国_【YouTube-VV科技】@19"
+      - "HK香港(mibei77.com 米贝节点分享)@20"
+      - "HK香港(mibei77.com 米贝节点分享)@21"
+      - "HK香港(mibei77.com 米贝节点分享)@22"
+      - "HK香港(mibei77.com 米贝节点分享)@23"
+      - "HK香港(mibei77.com 米贝节点分享)@24"
+      - "HK香港(mibei77.com 米贝节点分享)@25"
+      - "美国(yudou66.com 玉豆免费节点)@26"
+      - "HK香港(mibei77.com 米贝节点分享)@27"
+      - "中国_【YouTube-VV科技】@28"
+      - "HK香港(mibei77.com 米贝节点分享)@29"
+      - "HK香港(mibei77.com 米贝节点分享)@30"
+      - "HK香港(mibei77.com 米贝节点分享)@31"
+      - "HK香港(mibei77.com 米贝节点分享)@32"
+      - "美国_【YouTube-VV科技】@33"
+      - "HK香港(mibei77.com 米贝节点分享)@34"
+      - "中国_【YouTube-VV科技】@35"
+      - "美国(yudou66.com 玉豆免费节点)@36"
+      - "荷兰_【YouTube-VV科技】@37"
+      - "美国(yudou66.com 玉豆免费节点)@38"
+      - "AE迪拜流(youtube阿伟科技)@39"
+      - "美国(yudou66.com 玉豆免费节点)@40"
+      - "美国 16@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "HK香港(mibei77.com 米贝节点分享)@43"
+      - "HK香港(mibei77.com 米贝节点分享)@44"
+      - "HK香港(mibei77.com 米贝节点分享)@45"
+      - "HK香港(mibei77.com 米贝节点分享)@46"
+      - "香港_【YouTube-VV科技】@47"
+      - "美国_【YouTube-VV科技】@48"
+      - "美国(yudou66.com 玉豆免费节点)@49"
+      - "美国(yudou66.com 玉豆免费节点)@50"
+      - "🇪🇺 欧洲(油管:破解资源君)@51"
+      - "美国_【YouTube-VV科技】@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "HK香港(mibei77.com 米贝节点分享)@54"
+      - "中国_【YouTube-VV科技】@55"
+      - "US美国(mibei77.com 米贝节点分享)@56"
+      - "台湾(yudou66.com 玉豆免费节点)@57"
+      - "美国(yudou66.com 玉豆免费节点)@58"
+      - "_KR_韩国@59"
 
   - name: 📲 电报信息
     type: select
@@ -149,20 +333,66 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-08 15:05:04"
-      - "日本(yudou66.com 玉豆免费节点)@1"
-      - "新加坡(yudou66.com 玉豆免费节点)@2"
-      - "日本(yudou66.com 玉豆免费节点)@3"
-      - "美国(yudou66.com 玉豆免费节点)@4"
-      - "US_分享日记@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "美国(yudou66.com 玉豆免费节点)@7"
-      - "美国(yudou66.com 玉豆免费节点)@8"
-      - "AE迪拜流(youtube阿伟科技)@9"
-      - "美国(yudou66.com 玉豆免费节点)@10"
-      - "美国(yudou66.com 玉豆免费节点)@11"
-      - "台湾(yudou66.com 玉豆免费节点)@12"
-      - "美国(yudou66.com 玉豆免费节点)@13"
+      - "下载更新时间：2023-08-08 16:01:01"
+      - "_SG_新加坡@1"
+      - "日本(yudou66.com 玉豆免费节点)@2"
+      - "新加坡(yudou66.com 玉豆免费节点)@3"
+      - "日本(yudou66.com 玉豆免费节点)@4"
+      - "美国(yudou66.com 玉豆免费节点)@5"
+      - "美国_【YouTube-VV科技】@6"
+      - "HK香港(mibei77.com 米贝节点分享)@7"
+      - "美国_【YouTube-VV科技】@8"
+      - "🇰🇷&#43;_KR_韩国@9"
+      - "HK香港(mibei77.com 米贝节点分享)@10"
+      - "未知17 20.3MB/s@11"
+      - "US_分享日记@12"
+      - "香港_【YouTube-VV科技】@13"
+      - "HK香港(mibei77.com 米贝节点分享)@14"
+      - "HK香港(mibei77.com 米贝节点分享)@15"
+      - "中国_【YouTube-VV科技】@16"
+      - "HK香港(mibei77.com 米贝节点分享)@17"
+      - "加拿大 17@18"
+      - "中国_【YouTube-VV科技】@19"
+      - "HK香港(mibei77.com 米贝节点分享)@20"
+      - "HK香港(mibei77.com 米贝节点分享)@21"
+      - "HK香港(mibei77.com 米贝节点分享)@22"
+      - "HK香港(mibei77.com 米贝节点分享)@23"
+      - "HK香港(mibei77.com 米贝节点分享)@24"
+      - "HK香港(mibei77.com 米贝节点分享)@25"
+      - "美国(yudou66.com 玉豆免费节点)@26"
+      - "HK香港(mibei77.com 米贝节点分享)@27"
+      - "中国_【YouTube-VV科技】@28"
+      - "HK香港(mibei77.com 米贝节点分享)@29"
+      - "HK香港(mibei77.com 米贝节点分享)@30"
+      - "HK香港(mibei77.com 米贝节点分享)@31"
+      - "HK香港(mibei77.com 米贝节点分享)@32"
+      - "美国_【YouTube-VV科技】@33"
+      - "HK香港(mibei77.com 米贝节点分享)@34"
+      - "中国_【YouTube-VV科技】@35"
+      - "美国(yudou66.com 玉豆免费节点)@36"
+      - "荷兰_【YouTube-VV科技】@37"
+      - "美国(yudou66.com 玉豆免费节点)@38"
+      - "AE迪拜流(youtube阿伟科技)@39"
+      - "美国(yudou66.com 玉豆免费节点)@40"
+      - "美国 16@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "HK香港(mibei77.com 米贝节点分享)@43"
+      - "HK香港(mibei77.com 米贝节点分享)@44"
+      - "HK香港(mibei77.com 米贝节点分享)@45"
+      - "HK香港(mibei77.com 米贝节点分享)@46"
+      - "香港_【YouTube-VV科技】@47"
+      - "美国_【YouTube-VV科技】@48"
+      - "美国(yudou66.com 玉豆免费节点)@49"
+      - "美国(yudou66.com 玉豆免费节点)@50"
+      - "🇪🇺 欧洲(油管:破解资源君)@51"
+      - "美国_【YouTube-VV科技】@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "HK香港(mibei77.com 米贝节点分享)@54"
+      - "中国_【YouTube-VV科技】@55"
+      - "US美国(mibei77.com 米贝节点分享)@56"
+      - "台湾(yudou66.com 玉豆免费节点)@57"
+      - "美国(yudou66.com 玉豆免费节点)@58"
+      - "_KR_韩国@59"
 
   - name: Ⓜ️ 微软服务
     type: select
@@ -170,20 +400,66 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "下载更新时间：2023-08-08 15:05:04"
-      - "日本(yudou66.com 玉豆免费节点)@1"
-      - "新加坡(yudou66.com 玉豆免费节点)@2"
-      - "日本(yudou66.com 玉豆免费节点)@3"
-      - "美国(yudou66.com 玉豆免费节点)@4"
-      - "US_分享日记@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "美国(yudou66.com 玉豆免费节点)@7"
-      - "美国(yudou66.com 玉豆免费节点)@8"
-      - "AE迪拜流(youtube阿伟科技)@9"
-      - "美国(yudou66.com 玉豆免费节点)@10"
-      - "美国(yudou66.com 玉豆免费节点)@11"
-      - "台湾(yudou66.com 玉豆免费节点)@12"
-      - "美国(yudou66.com 玉豆免费节点)@13"
+      - "下载更新时间：2023-08-08 16:01:01"
+      - "_SG_新加坡@1"
+      - "日本(yudou66.com 玉豆免费节点)@2"
+      - "新加坡(yudou66.com 玉豆免费节点)@3"
+      - "日本(yudou66.com 玉豆免费节点)@4"
+      - "美国(yudou66.com 玉豆免费节点)@5"
+      - "美国_【YouTube-VV科技】@6"
+      - "HK香港(mibei77.com 米贝节点分享)@7"
+      - "美国_【YouTube-VV科技】@8"
+      - "🇰🇷&#43;_KR_韩国@9"
+      - "HK香港(mibei77.com 米贝节点分享)@10"
+      - "未知17 20.3MB/s@11"
+      - "US_分享日记@12"
+      - "香港_【YouTube-VV科技】@13"
+      - "HK香港(mibei77.com 米贝节点分享)@14"
+      - "HK香港(mibei77.com 米贝节点分享)@15"
+      - "中国_【YouTube-VV科技】@16"
+      - "HK香港(mibei77.com 米贝节点分享)@17"
+      - "加拿大 17@18"
+      - "中国_【YouTube-VV科技】@19"
+      - "HK香港(mibei77.com 米贝节点分享)@20"
+      - "HK香港(mibei77.com 米贝节点分享)@21"
+      - "HK香港(mibei77.com 米贝节点分享)@22"
+      - "HK香港(mibei77.com 米贝节点分享)@23"
+      - "HK香港(mibei77.com 米贝节点分享)@24"
+      - "HK香港(mibei77.com 米贝节点分享)@25"
+      - "美国(yudou66.com 玉豆免费节点)@26"
+      - "HK香港(mibei77.com 米贝节点分享)@27"
+      - "中国_【YouTube-VV科技】@28"
+      - "HK香港(mibei77.com 米贝节点分享)@29"
+      - "HK香港(mibei77.com 米贝节点分享)@30"
+      - "HK香港(mibei77.com 米贝节点分享)@31"
+      - "HK香港(mibei77.com 米贝节点分享)@32"
+      - "美国_【YouTube-VV科技】@33"
+      - "HK香港(mibei77.com 米贝节点分享)@34"
+      - "中国_【YouTube-VV科技】@35"
+      - "美国(yudou66.com 玉豆免费节点)@36"
+      - "荷兰_【YouTube-VV科技】@37"
+      - "美国(yudou66.com 玉豆免费节点)@38"
+      - "AE迪拜流(youtube阿伟科技)@39"
+      - "美国(yudou66.com 玉豆免费节点)@40"
+      - "美国 16@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "HK香港(mibei77.com 米贝节点分享)@43"
+      - "HK香港(mibei77.com 米贝节点分享)@44"
+      - "HK香港(mibei77.com 米贝节点分享)@45"
+      - "HK香港(mibei77.com 米贝节点分享)@46"
+      - "香港_【YouTube-VV科技】@47"
+      - "美国_【YouTube-VV科技】@48"
+      - "美国(yudou66.com 玉豆免费节点)@49"
+      - "美国(yudou66.com 玉豆免费节点)@50"
+      - "🇪🇺 欧洲(油管:破解资源君)@51"
+      - "美国_【YouTube-VV科技】@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "HK香港(mibei77.com 米贝节点分享)@54"
+      - "中国_【YouTube-VV科技】@55"
+      - "US美国(mibei77.com 米贝节点分享)@56"
+      - "台湾(yudou66.com 玉豆免费节点)@57"
+      - "美国(yudou66.com 玉豆免费节点)@58"
+      - "_KR_韩国@59"
 
   - name: 🍎 苹果服务
     type: select
@@ -191,20 +467,66 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-08 15:05:04"
-      - "日本(yudou66.com 玉豆免费节点)@1"
-      - "新加坡(yudou66.com 玉豆免费节点)@2"
-      - "日本(yudou66.com 玉豆免费节点)@3"
-      - "美国(yudou66.com 玉豆免费节点)@4"
-      - "US_分享日记@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "美国(yudou66.com 玉豆免费节点)@7"
-      - "美国(yudou66.com 玉豆免费节点)@8"
-      - "AE迪拜流(youtube阿伟科技)@9"
-      - "美国(yudou66.com 玉豆免费节点)@10"
-      - "美国(yudou66.com 玉豆免费节点)@11"
-      - "台湾(yudou66.com 玉豆免费节点)@12"
-      - "美国(yudou66.com 玉豆免费节点)@13"
+      - "下载更新时间：2023-08-08 16:01:01"
+      - "_SG_新加坡@1"
+      - "日本(yudou66.com 玉豆免费节点)@2"
+      - "新加坡(yudou66.com 玉豆免费节点)@3"
+      - "日本(yudou66.com 玉豆免费节点)@4"
+      - "美国(yudou66.com 玉豆免费节点)@5"
+      - "美国_【YouTube-VV科技】@6"
+      - "HK香港(mibei77.com 米贝节点分享)@7"
+      - "美国_【YouTube-VV科技】@8"
+      - "🇰🇷&#43;_KR_韩国@9"
+      - "HK香港(mibei77.com 米贝节点分享)@10"
+      - "未知17 20.3MB/s@11"
+      - "US_分享日记@12"
+      - "香港_【YouTube-VV科技】@13"
+      - "HK香港(mibei77.com 米贝节点分享)@14"
+      - "HK香港(mibei77.com 米贝节点分享)@15"
+      - "中国_【YouTube-VV科技】@16"
+      - "HK香港(mibei77.com 米贝节点分享)@17"
+      - "加拿大 17@18"
+      - "中国_【YouTube-VV科技】@19"
+      - "HK香港(mibei77.com 米贝节点分享)@20"
+      - "HK香港(mibei77.com 米贝节点分享)@21"
+      - "HK香港(mibei77.com 米贝节点分享)@22"
+      - "HK香港(mibei77.com 米贝节点分享)@23"
+      - "HK香港(mibei77.com 米贝节点分享)@24"
+      - "HK香港(mibei77.com 米贝节点分享)@25"
+      - "美国(yudou66.com 玉豆免费节点)@26"
+      - "HK香港(mibei77.com 米贝节点分享)@27"
+      - "中国_【YouTube-VV科技】@28"
+      - "HK香港(mibei77.com 米贝节点分享)@29"
+      - "HK香港(mibei77.com 米贝节点分享)@30"
+      - "HK香港(mibei77.com 米贝节点分享)@31"
+      - "HK香港(mibei77.com 米贝节点分享)@32"
+      - "美国_【YouTube-VV科技】@33"
+      - "HK香港(mibei77.com 米贝节点分享)@34"
+      - "中国_【YouTube-VV科技】@35"
+      - "美国(yudou66.com 玉豆免费节点)@36"
+      - "荷兰_【YouTube-VV科技】@37"
+      - "美国(yudou66.com 玉豆免费节点)@38"
+      - "AE迪拜流(youtube阿伟科技)@39"
+      - "美国(yudou66.com 玉豆免费节点)@40"
+      - "美国 16@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "HK香港(mibei77.com 米贝节点分享)@43"
+      - "HK香港(mibei77.com 米贝节点分享)@44"
+      - "HK香港(mibei77.com 米贝节点分享)@45"
+      - "HK香港(mibei77.com 米贝节点分享)@46"
+      - "香港_【YouTube-VV科技】@47"
+      - "美国_【YouTube-VV科技】@48"
+      - "美国(yudou66.com 玉豆免费节点)@49"
+      - "美国(yudou66.com 玉豆免费节点)@50"
+      - "🇪🇺 欧洲(油管:破解资源君)@51"
+      - "美国_【YouTube-VV科技】@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "HK香港(mibei77.com 米贝节点分享)@54"
+      - "中国_【YouTube-VV科技】@55"
+      - "US美国(mibei77.com 米贝节点分享)@56"
+      - "台湾(yudou66.com 玉豆免费节点)@57"
+      - "美国(yudou66.com 玉豆免费节点)@58"
+      - "_KR_韩国@59"
 
   - name: 🎯 全球直连
     type: select
@@ -232,20 +554,66 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "下载更新时间：2023-08-08 15:05:04"
-      - "日本(yudou66.com 玉豆免费节点)@1"
-      - "新加坡(yudou66.com 玉豆免费节点)@2"
-      - "日本(yudou66.com 玉豆免费节点)@3"
-      - "美国(yudou66.com 玉豆免费节点)@4"
-      - "US_分享日记@5"
-      - "美国(yudou66.com 玉豆免费节点)@6"
-      - "美国(yudou66.com 玉豆免费节点)@7"
-      - "美国(yudou66.com 玉豆免费节点)@8"
-      - "AE迪拜流(youtube阿伟科技)@9"
-      - "美国(yudou66.com 玉豆免费节点)@10"
-      - "美国(yudou66.com 玉豆免费节点)@11"
-      - "台湾(yudou66.com 玉豆免费节点)@12"
-      - "美国(yudou66.com 玉豆免费节点)@13"
+      - "下载更新时间：2023-08-08 16:01:01"
+      - "_SG_新加坡@1"
+      - "日本(yudou66.com 玉豆免费节点)@2"
+      - "新加坡(yudou66.com 玉豆免费节点)@3"
+      - "日本(yudou66.com 玉豆免费节点)@4"
+      - "美国(yudou66.com 玉豆免费节点)@5"
+      - "美国_【YouTube-VV科技】@6"
+      - "HK香港(mibei77.com 米贝节点分享)@7"
+      - "美国_【YouTube-VV科技】@8"
+      - "🇰🇷&#43;_KR_韩国@9"
+      - "HK香港(mibei77.com 米贝节点分享)@10"
+      - "未知17 20.3MB/s@11"
+      - "US_分享日记@12"
+      - "香港_【YouTube-VV科技】@13"
+      - "HK香港(mibei77.com 米贝节点分享)@14"
+      - "HK香港(mibei77.com 米贝节点分享)@15"
+      - "中国_【YouTube-VV科技】@16"
+      - "HK香港(mibei77.com 米贝节点分享)@17"
+      - "加拿大 17@18"
+      - "中国_【YouTube-VV科技】@19"
+      - "HK香港(mibei77.com 米贝节点分享)@20"
+      - "HK香港(mibei77.com 米贝节点分享)@21"
+      - "HK香港(mibei77.com 米贝节点分享)@22"
+      - "HK香港(mibei77.com 米贝节点分享)@23"
+      - "HK香港(mibei77.com 米贝节点分享)@24"
+      - "HK香港(mibei77.com 米贝节点分享)@25"
+      - "美国(yudou66.com 玉豆免费节点)@26"
+      - "HK香港(mibei77.com 米贝节点分享)@27"
+      - "中国_【YouTube-VV科技】@28"
+      - "HK香港(mibei77.com 米贝节点分享)@29"
+      - "HK香港(mibei77.com 米贝节点分享)@30"
+      - "HK香港(mibei77.com 米贝节点分享)@31"
+      - "HK香港(mibei77.com 米贝节点分享)@32"
+      - "美国_【YouTube-VV科技】@33"
+      - "HK香港(mibei77.com 米贝节点分享)@34"
+      - "中国_【YouTube-VV科技】@35"
+      - "美国(yudou66.com 玉豆免费节点)@36"
+      - "荷兰_【YouTube-VV科技】@37"
+      - "美国(yudou66.com 玉豆免费节点)@38"
+      - "AE迪拜流(youtube阿伟科技)@39"
+      - "美国(yudou66.com 玉豆免费节点)@40"
+      - "美国 16@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "HK香港(mibei77.com 米贝节点分享)@43"
+      - "HK香港(mibei77.com 米贝节点分享)@44"
+      - "HK香港(mibei77.com 米贝节点分享)@45"
+      - "HK香港(mibei77.com 米贝节点分享)@46"
+      - "香港_【YouTube-VV科技】@47"
+      - "美国_【YouTube-VV科技】@48"
+      - "美国(yudou66.com 玉豆免费节点)@49"
+      - "美国(yudou66.com 玉豆免费节点)@50"
+      - "🇪🇺 欧洲(油管:破解资源君)@51"
+      - "美国_【YouTube-VV科技】@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "HK香港(mibei77.com 米贝节点分享)@54"
+      - "中国_【YouTube-VV科技】@55"
+      - "US美国(mibei77.com 米贝节点分享)@56"
+      - "台湾(yudou66.com 玉豆免费节点)@57"
+      - "美国(yudou66.com 玉豆免费节点)@58"
+      - "_KR_韩国@59"
 
 
 rules:
@@ -3604,11 +3972,11 @@ rules:
   - MATCH,🐟 漏网之鱼
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-08 15:05:04
+#  创建时间：       2023-08-08 16:01:01
 #  模版：           自定义模版
-#  节点数量：       14
-#  vmess数量：      4
+#  节点数量：       60
+#  vmess数量：      46
 #  trojan数量：     9
-#  ss数量：         1
+#  ss数量：         5
 #  ssr数量：        0
 #-------------------------------------------------------------#
