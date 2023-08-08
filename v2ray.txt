@@ -1,92 +1,28 @@
-####Ping: 217	AvgSpeed: 10.77MB	MaxSpeed: 11.65MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:47	FailCount: 5
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.3:2003#%F0%9F%87%B0%F0%9F%87%B7%20_KR_%E9%9F%A9%E5%9B%BD
-####Ping: 54	AvgSpeed: 10.47MB	MaxSpeed: 11.27MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:48	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4xMTMuNy4xNTQ6NDQz#%F0%9F%87%AF%F0%9F%87%B5JP_350
-####Ping: 339	AvgSpeed: 9.56MB	MaxSpeed: 11.31MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:45	FailCount: 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.86.167.230:443#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD%0D_3_24
-####Ping: 252	AvgSpeed: 9.48MB	MaxSpeed: 11.35MB	CreateTime: 2023/08/08 10:44	UpdateTime: 2023/08/08 13:59	FailCount: 0
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.7:2003#%F0%9F%87%B0%F0%9F%87%B7%20_KR_%E9%9F%A9%E5%9B%BD
-####Ping: 503	AvgSpeed: 9.42MB	MaxSpeed: 11.10MB	CreateTime: 2023/08/08 01:14	UpdateTime: 2023/08/08 13:54	FailCount: 0
-vmess://ewogICAgImFkZCI6ICIxOTguMjAwLjU2LjkxIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY5MTA1NzU5ODY4MCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLmnKrnn6U4IDIwLjJNQi9zIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-####Ping: 229	AvgSpeed: 9.36MB	MaxSpeed: 11.20MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:49	FailCount: 6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuODUuNDYuMTMxOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8US_765
-####Ping: 90	AvgSpeed: 8.77MB	MaxSpeed: 11.18MB	CreateTime: 2023/08/07 21:18	UpdateTime: 2023/08/08 13:53	FailCount: 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmODBiNTc2YS02NmEwLTRiZDgtOWQzNC0zNGUzNGE3ODMzOWFAenhwZmdvLnNzcGxhbmUuY246MjgwMzg=#Relay_%F0%9F%87%B8%F0%9F%87%ACSG-%F0%9F%87%B8%F0%9F%87%ACSG_891
-####Ping: 290	AvgSpeed: 8.20MB	MaxSpeed: 10.17MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:45	FailCount: 15
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh74gX0NZX+Whnua1pui3r+aWry0+8J+Hq/Cfh7dfRlJf5rOV5Zu9IiwiYWRkIjoiZnJzYWR1YmliYi43Njg5ODEwMi54eXoiLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiJkMjY0Zjk5MC1hNmE1LTM4MzItYmYzNy0xZmNjYWVkMjk4ZGQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Z1bnNkZnJoIiwiaG9zdCI6ImZyc2FkdWJpYi43Njg5ODEwMi54eXoiLCJ0bHMiOiIifQ==
-####Ping: 375	AvgSpeed: 8.12MB	MaxSpeed: 11.95MB	CreateTime: 2023/08/08 07:18	UpdateTime: 2023/08/08 13:58	FailCount: 0
-vmess://eyJhZGQiOiJ2aXAuaW1wZXJ2YXNlYy5pbmZvIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HqfCfh6pERV8xODI3IiwicG9ydCI6MjA4NiwiaWQiOiJhNDM3NmQ1MS1kYzgwLTRiMzgtYjZkZC1kZDNmN2UwMjBjNGIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIifQ==
-####Ping: 91	AvgSpeed: 8.02MB	MaxSpeed: 11.31MB	CreateTime: 2023/08/07 19:26	UpdateTime: 2023/08/08 13:52	FailCount: 7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4wLjE4Mi4yMTg6NDQz#%F0%9F%87%B8%F0%9F%87%ACSG_730
-####Ping: 382	AvgSpeed: 7.88MB	MaxSpeed: 11.01MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:51	FailCount: 8
-vmess://ewogICAgImFkZCI6ICJTaG9waWZ5LmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIkZyLmNsb3VkZmxhcmUucXVlc3QiLAogICAgImlkIjogIjI1MGY0MzMxLThjM2UtNGI4Ny1hODZiLTVjNWZiZjlkZGJhOCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmllcyIsCiAgICAicG9ydCI6IDIwODYsCiAgICAicHMiOiAi576O5Zu9IDMyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-####Ping: 390	AvgSpeed: 7.39MB	MaxSpeed: 11.07MB	CreateTime: 2023/08/08 11:06	UpdateTime: 2023/08/08 14:00	FailCount: 0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ez5Lit5Zu944CQWW91VHViZS3nlLHpm7bplovlp4vjgJEiLA0KICAiYWRkIjogIjEwMy4xODQuNDUuMjYiLA0KICAicG9ydCI6ICIyMDgyIiwNCiAgImlkIjogIjBhZmI4YjJjLTE0OWEtNDlhOC1lOTBmLWQ3Nzg4NGFjOTIyZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZWNjLnZ0Y3NzLnRvcCIsDQogICJwYXRoIjogIi9ibHVlMDEiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-####Ping: 99	AvgSpeed: 7.28MB	MaxSpeed: 11.29MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:45	FailCount: 12
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.254.129.246:443#%F0%9F%87%B8%F0%9F%87%AC%20_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
-####Ping: 366	AvgSpeed: 6.82MB	MaxSpeed: 10.16MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:50	FailCount: 6
-vmess://eyJhZGQiOiJub3RkaXJlY3QuaG93aGVhbHRoeWlzdG9vbWFqcmVhbGx5LmhvbWVzIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4ep8J+HqkRFXzExNTIiLCJwb3J0Ijo0NDMsImlkIjoiZTM1MDI2ZGEtZTk4NS00OWNhLWI0M2ItMjc2MDYyYTUzNWE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiL3BOVjdpelJGTE84ckdDa0lINjZrTUZQYSIsInRscyI6InRscyJ9
-####Ping: 256	AvgSpeed: 6.43MB	MaxSpeed: 9.28MB	CreateTime: 2023/08/08 00:15	UpdateTime: 2023/08/08 13:54	FailCount: 0
-trojan://telegram-id-privatevpns@18.194.41.96:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE_359
-####Ping: 280	AvgSpeed: 6.41MB	MaxSpeed: 10.10MB	CreateTime: 2023/08/08 04:37	UpdateTime: 2023/08/08 13:55	FailCount: 0
-trojan://telegram-id-privatevpns@35.178.40.216:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB_628
-####Ping: 492	AvgSpeed: 5.57MB	MaxSpeed: 9.73MB	CreateTime: 2023/08/08 11:06	UpdateTime: 2023/08/08 14:00	FailCount: 0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh63wn4ew6aaZ5riv44CQWW91VHViZS3nlLHpm7bplovlp4vjgJEiLA0KICAiYWRkIjogIjEwMy4xNjAuMjA0LjU2IiwNCiAgInBvcnQiOiAiMjA4MiIsDQogICJpZCI6ICIwYWZiOGIyYy0xNDlhLTQ5YTgtZTkwZi1kNzc4ODRhYzkyMmYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVjYy52dGNzcy50b3AiLA0KICAicGF0aCI6ICIvYmx1ZTAxIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-####Ping: 146	AvgSpeed: 5.06MB	MaxSpeed: 9.75MB	CreateTime: 2023/08/07 19:26	UpdateTime: 2023/08/08 13:51	FailCount: 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjcuMjQzOjQ0Mw==#%F0%9F%87%B0%F0%9F%87%B7KR_557
-####Ping: 377	AvgSpeed: 4.94MB	MaxSpeed: 10.24MB	CreateTime: 2023/08/08 11:06	UpdateTime: 2023/08/08 14:00	FailCount: 0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ez5Lit5Zu944CQWW91VHViZS3nlLHpm7bplovlp4vjgJEiLA0KICAiYWRkIjogIjEwMy4xODQuNDUuMjMyIiwNCiAgInBvcnQiOiAiMjA4MiIsDQogICJpZCI6ICIwYWZiOGIyYy0xNDlhLTQ5YTgtZTkwZi1kNzc4ODRhYzkyMmYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVjYy52dGNzcy50b3AiLA0KICAicGF0aCI6ICIvYmx1ZTAxIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-####Ping: 801	AvgSpeed: 4.67MB	MaxSpeed: 13.99MB	CreateTime: 2023/08/08 11:06	UpdateTime: 2023/08/08 14:00	FailCount: 0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ez5Lit5Zu944CQWW91VHViZS3nlLHpm7bplovlp4vjgJEiLA0KICAiYWRkIjogIjEwMy4xODQuNDUuMTY5IiwNCiAgInBvcnQiOiAiMjA4MiIsDQogICJpZCI6ICIwYWZiOGIyYy0xNDlhLTQ5YTgtZTkwZi1kNzc4ODRhYzkyMmYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVjYy52dGNzcy50b3AiLA0KICAicGF0aCI6ICIvYmx1ZTAxIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-####Ping: 269	AvgSpeed: 4.55MB	MaxSpeed: 6.80MB	CreateTime: 2023/08/08 00:15	UpdateTime: 2023/08/08 13:54	FailCount: 3
-trojan://telegram-id-directvpn@18.130.226.160:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB_565
-####Ping: 266	AvgSpeed: 4.55MB	MaxSpeed: 7.32MB	CreateTime: 2023/08/08 03:44	UpdateTime: 2023/08/08 13:55	FailCount: 1
-trojan://telegram-id-privatevpns@13.36.170.132:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR_581
-####Ping: 286	AvgSpeed: 4.50MB	MaxSpeed: 6.17MB	CreateTime: 2023/08/08 03:44	UpdateTime: 2023/08/08 13:55	FailCount: 0
-trojan://telegram-id-directvpn@13.48.104.126:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE_1042
-####Ping: 364	AvgSpeed: 4.39MB	MaxSpeed: 7.64MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:46	FailCount: 0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZ2pKc1pKSExsaG1kdlVrQHNlcmllcy1nMS5zYW1hbmVoaGEuY286NDQz#Relay_-%F0%9F%87%BA%F0%9F%87%B8US_105
-####Ping: 261	AvgSpeed: 4.15MB	MaxSpeed: 7.47MB	CreateTime: 2023/08/08 00:15	UpdateTime: 2023/08/08 13:54	FailCount: 3
-trojan://telegram-id-directvpn@54.195.44.24:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE_644
-####Ping: 259	AvgSpeed: 4.12MB	MaxSpeed: 7.50MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:46	FailCount: 3
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS42OjIwMDM=#_126
-####Ping: 265	AvgSpeed: 3.96MB	MaxSpeed: 9.32MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:46	FailCount: 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS42NzoyMDAz#_127
-####Ping: 500	AvgSpeed: 3.84MB	MaxSpeed: 6.56MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:44	FailCount: 11
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuazleWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICJjZG4ubmFydXRvcy50b3AiLA0KICAicG9ydCI6ICI4ODgwIiwNCiAgImlkIjogIjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAicGFyaXMueWoyMDIyLmdxIiwNCiAgInBhdGgiOiAiL1NNTnhjd1ZkVFR6Y291OXlRZnREeVpjQ0dRdWk5YSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
-####Ping: 262	AvgSpeed: 3.77MB	MaxSpeed: 6.34MB	CreateTime: 2023/08/07 19:26	UpdateTime: 2023/08/08 13:51	FailCount: 7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjEwOC4xMDk6NDQz#%F0%9F%87%B0%F0%9F%87%B7KR_567
-####Ping: 193	AvgSpeed: 3.37MB	MaxSpeed: 5.44MB	CreateTime: 2023/08/07 19:26	UpdateTime: 2023/08/08 13:51	FailCount: 4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAwLjYuMjE6NDQz#%F0%9F%87%B0%F0%9F%87%B7KR_558
-####Ping: 303	AvgSpeed: 3.29MB	MaxSpeed: 11.10MB	CreateTime: 2023/08/08 00:15	UpdateTime: 2023/08/08 13:54	FailCount: 1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1MS40ODo0NDM=#%F0%9F%87%B0%F0%9F%87%B7KR_762
-####Ping: 809	AvgSpeed: 3.03MB	MaxSpeed: 10.26MB	CreateTime: 2023/08/08 10:44	UpdateTime: 2023/08/08 13:59	FailCount: 0
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@t-wn02.xingyunwu.top:50054?allowInsecure=1&sni=xingyunwu.top#%F0%9F%87%A8%F0%9F%87%B3%20_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE
-####Ping: 461	AvgSpeed: 2.74MB	MaxSpeed: 5.69MB	CreateTime: 2023/08/08 11:06	UpdateTime: 2023/08/08 14:00	FailCount: 0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh63wn4ew6aaZ5riv44CQWW91VHViZS3nlLHpm7bplovlp4vjgJEiLA0KICAiYWRkIjogIjEwMy4xNjAuMjA0LjkxIiwNCiAgInBvcnQiOiAiMjA4MiIsDQogICJpZCI6ICIwYWZiOGIyYy0xNDlhLTQ5YTgtZTkwZi1kNzc4ODRhYzkyMmYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVjYy52dGNzcy50b3AiLA0KICAicGF0aCI6ICIvYmx1ZTAxIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-####Ping: 255	AvgSpeed: 2.67MB	MaxSpeed: 5.17MB	CreateTime: 2023/08/08 00:15	UpdateTime: 2023/08/08 13:54	FailCount: 1
-trojan://telegram-id-directvpn@3.79.19.103:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE_361
-####Ping: 570	AvgSpeed: 2.60MB	MaxSpeed: 5.29MB	CreateTime: 2023/08/07 22:16	UpdateTime: 2023/08/08 13:53	FailCount: 0
-vmess://eyJhZGQiOiIxMjAuMjI2LjUwLjg5IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HrPCfh6dHQl8yMTQiLCJwb3J0Ijo0NzAwOSwiaWQiOiI4M2E0MjRkOC00YmNiLTRjZWUtYjAxNi0yYzhmMWRiNGE5MjEiLCJhaWQiOiIxIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=
-####Ping: 304	AvgSpeed: 2.57MB	MaxSpeed: 4.36MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:46	FailCount: 2
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAxMjUuMTQxLjI2LjM6MjAwMw==#_128
-####Ping: 389	AvgSpeed: 2.25MB	MaxSpeed: 4.71MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:51	FailCount: 7
-vmess://ewogICAgImFkZCI6ICJ2aXAuaW1wZXJ2YXNlYy5pbmZvIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0YmNkNjNkYS1jODg3LTQ3NjYtZDYxZi01ZDQwOTc3OTZhYmMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA5NSwKICAgICJwcyI6ICLliqDmi7/lpKcgMTEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-####Ping: 400	AvgSpeed: 1.98MB	MaxSpeed: 3.18MB	CreateTime: 2023/08/08 11:06	UpdateTime: 2023/08/08 14:00	FailCount: 0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ez5Lit5Zu944CQWW91VHViZS3nlLHpm7bplovlp4vjgJEiLA0KICAiYWRkIjogIjEwMy4xODQuNDUuMjA4IiwNCiAgInBvcnQiOiAiMjA4MiIsDQogICJpZCI6ICIwYWZiOGIyYy0xNDlhLTQ5YTgtZTkwZi1kNzc4ODRhYzkyMmYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVjYy52dGNzcy50b3AiLA0KICAicGF0aCI6ICIvYmx1ZTAxIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-####Ping: 300	AvgSpeed: 1.73MB	MaxSpeed: 5.04MB	CreateTime: 2023/08/07 23:44	UpdateTime: 2023/08/08 13:53	FailCount: 0
-vmess://eyJhZGQiOiJkYWxsYXMuc3RhcnNlYS52aXAiLCJ2IjoiMiIsInBzIjoiUmVsYXlfLfCfh7rwn4e4VVNfMjUxIiwicG9ydCI6NDQzLCJpZCI6IjMyMzgxNTFhLWY2MzQtNGRjYi1iZTg0LTdmYzA5NmUzNjc0YSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyJ9
-####Ping: 346	AvgSpeed: 1.58MB	MaxSpeed: 4.05MB	CreateTime: 2023/08/08 00:15	UpdateTime: 2023/08/08 13:54	FailCount: 3
-trojan://telegram-id-privatevpns@52.59.222.187:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE_362
-####Ping: 129	AvgSpeed: 1.58MB	MaxSpeed: 3.02MB	CreateTime: 2023/08/07 19:26	UpdateTime: 2023/08/08 13:51	FailCount: 3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAyLjQyLjE0OTo0NDM=#%F0%9F%87%B0%F0%9F%87%B7KR_569
-####Ping: 300	AvgSpeed: 1.34MB	MaxSpeed: 2.56MB	CreateTime: 2023/08/08 04:37	UpdateTime: 2023/08/08 13:55	FailCount: 0
-trojan://telegram-id-directvpn@35.156.239.124:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE_424
-####Ping: 86	AvgSpeed: 1.30MB	MaxSpeed: 2.92MB	CreateTime: 2023/08/08 05:36	UpdateTime: 2023/08/08 13:56	FailCount: 0
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@gonggao01.xingyunwu.top:50000?allowInsecure=1&sni=xingyunwu.top#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC(youtube%E9%98%BF%E4%BC%9F%E7%A7%91%E6%8A%80)%0D
-####Ping: 360	AvgSpeed: 1.28MB	MaxSpeed: 1.81MB	CreateTime: 2023/08/07 23:44	UpdateTime: 2023/08/08 13:53	FailCount: 1
-vmess://eyJhZGQiOiJjZnlkLnN0YXJzZWEudmlwIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4e68J+HuFVTXzYwMiIsInBvcnQiOjQ0MywiaWQiOiIzMjM4MTUxYS1mNjM0LTRkY2ItYmU4NC03ZmMwOTZlMzY3NGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRhbGxhcy5zdGFyc2VhLnZpcCIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0=
-####Ping: 625	AvgSpeed: 1.13MB	MaxSpeed: 1.44MB	CreateTime: 2023/08/07 23:44	UpdateTime: 2023/08/08 13:53	FailCount: 1
-vmess://eyJhZGQiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+PgVpaLfCfh7rwn4e4VVNfNjA5IiwicG9ydCI6NDQzLCJpZCI6IjMyMzgxNTFhLWY2MzQtNGRjYi1iZTg0LTdmYzA5NmUzNjc0YSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZGFsbGFzLnN0YXJzZWEudmlwIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==
-####Ping: 157	AvgSpeed: 1.12MB	MaxSpeed: 1.96MB	CreateTime: 2023/08/07 18:51	UpdateTime: 2023/08/08 13:45	FailCount: 8
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.213.44.183:443#%F0%9F%87%B8%F0%9F%87%AC%20_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
+####Ping: 91	AvgSpeed: 10.72MB	MaxSpeed: 11.30MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:55	FailCount: 0
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@sg1.downloadvip.cfd:443?security=tls&sni=djsg1.xn--mes358a9urctx.com&type=tcp&headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+####Ping: 52	AvgSpeed: 10.61MB	MaxSpeed: 11.32MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:56	FailCount: 0
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@jp2.downloadvip.cfd:443?security=tls&sni=download.xn--mes358a9urctx.com&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+####Ping: 77	AvgSpeed: 10.54MB	MaxSpeed: 11.27MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:54	FailCount: 0
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@sg2.downloadvip.cfd:443?security=tls&sni=djsg1.xn--mes358a9urctx.com&type=tcp&headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+####Ping: 217	AvgSpeed: 10.36MB	MaxSpeed: 11.30MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:56	FailCount: 0
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@azjp2.downloadvip.cfd:38200?security=tls&sni=us4.xn--mes358a9urctx.com&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+####Ping: 502	AvgSpeed: 10.12MB	MaxSpeed: 11.11MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 15:00	FailCount: 0
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICIxOTkuMTg4LjEwOC4yMjkiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid3d3LjE2NjE2OTA2Lnh5eiIsDQogICJwYXRoIjogIi9wYXRoLzE2OTEzMTgzMTg0MjAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAid3d3LjE2NjE2OTA2Lnh5eiIsDQogICJhbHBuIjogIiINCn0=
+####Ping: 373	AvgSpeed: 7.35MB	MaxSpeed: 10.62MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 15:04	FailCount: 0
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTX+WIhuS6q+aXpeiusCIsDQogICJhZGQiOiAiaWF1ZGhjdWkuNzY4OTgxMDIueHl6IiwNCiAgInBvcnQiOiAiMjA1MiIsDQogICJpZCI6ICIwYmI1NTIxMi02YzAyLTM5ZDUtODE4OS1lNmM1YTlmODI1YmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFzZmdkdmYuNzY4OTgxMDIueHl6IiwNCiAgInBhdGgiOiAiL25mZGd1aXciLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+####Ping: 243	AvgSpeed: 5.44MB	MaxSpeed: 12.19MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:59	FailCount: 0
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.154:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+####Ping: 253	AvgSpeed: 4.87MB	MaxSpeed: 9.14MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 15:00	FailCount: 0
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.156:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+####Ping: 254	AvgSpeed: 4.84MB	MaxSpeed: 9.05MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:59	FailCount: 0
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.155:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+####Ping: 386	AvgSpeed: 4.79MB	MaxSpeed: 9.09MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:50	FailCount: 0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZ2pKc1pKSExsaG1kdlVr@series-g1.samanehha.co:443#AE%E8%BF%AA%E6%8B%9C%E6%B5%81(youtube%E9%98%BF%E4%BC%9F%E7%A7%91%E6%8A%80)%0D
+####Ping: 228	AvgSpeed: 4.73MB	MaxSpeed: 8.93MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:58	FailCount: 0
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.153:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+####Ping: 216	AvgSpeed: 3.15MB	MaxSpeed: 4.97MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 15:02	FailCount: 0
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICIxNjIuMTU5LjEzMC4xOTgiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI1Zjc1MWM2ZS01MGIxLTQ3OTctYmE4ZS02ZmZlMzI0YTBiY2UiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRwNC5zY3Byb3h5LnRvcCIsDQogICJwYXRoIjogIi9zaGlya2VyIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+####Ping: 261	AvgSpeed: 1.70MB	MaxSpeed: 2.52MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:55	FailCount: 0
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@hinet1.downloadvip.cfd:443?security=tls&sni=download.xn--mes358a9urctx.com&type=tcp&headerType=none#%E5%8F%B0%E6%B9%BE%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+####Ping: 210	AvgSpeed: 1.51MB	MaxSpeed: 1.80MB	CreateTime: 2023/08/08 14:49	UpdateTime: 2023/08/08 14:53	FailCount: 0
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICJkb3dubG9hZHZpcC5jZmQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNmU1NWYwYzAtYzFkOC00Y2JiLWIyNmQtNWFmNDFlY2FmZTI5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJqcDEuZGpqYy5zYnMiLA0KICAicGF0aCI6ICIvZGpqYy9qcDEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
