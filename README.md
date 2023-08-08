@@ -1,14 +1,14 @@
 # 免费节点每日多次更新
 
-不好意思 数据库 重置了，有些来源，数量多，没速度
+不好意思 数据库 重置了，有些来源，数量多，没速度（往后优质数量会慢慢起来的）
 
 数据库总计有2064条数据 
 
-可用节点有20条
+可用节点有26条
 
-1M/s以上节点有12条 
+1M/s以上节点有14条 
 
-5M/s以上节点有6条
+5M/s以上节点有7条
 ## 节点测速规则及上传更新规则
 
 ```
@@ -30,15 +30,15 @@ trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@jp2.downloadvip.cfd:443?security=t
 trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@sg2.downloadvip.cfd:443?security=tls&sni=djsg1.xn--mes358a9urctx.com&type=tcp&headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@azjp2.downloadvip.cfd:38200?security=tls&sni=us4.xn--mes358a9urctx.com&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICIxOTkuMTg4LjEwOC4yMjkiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid3d3LjE2NjE2OTA2Lnh5eiIsDQogICJwYXRoIjogIi9wYXRoLzE2OTEzMTgzMTg0MjAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAid3d3LjE2NjE2OTA2Lnh5eiIsDQogICJhbHBuIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTX+WIhuS6q+aXpeiusCIsDQogICJhZGQiOiAiaWF1ZGhjdWkuNzY4OTgxMDIueHl6IiwNCiAgInBvcnQiOiAiMjA1MiIsDQogICJpZCI6ICIwYmI1NTIxMi02YzAyLTM5ZDUtODE4OS1lNmM1YTlmODI1YmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFzZmdkdmYuNzY4OTgxMDIueHl6IiwNCiAgInBhdGgiOiAiL25mZGd1aXciLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.154:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.156:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.155:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZ2pKc1pKSExsaG1kdlVr@series-g1.samanehha.co:443#AE%E8%BF%AA%E6%8B%9C%E6%B5%81(youtube%E9%98%BF%E4%BC%9F%E7%A7%91%E6%8A%80)%0D
 trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.153:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICIxNjIuMTU5LjEzMC4xOTgiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI1Zjc1MWM2ZS01MGIxLTQ3OTctYmE4ZS02ZmZlMzI0YTBiY2UiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRwNC5zY3Byb3h5LnRvcCIsDQogICJwYXRoIjogIi9zaGlya2VyIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@hinet1.downloadvip.cfd:443?security=tls&sni=download.xn--mes358a9urctx.com&type=tcp&headerType=none#%E5%8F%B0%E6%B9%BE%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICJkb3dubG9hZHZpcC5jZmQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNmU1NWYwYzAtYzFkOC00Y2JiLWIyNmQtNWFmNDFlY2FmZTI5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJqcDEuZGpqYy5zYnMiLA0KICAicGF0aCI6ICIvZGpqYy9qcDEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-
-
 
 
 
