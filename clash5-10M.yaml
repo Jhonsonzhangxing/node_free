@@ -1,11 +1,11 @@
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-08 16:01:01
+#  创建时间：       2023-08-08 17:01:01
 #  模版：           自定义模版
-#  节点数量：       34
-#  vmess数量：      27
+#  节点数量：       81
+#  vmess数量：      73
 #  trojan数量：     5
-#  ss数量：         2
+#  ss数量：         3
 #  ssr数量：        0
 #-------------------------------------------------------------#
 port: 7890
@@ -61,40 +61,87 @@ dns:
 
 
 proxies:
- - {name: "下载更新时间：2023-08-08 16:01:01", server: sg1.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "_SG_新加坡@1", server: 3.0.147.22, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
- - {name: "日本(yudou66.com 玉豆免费节点)@2", server: jp2.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "新加坡(yudou66.com 玉豆免费节点)@3", server: sg2.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "日本(yudou66.com 玉豆免费节点)@4", server: azjp2.downloadvip.cfd, port: 38200, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "美国(yudou66.com 玉豆免费节点)@5", server: 199.188.108.229, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.16616906.xyz"}}}
- - {name: "美国_【YouTube-VV科技】@6", server: 142.4.98.24, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@7", server: 103.160.204.31, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "美国_【YouTube-VV科技】@8", server: 142.4.115.172, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691211678088", headers: {Host: "www.53997395.xyz"}}}
- - {name: "🇰🇷&#43;_KR_韩国@9", server: 43.200.6.21, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
- - {name: "HK香港(mibei77.com 米贝节点分享)@10", server: 103.184.44.242, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "未知17 20.3MB/s@11", server: 198.200.56.91, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691057598680", headers: {Host: ""}}}
- - {name: "US_分享日记@12", server: iaudhcui.76898102.xyz, port: 2052, type: vmess, cipher: auto, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, tls: false, alterId: 0, network: ws, ws-opts: {path: "/nfdguiw", headers: {Host: "asfgdvf.76898102.xyz"}}}
- - {name: "香港_【YouTube-VV科技】@13", server: 103.160.204.91, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@14", server: 103.184.45.37, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@15", server: 103.184.44.238, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "中国_【YouTube-VV科技】@16", server: 103.184.44.130, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@17", server: 103.184.44.245, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "加拿大 17@18", server: sblarm.kaolll.tech, port: 80, type: vmess, cipher: auto, uuid: 4ab886c7-e6e2-44af-b0e9-a2fdc81bf004, tls: false, alterId: 0, network: ws, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "中国_【YouTube-VV科技】@19", server: 103.184.44.240, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@20", server: 103.184.44.234, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@21", server: 103.184.44.117, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@22", server: 103.184.44.185, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@23", server: 103.184.45.42, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@24", server: 103.184.45.175, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@25", server: 103.184.45.169, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "美国(yudou66.com 玉豆免费节点)@26", server: 163.123.192.154, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
- - {name: "HK香港(mibei77.com 米贝节点分享)@27", server: 103.184.45.1, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "中国_【YouTube-VV科技】@28", server: 103.184.45.26, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@29", server: 103.184.45.67, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@30", server: 103.184.44.163, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@31", server: 103.184.44.146, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "HK香港(mibei77.com 米贝节点分享)@32", server: 103.184.44.193, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
- - {name: "美国_【YouTube-VV科技】@33", server: 156.225.67.164, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.75544744.xyz"}}}
+ - {name: "下载更新时间：2023-08-08 17:01:01", server: sg1.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "YouTube面具人哈乐_中国_47@1", server: 15024.kuaiyin.win, port: 15024, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "_SG_新加坡@2", server: 3.0.147.22, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "YouTube面具人哈乐_中国_33@3", server: 15075.kuaiyin.win, port: 15075, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "YouTube面具人哈乐_中国_86@4", server: 15079.kuaiyin.win, port: 15079, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "YouTube面具人哈乐_中国_110@5", server: 15080.kuaiyin.win, port: 15080, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "日本(yudou66.com 玉豆免费节点)@6", server: jp2.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "YouTube面具人哈乐_中国_45@7", server: 15025.kuaiyin.win, port: 15025, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "新加坡(yudou66.com 玉豆免费节点)@8", server: sg2.downloadvip.cfd, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "YouTube面具人哈乐_中国_49@9", server: 15022.kuaiyin.win, port: 15022, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "日本(yudou66.com 玉豆免费节点)@10", server: azjp2.downloadvip.cfd, port: 38200, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "YouTube面具人哈乐_中国_42@11", server: 15086.kuaiyin.win, port: 15086, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "YouTube面具人哈乐_中国_115@12", server: 15040.kuaiyin.win, port: 15040, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "YouTube面具人哈乐_中国_34@13", server: 15077.kuaiyin.win, port: 15077, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "YouTube面具人哈乐_中国_40@14", server: 15073.kuaiyin.win, port: 15073, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "YouTube面具人哈乐_中国_31@15", server: 15082.kuaiyin.win, port: 15082, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/djjc/jp1", headers: {Host: "jp1.djjc.sbs"}}}
+ - {name: "美国(yudou66.com 玉豆免费节点)@16", server: 199.188.108.229, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.16616906.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_35@17", server: 15010.kuaiyin.win, port: 15010, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.16616906.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_124@18", server: 15032.kuaiyin.win, port: 15032, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.16616906.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_57@19", server: 15020.kuaiyin.win, port: 15020, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.16616906.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_67@20", server: 15092.kuaiyin.win, port: 15092, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.16616906.xyz"}}}
+ - {name: "美国_【YouTube-VV科技】@21", server: 142.4.98.24, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_48@22", server: 15008.kuaiyin.win, port: 15008, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_29@23", server: 15093.kuaiyin.win, port: 15093, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_80@24", server: 15017.kuaiyin.win, port: 15017, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_64@25", server: 15011.kuaiyin.win, port: 15011, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_50@26", server: 15088.kuaiyin.win, port: 15088, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_18@27", server: 15089.kuaiyin.win, port: 15089, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_75@28", server: 15016.kuaiyin.win, port: 15016, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_30@29", server: 15078.kuaiyin.win, port: 15078, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_97@30", server: 15015.kuaiyin.win, port: 15015, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_23@31", server: 15009.kuaiyin.win, port: 15009, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_20@32", server: 15034.kuaiyin.win, port: 15034, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_106@33", server: 15071.kuaiyin.win, port: 15071, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_65@34", server: 15074.kuaiyin.win, port: 15074, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_93@35", server: 15083.kuaiyin.win, port: 15083, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_95@36", server: 15081.kuaiyin.win, port: 15081, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691318318420", headers: {Host: "www.44509549.xyz"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@37", server: 103.160.204.31, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "YouTube面具人哈乐_中国_36@38", server: 15055.kuaiyin.win, port: 15055, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国_【YouTube-VV科技】@39", server: 142.4.115.172, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691211678088", headers: {Host: "www.53997395.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_112@40", server: 15031.kuaiyin.win, port: 15031, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691211678088", headers: {Host: "www.53997395.xyz"}}}
+ - {name: "🇰🇷&#43;_KR_韩国@41", server: 43.200.6.21, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@42", server: 103.184.44.242, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "YouTube面具人哈乐_中国_68@43", server: 15084.kuaiyin.win, port: 15084, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "YouTube面具人哈乐_中国_22@44", server: 15021.kuaiyin.win, port: 15021, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "未知17 20.3MB/s@45", server: 198.200.56.91, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691057598680", headers: {Host: ""}}}
+ - {name: "YouTube面具人哈乐_中国_76@46", server: 15028.kuaiyin.win, port: 15028, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691057598680", headers: {Host: ""}}}
+ - {name: "🇭🇰香港【YouTube-由零開始】@47", server: 103.160.204.246, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "US_分享日记@48", server: iaudhcui.76898102.xyz, port: 2052, type: vmess, cipher: auto, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, tls: false, alterId: 0, network: ws, ws-opts: {path: "/nfdguiw", headers: {Host: "asfgdvf.76898102.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_120@49", server: 15036.kuaiyin.win, port: 15036, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/nfdguiw", headers: {Host: "asfgdvf.76898102.xyz"}}}
+ - {name: "🇭🇰香港【YouTube-由零開始】@50", server: 103.160.204.112, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "香港_【YouTube-VV科技】@51", server: 103.160.204.91, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@52", server: 103.184.45.37, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@53", server: 103.184.44.238, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "中国_【YouTube-VV科技】@54", server: 103.184.44.130, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "YouTube面具人哈乐_中国_61@55", server: 15023.kuaiyin.win, port: 15023, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国_【YouTube-VV科技】@56", server: 192.74.243.59, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.64879090.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_88@57", server: 15019.kuaiyin.win, port: 15019, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.64879090.xyz"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@58", server: 103.184.44.245, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "加拿大 17@59", server: sblarm.kaolll.tech, port: 80, type: vmess, cipher: auto, uuid: 4ab886c7-e6e2-44af-b0e9-a2fdc81bf004, tls: false, alterId: 0, network: ws, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "中国_【YouTube-VV科技】@60", server: 103.184.44.240, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@61", server: 103.184.44.234, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@62", server: 103.184.44.117, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@63", server: 103.184.44.185, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "YouTube面具人哈乐_中国_117@64", server: 15018.kuaiyin.win, port: 15018, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国_【YouTube-VV科技】@65", server: 35.86.167.230, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "YouTube面具人哈乐_中国_73@66", server: 15003.kuaiyin.win, port: 15003, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@67", server: 103.184.45.42, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@68", server: 103.184.45.175, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "YouTube面具人哈乐_中国_46@69", server: 15013.kuaiyin.win, port: 15013, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@70", server: 103.184.45.169, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "CN_学习搭讪撩妹请订阅《閑哥情感TV（大叔撩妹）》频道，私教一对一线下“永久陪跑”请加微信:txyz6234_14@71", server: 103.184.45.208, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "YouTube面具人哈乐_中国_100@72", server: 15072.kuaiyin.win, port: 15072, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国(yudou66.com 玉豆免费节点)@73", server: 163.123.192.154, port: 443, type: trojan, password: "6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29", skip-cert-verify: false}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@74", server: 103.184.45.1, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "中国_【YouTube-VV科技】@75", server: 103.184.45.26, port: 2082, type: vmess, cipher: auto, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue01", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@76", server: 103.184.45.67, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@77", server: 103.184.44.163, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@78", server: 103.184.44.146, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "HK香港(mibei77.com 米贝节点分享)@79", server: 103.184.44.193, port: 443, type: vmess, cipher: auto, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, tls: false, alterId: 0, network: ws, ws-opts: {path: "/blue8", headers: {Host: "ecc.vtcss.top"}}}
+ - {name: "美国_【YouTube-VV科技】@80", server: 156.225.67.164, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.75544744.xyz"}}}
 
 
 proxy-groups:
@@ -104,40 +151,87 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "下载更新时间：2023-08-08 16:01:01"
-      - "_SG_新加坡@1"
-      - "日本(yudou66.com 玉豆免费节点)@2"
-      - "新加坡(yudou66.com 玉豆免费节点)@3"
-      - "日本(yudou66.com 玉豆免费节点)@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国_【YouTube-VV科技】@6"
-      - "HK香港(mibei77.com 米贝节点分享)@7"
-      - "美国_【YouTube-VV科技】@8"
-      - "🇰🇷&#43;_KR_韩国@9"
-      - "HK香港(mibei77.com 米贝节点分享)@10"
-      - "未知17 20.3MB/s@11"
-      - "US_分享日记@12"
-      - "香港_【YouTube-VV科技】@13"
-      - "HK香港(mibei77.com 米贝节点分享)@14"
-      - "HK香港(mibei77.com 米贝节点分享)@15"
-      - "中国_【YouTube-VV科技】@16"
-      - "HK香港(mibei77.com 米贝节点分享)@17"
-      - "加拿大 17@18"
-      - "中国_【YouTube-VV科技】@19"
-      - "HK香港(mibei77.com 米贝节点分享)@20"
-      - "HK香港(mibei77.com 米贝节点分享)@21"
-      - "HK香港(mibei77.com 米贝节点分享)@22"
-      - "HK香港(mibei77.com 米贝节点分享)@23"
-      - "HK香港(mibei77.com 米贝节点分享)@24"
-      - "HK香港(mibei77.com 米贝节点分享)@25"
-      - "美国(yudou66.com 玉豆免费节点)@26"
-      - "HK香港(mibei77.com 米贝节点分享)@27"
-      - "中国_【YouTube-VV科技】@28"
-      - "HK香港(mibei77.com 米贝节点分享)@29"
-      - "HK香港(mibei77.com 米贝节点分享)@30"
-      - "HK香港(mibei77.com 米贝节点分享)@31"
-      - "HK香港(mibei77.com 米贝节点分享)@32"
-      - "美国_【YouTube-VV科技】@33"
+      - "下载更新时间：2023-08-08 17:01:01"
+      - "YouTube面具人哈乐_中国_47@1"
+      - "_SG_新加坡@2"
+      - "YouTube面具人哈乐_中国_33@3"
+      - "YouTube面具人哈乐_中国_86@4"
+      - "YouTube面具人哈乐_中国_110@5"
+      - "日本(yudou66.com 玉豆免费节点)@6"
+      - "YouTube面具人哈乐_中国_45@7"
+      - "新加坡(yudou66.com 玉豆免费节点)@8"
+      - "YouTube面具人哈乐_中国_49@9"
+      - "日本(yudou66.com 玉豆免费节点)@10"
+      - "YouTube面具人哈乐_中国_42@11"
+      - "YouTube面具人哈乐_中国_115@12"
+      - "YouTube面具人哈乐_中国_34@13"
+      - "YouTube面具人哈乐_中国_40@14"
+      - "YouTube面具人哈乐_中国_31@15"
+      - "美国(yudou66.com 玉豆免费节点)@16"
+      - "YouTube面具人哈乐_中国_35@17"
+      - "YouTube面具人哈乐_中国_124@18"
+      - "YouTube面具人哈乐_中国_57@19"
+      - "YouTube面具人哈乐_中国_67@20"
+      - "美国_【YouTube-VV科技】@21"
+      - "YouTube面具人哈乐_中国_48@22"
+      - "YouTube面具人哈乐_中国_29@23"
+      - "YouTube面具人哈乐_中国_80@24"
+      - "YouTube面具人哈乐_中国_64@25"
+      - "YouTube面具人哈乐_中国_50@26"
+      - "YouTube面具人哈乐_中国_18@27"
+      - "YouTube面具人哈乐_中国_75@28"
+      - "YouTube面具人哈乐_中国_30@29"
+      - "YouTube面具人哈乐_中国_97@30"
+      - "YouTube面具人哈乐_中国_23@31"
+      - "YouTube面具人哈乐_中国_20@32"
+      - "YouTube面具人哈乐_中国_106@33"
+      - "YouTube面具人哈乐_中国_65@34"
+      - "YouTube面具人哈乐_中国_93@35"
+      - "YouTube面具人哈乐_中国_95@36"
+      - "HK香港(mibei77.com 米贝节点分享)@37"
+      - "YouTube面具人哈乐_中国_36@38"
+      - "美国_【YouTube-VV科技】@39"
+      - "YouTube面具人哈乐_中国_112@40"
+      - "🇰🇷&#43;_KR_韩国@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "YouTube面具人哈乐_中国_68@43"
+      - "YouTube面具人哈乐_中国_22@44"
+      - "未知17 20.3MB/s@45"
+      - "YouTube面具人哈乐_中国_76@46"
+      - "🇭🇰香港【YouTube-由零開始】@47"
+      - "US_分享日记@48"
+      - "YouTube面具人哈乐_中国_120@49"
+      - "🇭🇰香港【YouTube-由零開始】@50"
+      - "香港_【YouTube-VV科技】@51"
+      - "HK香港(mibei77.com 米贝节点分享)@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "中国_【YouTube-VV科技】@54"
+      - "YouTube面具人哈乐_中国_61@55"
+      - "美国_【YouTube-VV科技】@56"
+      - "YouTube面具人哈乐_中国_88@57"
+      - "HK香港(mibei77.com 米贝节点分享)@58"
+      - "加拿大 17@59"
+      - "中国_【YouTube-VV科技】@60"
+      - "HK香港(mibei77.com 米贝节点分享)@61"
+      - "HK香港(mibei77.com 米贝节点分享)@62"
+      - "HK香港(mibei77.com 米贝节点分享)@63"
+      - "YouTube面具人哈乐_中国_117@64"
+      - "美国_【YouTube-VV科技】@65"
+      - "YouTube面具人哈乐_中国_73@66"
+      - "HK香港(mibei77.com 米贝节点分享)@67"
+      - "HK香港(mibei77.com 米贝节点分享)@68"
+      - "YouTube面具人哈乐_中国_46@69"
+      - "HK香港(mibei77.com 米贝节点分享)@70"
+      - "CN_学习搭讪撩妹请订阅《閑哥情感TV（大叔撩妹）》频道，私教一对一线下“永久陪跑”请加微信:txyz6234_14@71"
+      - "YouTube面具人哈乐_中国_100@72"
+      - "美国(yudou66.com 玉豆免费节点)@73"
+      - "HK香港(mibei77.com 米贝节点分享)@74"
+      - "中国_【YouTube-VV科技】@75"
+      - "HK香港(mibei77.com 米贝节点分享)@76"
+      - "HK香港(mibei77.com 米贝节点分享)@77"
+      - "HK香港(mibei77.com 米贝节点分享)@78"
+      - "HK香港(mibei77.com 米贝节点分享)@79"
+      - "美国_【YouTube-VV科技】@80"
 
   - name: ♻️ 自动选择
     type: url-test
@@ -146,40 +240,87 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - "下载更新时间：2023-08-08 16:01:01"
-      - "_SG_新加坡@1"
-      - "日本(yudou66.com 玉豆免费节点)@2"
-      - "新加坡(yudou66.com 玉豆免费节点)@3"
-      - "日本(yudou66.com 玉豆免费节点)@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国_【YouTube-VV科技】@6"
-      - "HK香港(mibei77.com 米贝节点分享)@7"
-      - "美国_【YouTube-VV科技】@8"
-      - "🇰🇷&#43;_KR_韩国@9"
-      - "HK香港(mibei77.com 米贝节点分享)@10"
-      - "未知17 20.3MB/s@11"
-      - "US_分享日记@12"
-      - "香港_【YouTube-VV科技】@13"
-      - "HK香港(mibei77.com 米贝节点分享)@14"
-      - "HK香港(mibei77.com 米贝节点分享)@15"
-      - "中国_【YouTube-VV科技】@16"
-      - "HK香港(mibei77.com 米贝节点分享)@17"
-      - "加拿大 17@18"
-      - "中国_【YouTube-VV科技】@19"
-      - "HK香港(mibei77.com 米贝节点分享)@20"
-      - "HK香港(mibei77.com 米贝节点分享)@21"
-      - "HK香港(mibei77.com 米贝节点分享)@22"
-      - "HK香港(mibei77.com 米贝节点分享)@23"
-      - "HK香港(mibei77.com 米贝节点分享)@24"
-      - "HK香港(mibei77.com 米贝节点分享)@25"
-      - "美国(yudou66.com 玉豆免费节点)@26"
-      - "HK香港(mibei77.com 米贝节点分享)@27"
-      - "中国_【YouTube-VV科技】@28"
-      - "HK香港(mibei77.com 米贝节点分享)@29"
-      - "HK香港(mibei77.com 米贝节点分享)@30"
-      - "HK香港(mibei77.com 米贝节点分享)@31"
-      - "HK香港(mibei77.com 米贝节点分享)@32"
-      - "美国_【YouTube-VV科技】@33"
+      - "下载更新时间：2023-08-08 17:01:01"
+      - "YouTube面具人哈乐_中国_47@1"
+      - "_SG_新加坡@2"
+      - "YouTube面具人哈乐_中国_33@3"
+      - "YouTube面具人哈乐_中国_86@4"
+      - "YouTube面具人哈乐_中国_110@5"
+      - "日本(yudou66.com 玉豆免费节点)@6"
+      - "YouTube面具人哈乐_中国_45@7"
+      - "新加坡(yudou66.com 玉豆免费节点)@8"
+      - "YouTube面具人哈乐_中国_49@9"
+      - "日本(yudou66.com 玉豆免费节点)@10"
+      - "YouTube面具人哈乐_中国_42@11"
+      - "YouTube面具人哈乐_中国_115@12"
+      - "YouTube面具人哈乐_中国_34@13"
+      - "YouTube面具人哈乐_中国_40@14"
+      - "YouTube面具人哈乐_中国_31@15"
+      - "美国(yudou66.com 玉豆免费节点)@16"
+      - "YouTube面具人哈乐_中国_35@17"
+      - "YouTube面具人哈乐_中国_124@18"
+      - "YouTube面具人哈乐_中国_57@19"
+      - "YouTube面具人哈乐_中国_67@20"
+      - "美国_【YouTube-VV科技】@21"
+      - "YouTube面具人哈乐_中国_48@22"
+      - "YouTube面具人哈乐_中国_29@23"
+      - "YouTube面具人哈乐_中国_80@24"
+      - "YouTube面具人哈乐_中国_64@25"
+      - "YouTube面具人哈乐_中国_50@26"
+      - "YouTube面具人哈乐_中国_18@27"
+      - "YouTube面具人哈乐_中国_75@28"
+      - "YouTube面具人哈乐_中国_30@29"
+      - "YouTube面具人哈乐_中国_97@30"
+      - "YouTube面具人哈乐_中国_23@31"
+      - "YouTube面具人哈乐_中国_20@32"
+      - "YouTube面具人哈乐_中国_106@33"
+      - "YouTube面具人哈乐_中国_65@34"
+      - "YouTube面具人哈乐_中国_93@35"
+      - "YouTube面具人哈乐_中国_95@36"
+      - "HK香港(mibei77.com 米贝节点分享)@37"
+      - "YouTube面具人哈乐_中国_36@38"
+      - "美国_【YouTube-VV科技】@39"
+      - "YouTube面具人哈乐_中国_112@40"
+      - "🇰🇷&#43;_KR_韩国@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "YouTube面具人哈乐_中国_68@43"
+      - "YouTube面具人哈乐_中国_22@44"
+      - "未知17 20.3MB/s@45"
+      - "YouTube面具人哈乐_中国_76@46"
+      - "🇭🇰香港【YouTube-由零開始】@47"
+      - "US_分享日记@48"
+      - "YouTube面具人哈乐_中国_120@49"
+      - "🇭🇰香港【YouTube-由零開始】@50"
+      - "香港_【YouTube-VV科技】@51"
+      - "HK香港(mibei77.com 米贝节点分享)@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "中国_【YouTube-VV科技】@54"
+      - "YouTube面具人哈乐_中国_61@55"
+      - "美国_【YouTube-VV科技】@56"
+      - "YouTube面具人哈乐_中国_88@57"
+      - "HK香港(mibei77.com 米贝节点分享)@58"
+      - "加拿大 17@59"
+      - "中国_【YouTube-VV科技】@60"
+      - "HK香港(mibei77.com 米贝节点分享)@61"
+      - "HK香港(mibei77.com 米贝节点分享)@62"
+      - "HK香港(mibei77.com 米贝节点分享)@63"
+      - "YouTube面具人哈乐_中国_117@64"
+      - "美国_【YouTube-VV科技】@65"
+      - "YouTube面具人哈乐_中国_73@66"
+      - "HK香港(mibei77.com 米贝节点分享)@67"
+      - "HK香港(mibei77.com 米贝节点分享)@68"
+      - "YouTube面具人哈乐_中国_46@69"
+      - "HK香港(mibei77.com 米贝节点分享)@70"
+      - "CN_学习搭讪撩妹请订阅《閑哥情感TV（大叔撩妹）》频道，私教一对一线下“永久陪跑”请加微信:txyz6234_14@71"
+      - "YouTube面具人哈乐_中国_100@72"
+      - "美国(yudou66.com 玉豆免费节点)@73"
+      - "HK香港(mibei77.com 米贝节点分享)@74"
+      - "中国_【YouTube-VV科技】@75"
+      - "HK香港(mibei77.com 米贝节点分享)@76"
+      - "HK香港(mibei77.com 米贝节点分享)@77"
+      - "HK香港(mibei77.com 米贝节点分享)@78"
+      - "HK香港(mibei77.com 米贝节点分享)@79"
+      - "美国_【YouTube-VV科技】@80"
 
   - name: 🌍 国外媒体
     type: select
@@ -188,40 +329,87 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-08 16:01:01"
-      - "_SG_新加坡@1"
-      - "日本(yudou66.com 玉豆免费节点)@2"
-      - "新加坡(yudou66.com 玉豆免费节点)@3"
-      - "日本(yudou66.com 玉豆免费节点)@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国_【YouTube-VV科技】@6"
-      - "HK香港(mibei77.com 米贝节点分享)@7"
-      - "美国_【YouTube-VV科技】@8"
-      - "🇰🇷&#43;_KR_韩国@9"
-      - "HK香港(mibei77.com 米贝节点分享)@10"
-      - "未知17 20.3MB/s@11"
-      - "US_分享日记@12"
-      - "香港_【YouTube-VV科技】@13"
-      - "HK香港(mibei77.com 米贝节点分享)@14"
-      - "HK香港(mibei77.com 米贝节点分享)@15"
-      - "中国_【YouTube-VV科技】@16"
-      - "HK香港(mibei77.com 米贝节点分享)@17"
-      - "加拿大 17@18"
-      - "中国_【YouTube-VV科技】@19"
-      - "HK香港(mibei77.com 米贝节点分享)@20"
-      - "HK香港(mibei77.com 米贝节点分享)@21"
-      - "HK香港(mibei77.com 米贝节点分享)@22"
-      - "HK香港(mibei77.com 米贝节点分享)@23"
-      - "HK香港(mibei77.com 米贝节点分享)@24"
-      - "HK香港(mibei77.com 米贝节点分享)@25"
-      - "美国(yudou66.com 玉豆免费节点)@26"
-      - "HK香港(mibei77.com 米贝节点分享)@27"
-      - "中国_【YouTube-VV科技】@28"
-      - "HK香港(mibei77.com 米贝节点分享)@29"
-      - "HK香港(mibei77.com 米贝节点分享)@30"
-      - "HK香港(mibei77.com 米贝节点分享)@31"
-      - "HK香港(mibei77.com 米贝节点分享)@32"
-      - "美国_【YouTube-VV科技】@33"
+      - "下载更新时间：2023-08-08 17:01:01"
+      - "YouTube面具人哈乐_中国_47@1"
+      - "_SG_新加坡@2"
+      - "YouTube面具人哈乐_中国_33@3"
+      - "YouTube面具人哈乐_中国_86@4"
+      - "YouTube面具人哈乐_中国_110@5"
+      - "日本(yudou66.com 玉豆免费节点)@6"
+      - "YouTube面具人哈乐_中国_45@7"
+      - "新加坡(yudou66.com 玉豆免费节点)@8"
+      - "YouTube面具人哈乐_中国_49@9"
+      - "日本(yudou66.com 玉豆免费节点)@10"
+      - "YouTube面具人哈乐_中国_42@11"
+      - "YouTube面具人哈乐_中国_115@12"
+      - "YouTube面具人哈乐_中国_34@13"
+      - "YouTube面具人哈乐_中国_40@14"
+      - "YouTube面具人哈乐_中国_31@15"
+      - "美国(yudou66.com 玉豆免费节点)@16"
+      - "YouTube面具人哈乐_中国_35@17"
+      - "YouTube面具人哈乐_中国_124@18"
+      - "YouTube面具人哈乐_中国_57@19"
+      - "YouTube面具人哈乐_中国_67@20"
+      - "美国_【YouTube-VV科技】@21"
+      - "YouTube面具人哈乐_中国_48@22"
+      - "YouTube面具人哈乐_中国_29@23"
+      - "YouTube面具人哈乐_中国_80@24"
+      - "YouTube面具人哈乐_中国_64@25"
+      - "YouTube面具人哈乐_中国_50@26"
+      - "YouTube面具人哈乐_中国_18@27"
+      - "YouTube面具人哈乐_中国_75@28"
+      - "YouTube面具人哈乐_中国_30@29"
+      - "YouTube面具人哈乐_中国_97@30"
+      - "YouTube面具人哈乐_中国_23@31"
+      - "YouTube面具人哈乐_中国_20@32"
+      - "YouTube面具人哈乐_中国_106@33"
+      - "YouTube面具人哈乐_中国_65@34"
+      - "YouTube面具人哈乐_中国_93@35"
+      - "YouTube面具人哈乐_中国_95@36"
+      - "HK香港(mibei77.com 米贝节点分享)@37"
+      - "YouTube面具人哈乐_中国_36@38"
+      - "美国_【YouTube-VV科技】@39"
+      - "YouTube面具人哈乐_中国_112@40"
+      - "🇰🇷&#43;_KR_韩国@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "YouTube面具人哈乐_中国_68@43"
+      - "YouTube面具人哈乐_中国_22@44"
+      - "未知17 20.3MB/s@45"
+      - "YouTube面具人哈乐_中国_76@46"
+      - "🇭🇰香港【YouTube-由零開始】@47"
+      - "US_分享日记@48"
+      - "YouTube面具人哈乐_中国_120@49"
+      - "🇭🇰香港【YouTube-由零開始】@50"
+      - "香港_【YouTube-VV科技】@51"
+      - "HK香港(mibei77.com 米贝节点分享)@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "中国_【YouTube-VV科技】@54"
+      - "YouTube面具人哈乐_中国_61@55"
+      - "美国_【YouTube-VV科技】@56"
+      - "YouTube面具人哈乐_中国_88@57"
+      - "HK香港(mibei77.com 米贝节点分享)@58"
+      - "加拿大 17@59"
+      - "中国_【YouTube-VV科技】@60"
+      - "HK香港(mibei77.com 米贝节点分享)@61"
+      - "HK香港(mibei77.com 米贝节点分享)@62"
+      - "HK香港(mibei77.com 米贝节点分享)@63"
+      - "YouTube面具人哈乐_中国_117@64"
+      - "美国_【YouTube-VV科技】@65"
+      - "YouTube面具人哈乐_中国_73@66"
+      - "HK香港(mibei77.com 米贝节点分享)@67"
+      - "HK香港(mibei77.com 米贝节点分享)@68"
+      - "YouTube面具人哈乐_中国_46@69"
+      - "HK香港(mibei77.com 米贝节点分享)@70"
+      - "CN_学习搭讪撩妹请订阅《閑哥情感TV（大叔撩妹）》频道，私教一对一线下“永久陪跑”请加微信:txyz6234_14@71"
+      - "YouTube面具人哈乐_中国_100@72"
+      - "美国(yudou66.com 玉豆免费节点)@73"
+      - "HK香港(mibei77.com 米贝节点分享)@74"
+      - "中国_【YouTube-VV科技】@75"
+      - "HK香港(mibei77.com 米贝节点分享)@76"
+      - "HK香港(mibei77.com 米贝节点分享)@77"
+      - "HK香港(mibei77.com 米贝节点分享)@78"
+      - "HK香港(mibei77.com 米贝节点分享)@79"
+      - "美国_【YouTube-VV科技】@80"
 
   - name: 📲 电报信息
     type: select
@@ -229,40 +417,87 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-08 16:01:01"
-      - "_SG_新加坡@1"
-      - "日本(yudou66.com 玉豆免费节点)@2"
-      - "新加坡(yudou66.com 玉豆免费节点)@3"
-      - "日本(yudou66.com 玉豆免费节点)@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国_【YouTube-VV科技】@6"
-      - "HK香港(mibei77.com 米贝节点分享)@7"
-      - "美国_【YouTube-VV科技】@8"
-      - "🇰🇷&#43;_KR_韩国@9"
-      - "HK香港(mibei77.com 米贝节点分享)@10"
-      - "未知17 20.3MB/s@11"
-      - "US_分享日记@12"
-      - "香港_【YouTube-VV科技】@13"
-      - "HK香港(mibei77.com 米贝节点分享)@14"
-      - "HK香港(mibei77.com 米贝节点分享)@15"
-      - "中国_【YouTube-VV科技】@16"
-      - "HK香港(mibei77.com 米贝节点分享)@17"
-      - "加拿大 17@18"
-      - "中国_【YouTube-VV科技】@19"
-      - "HK香港(mibei77.com 米贝节点分享)@20"
-      - "HK香港(mibei77.com 米贝节点分享)@21"
-      - "HK香港(mibei77.com 米贝节点分享)@22"
-      - "HK香港(mibei77.com 米贝节点分享)@23"
-      - "HK香港(mibei77.com 米贝节点分享)@24"
-      - "HK香港(mibei77.com 米贝节点分享)@25"
-      - "美国(yudou66.com 玉豆免费节点)@26"
-      - "HK香港(mibei77.com 米贝节点分享)@27"
-      - "中国_【YouTube-VV科技】@28"
-      - "HK香港(mibei77.com 米贝节点分享)@29"
-      - "HK香港(mibei77.com 米贝节点分享)@30"
-      - "HK香港(mibei77.com 米贝节点分享)@31"
-      - "HK香港(mibei77.com 米贝节点分享)@32"
-      - "美国_【YouTube-VV科技】@33"
+      - "下载更新时间：2023-08-08 17:01:01"
+      - "YouTube面具人哈乐_中国_47@1"
+      - "_SG_新加坡@2"
+      - "YouTube面具人哈乐_中国_33@3"
+      - "YouTube面具人哈乐_中国_86@4"
+      - "YouTube面具人哈乐_中国_110@5"
+      - "日本(yudou66.com 玉豆免费节点)@6"
+      - "YouTube面具人哈乐_中国_45@7"
+      - "新加坡(yudou66.com 玉豆免费节点)@8"
+      - "YouTube面具人哈乐_中国_49@9"
+      - "日本(yudou66.com 玉豆免费节点)@10"
+      - "YouTube面具人哈乐_中国_42@11"
+      - "YouTube面具人哈乐_中国_115@12"
+      - "YouTube面具人哈乐_中国_34@13"
+      - "YouTube面具人哈乐_中国_40@14"
+      - "YouTube面具人哈乐_中国_31@15"
+      - "美国(yudou66.com 玉豆免费节点)@16"
+      - "YouTube面具人哈乐_中国_35@17"
+      - "YouTube面具人哈乐_中国_124@18"
+      - "YouTube面具人哈乐_中国_57@19"
+      - "YouTube面具人哈乐_中国_67@20"
+      - "美国_【YouTube-VV科技】@21"
+      - "YouTube面具人哈乐_中国_48@22"
+      - "YouTube面具人哈乐_中国_29@23"
+      - "YouTube面具人哈乐_中国_80@24"
+      - "YouTube面具人哈乐_中国_64@25"
+      - "YouTube面具人哈乐_中国_50@26"
+      - "YouTube面具人哈乐_中国_18@27"
+      - "YouTube面具人哈乐_中国_75@28"
+      - "YouTube面具人哈乐_中国_30@29"
+      - "YouTube面具人哈乐_中国_97@30"
+      - "YouTube面具人哈乐_中国_23@31"
+      - "YouTube面具人哈乐_中国_20@32"
+      - "YouTube面具人哈乐_中国_106@33"
+      - "YouTube面具人哈乐_中国_65@34"
+      - "YouTube面具人哈乐_中国_93@35"
+      - "YouTube面具人哈乐_中国_95@36"
+      - "HK香港(mibei77.com 米贝节点分享)@37"
+      - "YouTube面具人哈乐_中国_36@38"
+      - "美国_【YouTube-VV科技】@39"
+      - "YouTube面具人哈乐_中国_112@40"
+      - "🇰🇷&#43;_KR_韩国@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "YouTube面具人哈乐_中国_68@43"
+      - "YouTube面具人哈乐_中国_22@44"
+      - "未知17 20.3MB/s@45"
+      - "YouTube面具人哈乐_中国_76@46"
+      - "🇭🇰香港【YouTube-由零開始】@47"
+      - "US_分享日记@48"
+      - "YouTube面具人哈乐_中国_120@49"
+      - "🇭🇰香港【YouTube-由零開始】@50"
+      - "香港_【YouTube-VV科技】@51"
+      - "HK香港(mibei77.com 米贝节点分享)@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "中国_【YouTube-VV科技】@54"
+      - "YouTube面具人哈乐_中国_61@55"
+      - "美国_【YouTube-VV科技】@56"
+      - "YouTube面具人哈乐_中国_88@57"
+      - "HK香港(mibei77.com 米贝节点分享)@58"
+      - "加拿大 17@59"
+      - "中国_【YouTube-VV科技】@60"
+      - "HK香港(mibei77.com 米贝节点分享)@61"
+      - "HK香港(mibei77.com 米贝节点分享)@62"
+      - "HK香港(mibei77.com 米贝节点分享)@63"
+      - "YouTube面具人哈乐_中国_117@64"
+      - "美国_【YouTube-VV科技】@65"
+      - "YouTube面具人哈乐_中国_73@66"
+      - "HK香港(mibei77.com 米贝节点分享)@67"
+      - "HK香港(mibei77.com 米贝节点分享)@68"
+      - "YouTube面具人哈乐_中国_46@69"
+      - "HK香港(mibei77.com 米贝节点分享)@70"
+      - "CN_学习搭讪撩妹请订阅《閑哥情感TV（大叔撩妹）》频道，私教一对一线下“永久陪跑”请加微信:txyz6234_14@71"
+      - "YouTube面具人哈乐_中国_100@72"
+      - "美国(yudou66.com 玉豆免费节点)@73"
+      - "HK香港(mibei77.com 米贝节点分享)@74"
+      - "中国_【YouTube-VV科技】@75"
+      - "HK香港(mibei77.com 米贝节点分享)@76"
+      - "HK香港(mibei77.com 米贝节点分享)@77"
+      - "HK香港(mibei77.com 米贝节点分享)@78"
+      - "HK香港(mibei77.com 米贝节点分享)@79"
+      - "美国_【YouTube-VV科技】@80"
 
   - name: Ⓜ️ 微软服务
     type: select
@@ -270,40 +505,87 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "下载更新时间：2023-08-08 16:01:01"
-      - "_SG_新加坡@1"
-      - "日本(yudou66.com 玉豆免费节点)@2"
-      - "新加坡(yudou66.com 玉豆免费节点)@3"
-      - "日本(yudou66.com 玉豆免费节点)@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国_【YouTube-VV科技】@6"
-      - "HK香港(mibei77.com 米贝节点分享)@7"
-      - "美国_【YouTube-VV科技】@8"
-      - "🇰🇷&#43;_KR_韩国@9"
-      - "HK香港(mibei77.com 米贝节点分享)@10"
-      - "未知17 20.3MB/s@11"
-      - "US_分享日记@12"
-      - "香港_【YouTube-VV科技】@13"
-      - "HK香港(mibei77.com 米贝节点分享)@14"
-      - "HK香港(mibei77.com 米贝节点分享)@15"
-      - "中国_【YouTube-VV科技】@16"
-      - "HK香港(mibei77.com 米贝节点分享)@17"
-      - "加拿大 17@18"
-      - "中国_【YouTube-VV科技】@19"
-      - "HK香港(mibei77.com 米贝节点分享)@20"
-      - "HK香港(mibei77.com 米贝节点分享)@21"
-      - "HK香港(mibei77.com 米贝节点分享)@22"
-      - "HK香港(mibei77.com 米贝节点分享)@23"
-      - "HK香港(mibei77.com 米贝节点分享)@24"
-      - "HK香港(mibei77.com 米贝节点分享)@25"
-      - "美国(yudou66.com 玉豆免费节点)@26"
-      - "HK香港(mibei77.com 米贝节点分享)@27"
-      - "中国_【YouTube-VV科技】@28"
-      - "HK香港(mibei77.com 米贝节点分享)@29"
-      - "HK香港(mibei77.com 米贝节点分享)@30"
-      - "HK香港(mibei77.com 米贝节点分享)@31"
-      - "HK香港(mibei77.com 米贝节点分享)@32"
-      - "美国_【YouTube-VV科技】@33"
+      - "下载更新时间：2023-08-08 17:01:01"
+      - "YouTube面具人哈乐_中国_47@1"
+      - "_SG_新加坡@2"
+      - "YouTube面具人哈乐_中国_33@3"
+      - "YouTube面具人哈乐_中国_86@4"
+      - "YouTube面具人哈乐_中国_110@5"
+      - "日本(yudou66.com 玉豆免费节点)@6"
+      - "YouTube面具人哈乐_中国_45@7"
+      - "新加坡(yudou66.com 玉豆免费节点)@8"
+      - "YouTube面具人哈乐_中国_49@9"
+      - "日本(yudou66.com 玉豆免费节点)@10"
+      - "YouTube面具人哈乐_中国_42@11"
+      - "YouTube面具人哈乐_中国_115@12"
+      - "YouTube面具人哈乐_中国_34@13"
+      - "YouTube面具人哈乐_中国_40@14"
+      - "YouTube面具人哈乐_中国_31@15"
+      - "美国(yudou66.com 玉豆免费节点)@16"
+      - "YouTube面具人哈乐_中国_35@17"
+      - "YouTube面具人哈乐_中国_124@18"
+      - "YouTube面具人哈乐_中国_57@19"
+      - "YouTube面具人哈乐_中国_67@20"
+      - "美国_【YouTube-VV科技】@21"
+      - "YouTube面具人哈乐_中国_48@22"
+      - "YouTube面具人哈乐_中国_29@23"
+      - "YouTube面具人哈乐_中国_80@24"
+      - "YouTube面具人哈乐_中国_64@25"
+      - "YouTube面具人哈乐_中国_50@26"
+      - "YouTube面具人哈乐_中国_18@27"
+      - "YouTube面具人哈乐_中国_75@28"
+      - "YouTube面具人哈乐_中国_30@29"
+      - "YouTube面具人哈乐_中国_97@30"
+      - "YouTube面具人哈乐_中国_23@31"
+      - "YouTube面具人哈乐_中国_20@32"
+      - "YouTube面具人哈乐_中国_106@33"
+      - "YouTube面具人哈乐_中国_65@34"
+      - "YouTube面具人哈乐_中国_93@35"
+      - "YouTube面具人哈乐_中国_95@36"
+      - "HK香港(mibei77.com 米贝节点分享)@37"
+      - "YouTube面具人哈乐_中国_36@38"
+      - "美国_【YouTube-VV科技】@39"
+      - "YouTube面具人哈乐_中国_112@40"
+      - "🇰🇷&#43;_KR_韩国@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "YouTube面具人哈乐_中国_68@43"
+      - "YouTube面具人哈乐_中国_22@44"
+      - "未知17 20.3MB/s@45"
+      - "YouTube面具人哈乐_中国_76@46"
+      - "🇭🇰香港【YouTube-由零開始】@47"
+      - "US_分享日记@48"
+      - "YouTube面具人哈乐_中国_120@49"
+      - "🇭🇰香港【YouTube-由零開始】@50"
+      - "香港_【YouTube-VV科技】@51"
+      - "HK香港(mibei77.com 米贝节点分享)@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "中国_【YouTube-VV科技】@54"
+      - "YouTube面具人哈乐_中国_61@55"
+      - "美国_【YouTube-VV科技】@56"
+      - "YouTube面具人哈乐_中国_88@57"
+      - "HK香港(mibei77.com 米贝节点分享)@58"
+      - "加拿大 17@59"
+      - "中国_【YouTube-VV科技】@60"
+      - "HK香港(mibei77.com 米贝节点分享)@61"
+      - "HK香港(mibei77.com 米贝节点分享)@62"
+      - "HK香港(mibei77.com 米贝节点分享)@63"
+      - "YouTube面具人哈乐_中国_117@64"
+      - "美国_【YouTube-VV科技】@65"
+      - "YouTube面具人哈乐_中国_73@66"
+      - "HK香港(mibei77.com 米贝节点分享)@67"
+      - "HK香港(mibei77.com 米贝节点分享)@68"
+      - "YouTube面具人哈乐_中国_46@69"
+      - "HK香港(mibei77.com 米贝节点分享)@70"
+      - "CN_学习搭讪撩妹请订阅《閑哥情感TV（大叔撩妹）》频道，私教一对一线下“永久陪跑”请加微信:txyz6234_14@71"
+      - "YouTube面具人哈乐_中国_100@72"
+      - "美国(yudou66.com 玉豆免费节点)@73"
+      - "HK香港(mibei77.com 米贝节点分享)@74"
+      - "中国_【YouTube-VV科技】@75"
+      - "HK香港(mibei77.com 米贝节点分享)@76"
+      - "HK香港(mibei77.com 米贝节点分享)@77"
+      - "HK香港(mibei77.com 米贝节点分享)@78"
+      - "HK香港(mibei77.com 米贝节点分享)@79"
+      - "美国_【YouTube-VV科技】@80"
 
   - name: 🍎 苹果服务
     type: select
@@ -311,40 +593,87 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-08 16:01:01"
-      - "_SG_新加坡@1"
-      - "日本(yudou66.com 玉豆免费节点)@2"
-      - "新加坡(yudou66.com 玉豆免费节点)@3"
-      - "日本(yudou66.com 玉豆免费节点)@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国_【YouTube-VV科技】@6"
-      - "HK香港(mibei77.com 米贝节点分享)@7"
-      - "美国_【YouTube-VV科技】@8"
-      - "🇰🇷&#43;_KR_韩国@9"
-      - "HK香港(mibei77.com 米贝节点分享)@10"
-      - "未知17 20.3MB/s@11"
-      - "US_分享日记@12"
-      - "香港_【YouTube-VV科技】@13"
-      - "HK香港(mibei77.com 米贝节点分享)@14"
-      - "HK香港(mibei77.com 米贝节点分享)@15"
-      - "中国_【YouTube-VV科技】@16"
-      - "HK香港(mibei77.com 米贝节点分享)@17"
-      - "加拿大 17@18"
-      - "中国_【YouTube-VV科技】@19"
-      - "HK香港(mibei77.com 米贝节点分享)@20"
-      - "HK香港(mibei77.com 米贝节点分享)@21"
-      - "HK香港(mibei77.com 米贝节点分享)@22"
-      - "HK香港(mibei77.com 米贝节点分享)@23"
-      - "HK香港(mibei77.com 米贝节点分享)@24"
-      - "HK香港(mibei77.com 米贝节点分享)@25"
-      - "美国(yudou66.com 玉豆免费节点)@26"
-      - "HK香港(mibei77.com 米贝节点分享)@27"
-      - "中国_【YouTube-VV科技】@28"
-      - "HK香港(mibei77.com 米贝节点分享)@29"
-      - "HK香港(mibei77.com 米贝节点分享)@30"
-      - "HK香港(mibei77.com 米贝节点分享)@31"
-      - "HK香港(mibei77.com 米贝节点分享)@32"
-      - "美国_【YouTube-VV科技】@33"
+      - "下载更新时间：2023-08-08 17:01:01"
+      - "YouTube面具人哈乐_中国_47@1"
+      - "_SG_新加坡@2"
+      - "YouTube面具人哈乐_中国_33@3"
+      - "YouTube面具人哈乐_中国_86@4"
+      - "YouTube面具人哈乐_中国_110@5"
+      - "日本(yudou66.com 玉豆免费节点)@6"
+      - "YouTube面具人哈乐_中国_45@7"
+      - "新加坡(yudou66.com 玉豆免费节点)@8"
+      - "YouTube面具人哈乐_中国_49@9"
+      - "日本(yudou66.com 玉豆免费节点)@10"
+      - "YouTube面具人哈乐_中国_42@11"
+      - "YouTube面具人哈乐_中国_115@12"
+      - "YouTube面具人哈乐_中国_34@13"
+      - "YouTube面具人哈乐_中国_40@14"
+      - "YouTube面具人哈乐_中国_31@15"
+      - "美国(yudou66.com 玉豆免费节点)@16"
+      - "YouTube面具人哈乐_中国_35@17"
+      - "YouTube面具人哈乐_中国_124@18"
+      - "YouTube面具人哈乐_中国_57@19"
+      - "YouTube面具人哈乐_中国_67@20"
+      - "美国_【YouTube-VV科技】@21"
+      - "YouTube面具人哈乐_中国_48@22"
+      - "YouTube面具人哈乐_中国_29@23"
+      - "YouTube面具人哈乐_中国_80@24"
+      - "YouTube面具人哈乐_中国_64@25"
+      - "YouTube面具人哈乐_中国_50@26"
+      - "YouTube面具人哈乐_中国_18@27"
+      - "YouTube面具人哈乐_中国_75@28"
+      - "YouTube面具人哈乐_中国_30@29"
+      - "YouTube面具人哈乐_中国_97@30"
+      - "YouTube面具人哈乐_中国_23@31"
+      - "YouTube面具人哈乐_中国_20@32"
+      - "YouTube面具人哈乐_中国_106@33"
+      - "YouTube面具人哈乐_中国_65@34"
+      - "YouTube面具人哈乐_中国_93@35"
+      - "YouTube面具人哈乐_中国_95@36"
+      - "HK香港(mibei77.com 米贝节点分享)@37"
+      - "YouTube面具人哈乐_中国_36@38"
+      - "美国_【YouTube-VV科技】@39"
+      - "YouTube面具人哈乐_中国_112@40"
+      - "🇰🇷&#43;_KR_韩国@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "YouTube面具人哈乐_中国_68@43"
+      - "YouTube面具人哈乐_中国_22@44"
+      - "未知17 20.3MB/s@45"
+      - "YouTube面具人哈乐_中国_76@46"
+      - "🇭🇰香港【YouTube-由零開始】@47"
+      - "US_分享日记@48"
+      - "YouTube面具人哈乐_中国_120@49"
+      - "🇭🇰香港【YouTube-由零開始】@50"
+      - "香港_【YouTube-VV科技】@51"
+      - "HK香港(mibei77.com 米贝节点分享)@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "中国_【YouTube-VV科技】@54"
+      - "YouTube面具人哈乐_中国_61@55"
+      - "美国_【YouTube-VV科技】@56"
+      - "YouTube面具人哈乐_中国_88@57"
+      - "HK香港(mibei77.com 米贝节点分享)@58"
+      - "加拿大 17@59"
+      - "中国_【YouTube-VV科技】@60"
+      - "HK香港(mibei77.com 米贝节点分享)@61"
+      - "HK香港(mibei77.com 米贝节点分享)@62"
+      - "HK香港(mibei77.com 米贝节点分享)@63"
+      - "YouTube面具人哈乐_中国_117@64"
+      - "美国_【YouTube-VV科技】@65"
+      - "YouTube面具人哈乐_中国_73@66"
+      - "HK香港(mibei77.com 米贝节点分享)@67"
+      - "HK香港(mibei77.com 米贝节点分享)@68"
+      - "YouTube面具人哈乐_中国_46@69"
+      - "HK香港(mibei77.com 米贝节点分享)@70"
+      - "CN_学习搭讪撩妹请订阅《閑哥情感TV（大叔撩妹）》频道，私教一对一线下“永久陪跑”请加微信:txyz6234_14@71"
+      - "YouTube面具人哈乐_中国_100@72"
+      - "美国(yudou66.com 玉豆免费节点)@73"
+      - "HK香港(mibei77.com 米贝节点分享)@74"
+      - "中国_【YouTube-VV科技】@75"
+      - "HK香港(mibei77.com 米贝节点分享)@76"
+      - "HK香港(mibei77.com 米贝节点分享)@77"
+      - "HK香港(mibei77.com 米贝节点分享)@78"
+      - "HK香港(mibei77.com 米贝节点分享)@79"
+      - "美国_【YouTube-VV科技】@80"
 
   - name: 🎯 全球直连
     type: select
@@ -372,40 +701,87 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "下载更新时间：2023-08-08 16:01:01"
-      - "_SG_新加坡@1"
-      - "日本(yudou66.com 玉豆免费节点)@2"
-      - "新加坡(yudou66.com 玉豆免费节点)@3"
-      - "日本(yudou66.com 玉豆免费节点)@4"
-      - "美国(yudou66.com 玉豆免费节点)@5"
-      - "美国_【YouTube-VV科技】@6"
-      - "HK香港(mibei77.com 米贝节点分享)@7"
-      - "美国_【YouTube-VV科技】@8"
-      - "🇰🇷&#43;_KR_韩国@9"
-      - "HK香港(mibei77.com 米贝节点分享)@10"
-      - "未知17 20.3MB/s@11"
-      - "US_分享日记@12"
-      - "香港_【YouTube-VV科技】@13"
-      - "HK香港(mibei77.com 米贝节点分享)@14"
-      - "HK香港(mibei77.com 米贝节点分享)@15"
-      - "中国_【YouTube-VV科技】@16"
-      - "HK香港(mibei77.com 米贝节点分享)@17"
-      - "加拿大 17@18"
-      - "中国_【YouTube-VV科技】@19"
-      - "HK香港(mibei77.com 米贝节点分享)@20"
-      - "HK香港(mibei77.com 米贝节点分享)@21"
-      - "HK香港(mibei77.com 米贝节点分享)@22"
-      - "HK香港(mibei77.com 米贝节点分享)@23"
-      - "HK香港(mibei77.com 米贝节点分享)@24"
-      - "HK香港(mibei77.com 米贝节点分享)@25"
-      - "美国(yudou66.com 玉豆免费节点)@26"
-      - "HK香港(mibei77.com 米贝节点分享)@27"
-      - "中国_【YouTube-VV科技】@28"
-      - "HK香港(mibei77.com 米贝节点分享)@29"
-      - "HK香港(mibei77.com 米贝节点分享)@30"
-      - "HK香港(mibei77.com 米贝节点分享)@31"
-      - "HK香港(mibei77.com 米贝节点分享)@32"
-      - "美国_【YouTube-VV科技】@33"
+      - "下载更新时间：2023-08-08 17:01:01"
+      - "YouTube面具人哈乐_中国_47@1"
+      - "_SG_新加坡@2"
+      - "YouTube面具人哈乐_中国_33@3"
+      - "YouTube面具人哈乐_中国_86@4"
+      - "YouTube面具人哈乐_中国_110@5"
+      - "日本(yudou66.com 玉豆免费节点)@6"
+      - "YouTube面具人哈乐_中国_45@7"
+      - "新加坡(yudou66.com 玉豆免费节点)@8"
+      - "YouTube面具人哈乐_中国_49@9"
+      - "日本(yudou66.com 玉豆免费节点)@10"
+      - "YouTube面具人哈乐_中国_42@11"
+      - "YouTube面具人哈乐_中国_115@12"
+      - "YouTube面具人哈乐_中国_34@13"
+      - "YouTube面具人哈乐_中国_40@14"
+      - "YouTube面具人哈乐_中国_31@15"
+      - "美国(yudou66.com 玉豆免费节点)@16"
+      - "YouTube面具人哈乐_中国_35@17"
+      - "YouTube面具人哈乐_中国_124@18"
+      - "YouTube面具人哈乐_中国_57@19"
+      - "YouTube面具人哈乐_中国_67@20"
+      - "美国_【YouTube-VV科技】@21"
+      - "YouTube面具人哈乐_中国_48@22"
+      - "YouTube面具人哈乐_中国_29@23"
+      - "YouTube面具人哈乐_中国_80@24"
+      - "YouTube面具人哈乐_中国_64@25"
+      - "YouTube面具人哈乐_中国_50@26"
+      - "YouTube面具人哈乐_中国_18@27"
+      - "YouTube面具人哈乐_中国_75@28"
+      - "YouTube面具人哈乐_中国_30@29"
+      - "YouTube面具人哈乐_中国_97@30"
+      - "YouTube面具人哈乐_中国_23@31"
+      - "YouTube面具人哈乐_中国_20@32"
+      - "YouTube面具人哈乐_中国_106@33"
+      - "YouTube面具人哈乐_中国_65@34"
+      - "YouTube面具人哈乐_中国_93@35"
+      - "YouTube面具人哈乐_中国_95@36"
+      - "HK香港(mibei77.com 米贝节点分享)@37"
+      - "YouTube面具人哈乐_中国_36@38"
+      - "美国_【YouTube-VV科技】@39"
+      - "YouTube面具人哈乐_中国_112@40"
+      - "🇰🇷&#43;_KR_韩国@41"
+      - "HK香港(mibei77.com 米贝节点分享)@42"
+      - "YouTube面具人哈乐_中国_68@43"
+      - "YouTube面具人哈乐_中国_22@44"
+      - "未知17 20.3MB/s@45"
+      - "YouTube面具人哈乐_中国_76@46"
+      - "🇭🇰香港【YouTube-由零開始】@47"
+      - "US_分享日记@48"
+      - "YouTube面具人哈乐_中国_120@49"
+      - "🇭🇰香港【YouTube-由零開始】@50"
+      - "香港_【YouTube-VV科技】@51"
+      - "HK香港(mibei77.com 米贝节点分享)@52"
+      - "HK香港(mibei77.com 米贝节点分享)@53"
+      - "中国_【YouTube-VV科技】@54"
+      - "YouTube面具人哈乐_中国_61@55"
+      - "美国_【YouTube-VV科技】@56"
+      - "YouTube面具人哈乐_中国_88@57"
+      - "HK香港(mibei77.com 米贝节点分享)@58"
+      - "加拿大 17@59"
+      - "中国_【YouTube-VV科技】@60"
+      - "HK香港(mibei77.com 米贝节点分享)@61"
+      - "HK香港(mibei77.com 米贝节点分享)@62"
+      - "HK香港(mibei77.com 米贝节点分享)@63"
+      - "YouTube面具人哈乐_中国_117@64"
+      - "美国_【YouTube-VV科技】@65"
+      - "YouTube面具人哈乐_中国_73@66"
+      - "HK香港(mibei77.com 米贝节点分享)@67"
+      - "HK香港(mibei77.com 米贝节点分享)@68"
+      - "YouTube面具人哈乐_中国_46@69"
+      - "HK香港(mibei77.com 米贝节点分享)@70"
+      - "CN_学习搭讪撩妹请订阅《閑哥情感TV（大叔撩妹）》频道，私教一对一线下“永久陪跑”请加微信:txyz6234_14@71"
+      - "YouTube面具人哈乐_中国_100@72"
+      - "美国(yudou66.com 玉豆免费节点)@73"
+      - "HK香港(mibei77.com 米贝节点分享)@74"
+      - "中国_【YouTube-VV科技】@75"
+      - "HK香港(mibei77.com 米贝节点分享)@76"
+      - "HK香港(mibei77.com 米贝节点分享)@77"
+      - "HK香港(mibei77.com 米贝节点分享)@78"
+      - "HK香港(mibei77.com 米贝节点分享)@79"
+      - "美国_【YouTube-VV科技】@80"
 
 
 rules:
@@ -3764,11 +4140,11 @@ rules:
   - MATCH,🐟 漏网之鱼
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-08 16:01:01
+#  创建时间：       2023-08-08 17:01:01
 #  模版：           自定义模版
-#  节点数量：       34
-#  vmess数量：      27
+#  节点数量：       81
+#  vmess数量：      73
 #  trojan数量：     5
-#  ss数量：         2
+#  ss数量：         3
 #  ssr数量：        0
 #-------------------------------------------------------------#
