@@ -1,12 +1,12 @@
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-09 10:01:01
+#  创建时间：       2023-08-09 11:01:01
 #  模版：           自定义模版
-#  节点数量：       55
-#  vmess数量：      33
-#  trojan数量：     15
+#  节点数量：       46
+#  vmess数量：      27
+#  trojan数量：     13
 #  ss数量：         6
-#  ssr数量：        1
+#  ssr数量：        0
 #-------------------------------------------------------------#
 port: 7890
 socks-port: 7891
@@ -61,61 +61,52 @@ dns:
 
 
 proxies:
- - {name: "下载更新时间：2023-08-09 10:01:01", server: 15074.kuaiyin.win, port: 15074, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "YouTube面具人哈乐_新加坡_99@1", server: sg2.fighting.win, port: 10001, type: trojan, password: "8861ad96-45d4-42f7-9703-7de363a39a0f", skip-cert-verify: true}
- - {name: "YouTube面具人哈乐_中国_49@2", server: 15022.kuaiyin.win, port: 15022, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "🇫🇷FR_491@3", server: 13.37.228.186, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "YouTube面具人哈乐_中国_88@4", server: 15019.kuaiyin.win, port: 15019, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "YouTube面具人哈乐_中国_88@5", server: 15097.kuaiyin.win, port: 15097, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "YouTube面具人哈乐_中国_75@6", server: 15016.kuaiyin.win, port: 15016, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "YouTube面具人哈乐_中国_69@7", server: 15014.kuaiyin.win, port: 15014, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "YouTube面具人哈乐_中国_60@8", server: 15095.kuaiyin.win, port: 15095, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "YouTube面具人哈乐_中国_46@9", server: 15013.kuaiyin.win, port: 15013, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
- - {name: "🇩🇪DE_324@10", server: 3.76.6.177, port: 22222, type: trojan, password: "telegram-id-privatevpns", skip-cert-verify: false}
- - {name: "YouTube面具人哈乐_中国_20@11", server: 15034.kuaiyin.win, port: 15034, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "下载更新时间：2023-08-09 11:01:01", server: 15028.kuaiyin.win, port: 15028, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "🇫🇷FR_491@1", server: 13.37.228.186, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
+ - {name: "YouTube面具人哈乐_中国_88@2", server: 15097.kuaiyin.win, port: 15097, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "YouTube面具人哈乐_中国_23@3", server: 15009.kuaiyin.win, port: 15009, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "YouTube面具人哈乐_中国_30@4", server: 15078.kuaiyin.win, port: 15078, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "YouTube面具人哈乐_中国_95@5", server: 15081.kuaiyin.win, port: 15081, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "_US_美国@6", server: 34.217.75.169, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "YouTube面具人哈乐_中国_68@7", server: 15084.kuaiyin.win, port: 15084, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "YouTube面具人哈乐_中国_93@8", server: 15083.kuaiyin.win, port: 15083, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "🇩🇪DE_324@9", server: 3.76.6.177, port: 22222, type: trojan, password: "telegram-id-privatevpns", skip-cert-verify: false}
+ - {name: "YouTube面具人哈乐_中国_115@10", server: 15040.kuaiyin.win, port: 15040, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
+ - {name: "YouTube面具人哈乐_中国_64@11", server: 15011.kuaiyin.win, port: 15011, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/", headers: {Host: ""}}}
  - {name: "Relay_🇺🇸US-🇺🇸US_467@12", server: cfcdn2.sanfencdn.net, port: 80, type: vmess, cipher: auto, uuid: 8216e1fd-7f67-440d-9a63-51d0f6c38b10, tls: false, alterId: 0, network: ws, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
- - {name: "YouTube面具人哈乐_中国_34@13", server: 15077.kuaiyin.win, port: 15077, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
- - {name: "🇩🇪DE_381@14", server: 18.197.32.156, port: 22222, type: trojan, password: "telegram-id-privatevpns", skip-cert-verify: false}
- - {name: "YouTube面具人哈乐_中国_32@15", server: 15035.kuaiyin.win, port: 15035, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
- - {name: "UnkownName@16", server: fr-am1-5.eqsunshine.com, port: 8181, type: ssr, password: "RcfVcDzzB", cipher: aes-256-cfb, obfs: tls1.2_ticket_auth, protocol: origin}
- - {name: "YouTube面具人哈乐_中国_56@17", server: 15006.kuaiyin.win, port: 15006, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
- - {name: "YouTube面具人哈乐_中国_48@18", server: 15008.kuaiyin.win, port: 15008, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
- - {name: "YouTube面具人哈乐_中国_101@19", server: 15037.kuaiyin.win, port: 15037, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
- - {name: "YouTube面具人哈乐_中国_97@20", server: 15015.kuaiyin.win, port: 15015, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
- - {name: "YouTube面具人哈乐_中国_101@21", server: 15038.kuaiyin.win, port: 15038, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
- - {name: "YouTube面具人哈乐_中国_83@22", server: 15004.kuaiyin.win, port: 15004, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
- - {name: "🇫🇷FR_553@23", server: 13.36.166.203, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "YouTube面具人哈乐_日本_81@24", server: jp4.fighting.win, port: 10001, type: trojan, password: "8861ad96-45d4-42f7-9703-7de363a39a0f", skip-cert-verify: true}
+ - {name: "YouTube面具人哈乐_新加坡_96@13", server: sg3.fighting.win, port: 10001, type: trojan, password: "8861ad96-45d4-42f7-9703-7de363a39a0f", skip-cert-verify: true}
+ - {name: "YouTube面具人哈乐_中国_41@14", server: 15026.kuaiyin.win, port: 15026, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
+ - {name: "美国_【YouTube-VV科技】@15", server: 45.199.138.185, port: 44144, type: vmess, cipher: auto, uuid: 078eb24d-8d1d-4fbd-b914-ee58a897a35e, tls: false, alterId: 64, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
+ - {name: "YouTube面具人哈乐_中国_89@16", server: 15002.kuaiyin.win, port: 15002, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
+ - {name: "YouTube面具人哈乐_中国_124@17", server: 15032.kuaiyin.win, port: 15032, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/zh-cn", headers: {Host: "jp1.sanfencdn2.com"}}}
+ - {name: "Relay_🇨🇳CN-🇬🇧GB_224@18", server: 120.226.50.89, port: 47009, type: vmess, cipher: auto, uuid: 83a424d8-4bcb-4cee-b016-2c8f1db4a921, tls: false, alterId: 1, network: tcp}
+ - {name: "YouTube面具人哈乐_中国_110@19", server: 15080.kuaiyin.win, port: 15080, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp}
+ - {name: "美国_【YouTube-VV科技】@20", server: 156.225.67.15, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.84938863.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_101@21", server: 15038.kuaiyin.win, port: 15038, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.84938863.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_86@22", server: 15079.kuaiyin.win, port: 15079, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.84938863.xyz"}}}
+ - {name: "🇩🇪DE_383@23", server: 18.192.63.67, port: 22222, type: trojan, password: "telegram-id-privatevpns", skip-cert-verify: false}
+ - {name: "🇫🇷FR_553@24", server: 13.36.166.203, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
  - {name: "🇩🇪DE_324@25", server: 3.122.244.63, port: 22222, type: trojan, password: "telegram-id-privatevpns", skip-cert-verify: false}
- - {name: "🇸🇪-SE-001@26", server: 121.127.46.147, port: 989, type: ss, password: "f8f7aCzcPKbsF8p3", cipher: aes-256-cfb}
- - {name: "美国(yudou66.com 玉豆免费节点)@27", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
- - {name: "🇺🇸_US_美国_7_21@15@28", server: 194.116.173.21, port: 9038, type: ss, password: "gYCYXfkUQEs2TaJQ", cipher: aes-256-cfb}
- - {name: "YouTube面具人哈乐_中国_23@29", server: 15009.kuaiyin.win, port: 15009, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
- - {name: "YouTube面具人哈乐_中国_112@30", server: 15031.kuaiyin.win, port: 15031, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
- - {name: "YouTube面具人哈乐_中国_106@31", server: 15071.kuaiyin.win, port: 15071, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
- - {name: "YouTube面具人哈乐_日本_70@32", server: jp3.fighting.win, port: 10001, type: trojan, password: "8861ad96-45d4-42f7-9703-7de363a39a0f", skip-cert-verify: true}
- - {name: "美国(yudou66.com 玉豆免费节点)@33", server: 162.159.130.198, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp4.scproxy.top"}}}
- - {name: "YouTube面具人哈乐_中国_40@34", server: 15073.kuaiyin.win, port: 15073, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/shirker", headers: {Host: "dp4.scproxy.top"}}}
- - {name: "🇫🇷_FR_法国_2_1@29@35", server: 54.36.115.241, port: 989, type: ss, password: "f8f7aCzcPKbsF8p3", cipher: aes-256-cfb}
- - {name: "YouTube面具人哈乐_中国_29@36", server: 15093.kuaiyin.win, port: 15093, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/shirker", headers: {Host: "dp4.scproxy.top"}}}
- - {name: "Relay_🇨🇳CN-🇬🇧GB_224@37", server: 120.226.50.89, port: 47009, type: vmess, cipher: auto, uuid: 83a424d8-4bcb-4cee-b016-2c8f1db4a921, tls: false, alterId: 1, network: tcp}
- - {name: "YouTube面具人哈乐_中国_117@38", server: 15018.kuaiyin.win, port: 15018, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp}
- - {name: "🇬🇧GB_592@39", server: 3.8.154.117, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "🇦🇺-AU-001@40", server: 139.99.245.164, port: 49921, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: tcp}
- - {name: "美国(yudou66.com 玉豆免费节点)@41", server: u-s04.xingyunwu.top, port: 50034, type: trojan, password: "fad6dff0-9437-4ff1-ab9f-f96c48efc928", skip-cert-verify: false}
- - {name: "YouTube面具人哈乐_中国_95@42", server: 15081.kuaiyin.win, port: 15081, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp}
- - {name: "🇩🇪DE_383@43", server: 18.192.63.67, port: 22222, type: trojan, password: "telegram-id-privatevpns", skip-cert-verify: false}
- - {name: "🇫🇷_FR_法国-&gt;🇦🇹_AT_奥地利@44", server: 135.125.244.103, port: 989, type: ss, password: "f8f7aCzcPKbsF8p3", cipher: aes-256-cfb}
- - {name: "🇰🇷KR_849@45", server: 43.201.251.48, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
- - {name: "🇮🇪IE_688@46", server: 63.35.188.239, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "🇬🇧GB_585@47", server: 35.177.86.45, port: 22222, type: trojan, password: "telegram-id-privatevpns", skip-cert-verify: false}
- - {name: "YouTube面具人哈乐_日本_74@48", server: jp1.fighting.win, port: 10001, type: trojan, password: "8861ad96-45d4-42f7-9703-7de363a39a0f", skip-cert-verify: true}
- - {name: "🇮🇱IL以色列(youtube阿伟科技)@49", server: v2node11.bipbupvpn.com, port: 443, type: ss, password: "9d13726f-ecda-4300-b06e-7e0ec3f876f2", cipher: chacha20-ietf-poly1305}
- - {name: "🇺🇸US美国(youtube阿伟科技)@50", server: 23.227.39.111, port: 443, type: vmess, cipher: auto, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, tls: false, alterId: 0, network: ws, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "2.freek1.xyz"}}}
- - {name: "YouTube面具人哈乐_中国_41@51", server: 15026.kuaiyin.win, port: 15026, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/dongtaiwang.com", headers: {Host: "2.freek1.xyz"}}}
- - {name: "🇮🇪IE_716@52", server: 34.245.142.23, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
- - {name: "Relay_🇫🇷FR-🇳🇱NL_534@53", server: 156.249.18.137, port: 443, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: ws, ws-opts: {path: "/path/1690624987732", headers: {Host: "www.69414502.xyz"}}}
- - {name: "YouTube面具人哈乐_中国_62@54", server: 15085.kuaiyin.win, port: 15085, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1690624987732", headers: {Host: "www.69414502.xyz"}}}
+ - {name: "YouTube面具人哈乐_中国_34@26", server: 15077.kuaiyin.win, port: 15077, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.84938863.xyz"}}}
+ - {name: "🇸🇪-SE-001@27", server: 121.127.46.147, port: 989, type: ss, password: "f8f7aCzcPKbsF8p3", cipher: aes-256-cfb}
+ - {name: "YouTube面具人哈乐_日本_70@28", server: jp3.fighting.win, port: 10001, type: trojan, password: "8861ad96-45d4-42f7-9703-7de363a39a0f", skip-cert-verify: true}
+ - {name: "_152@29", server: 125.141.26.3, port: 2003, type: ss, password: "qwerREWQ%40%40", cipher: aes-256-cfb}
+ - {name: "YouTube面具人哈乐_中国_60@30", server: 15095.kuaiyin.win, port: 15095, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/path/1691403540577", headers: {Host: "www.84938863.xyz"}}}
+ - {name: "_KR_韩国@31", server: 43.201.7.243, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "🇦🇺-AU-001@32", server: 139.99.245.164, port: 49921, type: vmess, cipher: auto, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, tls: false, alterId: 64, network: tcp}
+ - {name: "🇰🇪-KE-001@33", server: 62.12.116.66, port: 989, type: ss, password: "f8f7aCzcPKbsF8p3", cipher: aes-256-cfb}
+ - {name: "YouTube面具人哈乐_中国_52@34", server: 15094.kuaiyin.win, port: 15094, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp}
+ - {name: "🇩🇪DE德国(youtube阿伟科技)@35", server: cdn.anycast.eu.org, port: 80, type: vmess, cipher: auto, uuid: ffffffff-ffff-ffff-ffff-ffffffffffff, tls: false, alterId: 0, network: ws, ws-opts: {path: "/", headers: {Host: "cherry-chorus-inspector-upper.trycloudflare.com"}}}
+ - {name: "🇬🇧GB_593@36", server: 35.176.65.219, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
+ - {name: "美国(yudou66.com 玉豆免费节点)@37", server: u-s02.xingyunwu.top, port: 50030, type: trojan, password: "fad6dff0-9437-4ff1-ab9f-f96c48efc928", skip-cert-verify: false}
+ - {name: "YouTube面具人哈乐_新加坡_99@38", server: sg2.fighting.win, port: 10001, type: trojan, password: "8861ad96-45d4-42f7-9703-7de363a39a0f", skip-cert-verify: true}
+ - {name: "美国(yudou66.com 玉豆免费节点)@39", server: j-p03.xingyunwu.top, port: 50048, type: trojan, password: "fad6dff0-9437-4ff1-ab9f-f96c48efc928", skip-cert-verify: false}
+ - {name: "🇰🇷KR_849@40", server: 43.201.251.48, port: 443, type: ss, password: "amazonskr05", cipher: aes-256-cfb}
+ - {name: "日本(yudou66.com 玉豆免费节点)@41", server: j-p01.xingyunwu.top, port: 50044, type: trojan, password: "fad6dff0-9437-4ff1-ab9f-f96c48efc928", skip-cert-verify: false}
+ - {name: "荷兰_【YouTube-VV科技】@42", server: 46.182.107.71, port: 48119, type: vmess, cipher: auto, uuid: 375e70f0-5d46-476f-8d69-0fb35c5548a9, tls: false, alterId: 64, network: tcp, ws-opts: {path: "/", headers: {Host: "cherry-chorus-inspector-upper.trycloudflare.com"}}}
+ - {name: "🇮🇪IE_716@43", server: 34.245.142.23, port: 22222, type: trojan, password: "telegram-id-directvpn", skip-cert-verify: false}
+ - {name: "美国(yudou66.com 玉豆免费节点)@44", server: 172.67.65.210, port: 80, type: vmess, cipher: auto, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, tls: false, alterId: 0, network: ws, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
+ - {name: "YouTube面具人哈乐_中国_50@45", server: 15088.kuaiyin.win, port: 15088, type: vmess, cipher: auto, uuid: df58a92a-e062-3310-99ca-01b5cbf7044e, tls: false, alterId: 0, network: tcp, ws-opts: {path: "/shirker", headers: {Host: "dp3.scproxy.top"}}}
 
 
 proxy-groups:
@@ -125,61 +116,52 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "下载更新时间：2023-08-09 10:01:01"
-      - "YouTube面具人哈乐_新加坡_99@1"
-      - "YouTube面具人哈乐_中国_49@2"
-      - "🇫🇷FR_491@3"
-      - "YouTube面具人哈乐_中国_88@4"
-      - "YouTube面具人哈乐_中国_88@5"
-      - "YouTube面具人哈乐_中国_75@6"
-      - "YouTube面具人哈乐_中国_69@7"
-      - "YouTube面具人哈乐_中国_60@8"
-      - "YouTube面具人哈乐_中国_46@9"
-      - "🇩🇪DE_324@10"
-      - "YouTube面具人哈乐_中国_20@11"
+      - "下载更新时间：2023-08-09 11:01:01"
+      - "🇫🇷FR_491@1"
+      - "YouTube面具人哈乐_中国_88@2"
+      - "YouTube面具人哈乐_中国_23@3"
+      - "YouTube面具人哈乐_中国_30@4"
+      - "YouTube面具人哈乐_中国_95@5"
+      - "_US_美国@6"
+      - "YouTube面具人哈乐_中国_68@7"
+      - "YouTube面具人哈乐_中国_93@8"
+      - "🇩🇪DE_324@9"
+      - "YouTube面具人哈乐_中国_115@10"
+      - "YouTube面具人哈乐_中国_64@11"
       - "Relay_🇺🇸US-🇺🇸US_467@12"
-      - "YouTube面具人哈乐_中国_34@13"
-      - "🇩🇪DE_381@14"
-      - "YouTube面具人哈乐_中国_32@15"
-      - "UnkownName@16"
-      - "YouTube面具人哈乐_中国_56@17"
-      - "YouTube面具人哈乐_中国_48@18"
-      - "YouTube面具人哈乐_中国_101@19"
-      - "YouTube面具人哈乐_中国_97@20"
+      - "YouTube面具人哈乐_新加坡_96@13"
+      - "YouTube面具人哈乐_中国_41@14"
+      - "美国_【YouTube-VV科技】@15"
+      - "YouTube面具人哈乐_中国_89@16"
+      - "YouTube面具人哈乐_中国_124@17"
+      - "Relay_🇨🇳CN-🇬🇧GB_224@18"
+      - "YouTube面具人哈乐_中国_110@19"
+      - "美国_【YouTube-VV科技】@20"
       - "YouTube面具人哈乐_中国_101@21"
-      - "YouTube面具人哈乐_中国_83@22"
-      - "🇫🇷FR_553@23"
-      - "YouTube面具人哈乐_日本_81@24"
+      - "YouTube面具人哈乐_中国_86@22"
+      - "🇩🇪DE_383@23"
+      - "🇫🇷FR_553@24"
       - "🇩🇪DE_324@25"
-      - "🇸🇪-SE-001@26"
-      - "美国(yudou66.com 玉豆免费节点)@27"
-      - "🇺🇸_US_美国_7_21@15@28"
-      - "YouTube面具人哈乐_中国_23@29"
-      - "YouTube面具人哈乐_中国_112@30"
-      - "YouTube面具人哈乐_中国_106@31"
-      - "YouTube面具人哈乐_日本_70@32"
-      - "美国(yudou66.com 玉豆免费节点)@33"
-      - "YouTube面具人哈乐_中国_40@34"
-      - "🇫🇷_FR_法国_2_1@29@35"
-      - "YouTube面具人哈乐_中国_29@36"
-      - "Relay_🇨🇳CN-🇬🇧GB_224@37"
-      - "YouTube面具人哈乐_中国_117@38"
-      - "🇬🇧GB_592@39"
-      - "🇦🇺-AU-001@40"
-      - "美国(yudou66.com 玉豆免费节点)@41"
-      - "YouTube面具人哈乐_中国_95@42"
-      - "🇩🇪DE_383@43"
-      - "🇫🇷_FR_法国-&gt;🇦🇹_AT_奥地利@44"
-      - "🇰🇷KR_849@45"
-      - "🇮🇪IE_688@46"
-      - "🇬🇧GB_585@47"
-      - "YouTube面具人哈乐_日本_74@48"
-      - "🇮🇱IL以色列(youtube阿伟科技)@49"
-      - "🇺🇸US美国(youtube阿伟科技)@50"
-      - "YouTube面具人哈乐_中国_41@51"
-      - "🇮🇪IE_716@52"
-      - "Relay_🇫🇷FR-🇳🇱NL_534@53"
-      - "YouTube面具人哈乐_中国_62@54"
+      - "YouTube面具人哈乐_中国_34@26"
+      - "🇸🇪-SE-001@27"
+      - "YouTube面具人哈乐_日本_70@28"
+      - "_152@29"
+      - "YouTube面具人哈乐_中国_60@30"
+      - "_KR_韩国@31"
+      - "🇦🇺-AU-001@32"
+      - "🇰🇪-KE-001@33"
+      - "YouTube面具人哈乐_中国_52@34"
+      - "🇩🇪DE德国(youtube阿伟科技)@35"
+      - "🇬🇧GB_593@36"
+      - "美国(yudou66.com 玉豆免费节点)@37"
+      - "YouTube面具人哈乐_新加坡_99@38"
+      - "美国(yudou66.com 玉豆免费节点)@39"
+      - "🇰🇷KR_849@40"
+      - "日本(yudou66.com 玉豆免费节点)@41"
+      - "荷兰_【YouTube-VV科技】@42"
+      - "🇮🇪IE_716@43"
+      - "美国(yudou66.com 玉豆免费节点)@44"
+      - "YouTube面具人哈乐_中国_50@45"
 
   - name: ♻️ 自动选择
     type: url-test
@@ -188,61 +170,52 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - "下载更新时间：2023-08-09 10:01:01"
-      - "YouTube面具人哈乐_新加坡_99@1"
-      - "YouTube面具人哈乐_中国_49@2"
-      - "🇫🇷FR_491@3"
-      - "YouTube面具人哈乐_中国_88@4"
-      - "YouTube面具人哈乐_中国_88@5"
-      - "YouTube面具人哈乐_中国_75@6"
-      - "YouTube面具人哈乐_中国_69@7"
-      - "YouTube面具人哈乐_中国_60@8"
-      - "YouTube面具人哈乐_中国_46@9"
-      - "🇩🇪DE_324@10"
-      - "YouTube面具人哈乐_中国_20@11"
+      - "下载更新时间：2023-08-09 11:01:01"
+      - "🇫🇷FR_491@1"
+      - "YouTube面具人哈乐_中国_88@2"
+      - "YouTube面具人哈乐_中国_23@3"
+      - "YouTube面具人哈乐_中国_30@4"
+      - "YouTube面具人哈乐_中国_95@5"
+      - "_US_美国@6"
+      - "YouTube面具人哈乐_中国_68@7"
+      - "YouTube面具人哈乐_中国_93@8"
+      - "🇩🇪DE_324@9"
+      - "YouTube面具人哈乐_中国_115@10"
+      - "YouTube面具人哈乐_中国_64@11"
       - "Relay_🇺🇸US-🇺🇸US_467@12"
-      - "YouTube面具人哈乐_中国_34@13"
-      - "🇩🇪DE_381@14"
-      - "YouTube面具人哈乐_中国_32@15"
-      - "UnkownName@16"
-      - "YouTube面具人哈乐_中国_56@17"
-      - "YouTube面具人哈乐_中国_48@18"
-      - "YouTube面具人哈乐_中国_101@19"
-      - "YouTube面具人哈乐_中国_97@20"
+      - "YouTube面具人哈乐_新加坡_96@13"
+      - "YouTube面具人哈乐_中国_41@14"
+      - "美国_【YouTube-VV科技】@15"
+      - "YouTube面具人哈乐_中国_89@16"
+      - "YouTube面具人哈乐_中国_124@17"
+      - "Relay_🇨🇳CN-🇬🇧GB_224@18"
+      - "YouTube面具人哈乐_中国_110@19"
+      - "美国_【YouTube-VV科技】@20"
       - "YouTube面具人哈乐_中国_101@21"
-      - "YouTube面具人哈乐_中国_83@22"
-      - "🇫🇷FR_553@23"
-      - "YouTube面具人哈乐_日本_81@24"
+      - "YouTube面具人哈乐_中国_86@22"
+      - "🇩🇪DE_383@23"
+      - "🇫🇷FR_553@24"
       - "🇩🇪DE_324@25"
-      - "🇸🇪-SE-001@26"
-      - "美国(yudou66.com 玉豆免费节点)@27"
-      - "🇺🇸_US_美国_7_21@15@28"
-      - "YouTube面具人哈乐_中国_23@29"
-      - "YouTube面具人哈乐_中国_112@30"
-      - "YouTube面具人哈乐_中国_106@31"
-      - "YouTube面具人哈乐_日本_70@32"
-      - "美国(yudou66.com 玉豆免费节点)@33"
-      - "YouTube面具人哈乐_中国_40@34"
-      - "🇫🇷_FR_法国_2_1@29@35"
-      - "YouTube面具人哈乐_中国_29@36"
-      - "Relay_🇨🇳CN-🇬🇧GB_224@37"
-      - "YouTube面具人哈乐_中国_117@38"
-      - "🇬🇧GB_592@39"
-      - "🇦🇺-AU-001@40"
-      - "美国(yudou66.com 玉豆免费节点)@41"
-      - "YouTube面具人哈乐_中国_95@42"
-      - "🇩🇪DE_383@43"
-      - "🇫🇷_FR_法国-&gt;🇦🇹_AT_奥地利@44"
-      - "🇰🇷KR_849@45"
-      - "🇮🇪IE_688@46"
-      - "🇬🇧GB_585@47"
-      - "YouTube面具人哈乐_日本_74@48"
-      - "🇮🇱IL以色列(youtube阿伟科技)@49"
-      - "🇺🇸US美国(youtube阿伟科技)@50"
-      - "YouTube面具人哈乐_中国_41@51"
-      - "🇮🇪IE_716@52"
-      - "Relay_🇫🇷FR-🇳🇱NL_534@53"
-      - "YouTube面具人哈乐_中国_62@54"
+      - "YouTube面具人哈乐_中国_34@26"
+      - "🇸🇪-SE-001@27"
+      - "YouTube面具人哈乐_日本_70@28"
+      - "_152@29"
+      - "YouTube面具人哈乐_中国_60@30"
+      - "_KR_韩国@31"
+      - "🇦🇺-AU-001@32"
+      - "🇰🇪-KE-001@33"
+      - "YouTube面具人哈乐_中国_52@34"
+      - "🇩🇪DE德国(youtube阿伟科技)@35"
+      - "🇬🇧GB_593@36"
+      - "美国(yudou66.com 玉豆免费节点)@37"
+      - "YouTube面具人哈乐_新加坡_99@38"
+      - "美国(yudou66.com 玉豆免费节点)@39"
+      - "🇰🇷KR_849@40"
+      - "日本(yudou66.com 玉豆免费节点)@41"
+      - "荷兰_【YouTube-VV科技】@42"
+      - "🇮🇪IE_716@43"
+      - "美国(yudou66.com 玉豆免费节点)@44"
+      - "YouTube面具人哈乐_中国_50@45"
 
   - name: 🌍 国外媒体
     type: select
@@ -251,61 +224,52 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-09 10:01:01"
-      - "YouTube面具人哈乐_新加坡_99@1"
-      - "YouTube面具人哈乐_中国_49@2"
-      - "🇫🇷FR_491@3"
-      - "YouTube面具人哈乐_中国_88@4"
-      - "YouTube面具人哈乐_中国_88@5"
-      - "YouTube面具人哈乐_中国_75@6"
-      - "YouTube面具人哈乐_中国_69@7"
-      - "YouTube面具人哈乐_中国_60@8"
-      - "YouTube面具人哈乐_中国_46@9"
-      - "🇩🇪DE_324@10"
-      - "YouTube面具人哈乐_中国_20@11"
+      - "下载更新时间：2023-08-09 11:01:01"
+      - "🇫🇷FR_491@1"
+      - "YouTube面具人哈乐_中国_88@2"
+      - "YouTube面具人哈乐_中国_23@3"
+      - "YouTube面具人哈乐_中国_30@4"
+      - "YouTube面具人哈乐_中国_95@5"
+      - "_US_美国@6"
+      - "YouTube面具人哈乐_中国_68@7"
+      - "YouTube面具人哈乐_中国_93@8"
+      - "🇩🇪DE_324@9"
+      - "YouTube面具人哈乐_中国_115@10"
+      - "YouTube面具人哈乐_中国_64@11"
       - "Relay_🇺🇸US-🇺🇸US_467@12"
-      - "YouTube面具人哈乐_中国_34@13"
-      - "🇩🇪DE_381@14"
-      - "YouTube面具人哈乐_中国_32@15"
-      - "UnkownName@16"
-      - "YouTube面具人哈乐_中国_56@17"
-      - "YouTube面具人哈乐_中国_48@18"
-      - "YouTube面具人哈乐_中国_101@19"
-      - "YouTube面具人哈乐_中国_97@20"
+      - "YouTube面具人哈乐_新加坡_96@13"
+      - "YouTube面具人哈乐_中国_41@14"
+      - "美国_【YouTube-VV科技】@15"
+      - "YouTube面具人哈乐_中国_89@16"
+      - "YouTube面具人哈乐_中国_124@17"
+      - "Relay_🇨🇳CN-🇬🇧GB_224@18"
+      - "YouTube面具人哈乐_中国_110@19"
+      - "美国_【YouTube-VV科技】@20"
       - "YouTube面具人哈乐_中国_101@21"
-      - "YouTube面具人哈乐_中国_83@22"
-      - "🇫🇷FR_553@23"
-      - "YouTube面具人哈乐_日本_81@24"
+      - "YouTube面具人哈乐_中国_86@22"
+      - "🇩🇪DE_383@23"
+      - "🇫🇷FR_553@24"
       - "🇩🇪DE_324@25"
-      - "🇸🇪-SE-001@26"
-      - "美国(yudou66.com 玉豆免费节点)@27"
-      - "🇺🇸_US_美国_7_21@15@28"
-      - "YouTube面具人哈乐_中国_23@29"
-      - "YouTube面具人哈乐_中国_112@30"
-      - "YouTube面具人哈乐_中国_106@31"
-      - "YouTube面具人哈乐_日本_70@32"
-      - "美国(yudou66.com 玉豆免费节点)@33"
-      - "YouTube面具人哈乐_中国_40@34"
-      - "🇫🇷_FR_法国_2_1@29@35"
-      - "YouTube面具人哈乐_中国_29@36"
-      - "Relay_🇨🇳CN-🇬🇧GB_224@37"
-      - "YouTube面具人哈乐_中国_117@38"
-      - "🇬🇧GB_592@39"
-      - "🇦🇺-AU-001@40"
-      - "美国(yudou66.com 玉豆免费节点)@41"
-      - "YouTube面具人哈乐_中国_95@42"
-      - "🇩🇪DE_383@43"
-      - "🇫🇷_FR_法国-&gt;🇦🇹_AT_奥地利@44"
-      - "🇰🇷KR_849@45"
-      - "🇮🇪IE_688@46"
-      - "🇬🇧GB_585@47"
-      - "YouTube面具人哈乐_日本_74@48"
-      - "🇮🇱IL以色列(youtube阿伟科技)@49"
-      - "🇺🇸US美国(youtube阿伟科技)@50"
-      - "YouTube面具人哈乐_中国_41@51"
-      - "🇮🇪IE_716@52"
-      - "Relay_🇫🇷FR-🇳🇱NL_534@53"
-      - "YouTube面具人哈乐_中国_62@54"
+      - "YouTube面具人哈乐_中国_34@26"
+      - "🇸🇪-SE-001@27"
+      - "YouTube面具人哈乐_日本_70@28"
+      - "_152@29"
+      - "YouTube面具人哈乐_中国_60@30"
+      - "_KR_韩国@31"
+      - "🇦🇺-AU-001@32"
+      - "🇰🇪-KE-001@33"
+      - "YouTube面具人哈乐_中国_52@34"
+      - "🇩🇪DE德国(youtube阿伟科技)@35"
+      - "🇬🇧GB_593@36"
+      - "美国(yudou66.com 玉豆免费节点)@37"
+      - "YouTube面具人哈乐_新加坡_99@38"
+      - "美国(yudou66.com 玉豆免费节点)@39"
+      - "🇰🇷KR_849@40"
+      - "日本(yudou66.com 玉豆免费节点)@41"
+      - "荷兰_【YouTube-VV科技】@42"
+      - "🇮🇪IE_716@43"
+      - "美国(yudou66.com 玉豆免费节点)@44"
+      - "YouTube面具人哈乐_中国_50@45"
 
   - name: 📲 电报信息
     type: select
@@ -313,61 +277,52 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-09 10:01:01"
-      - "YouTube面具人哈乐_新加坡_99@1"
-      - "YouTube面具人哈乐_中国_49@2"
-      - "🇫🇷FR_491@3"
-      - "YouTube面具人哈乐_中国_88@4"
-      - "YouTube面具人哈乐_中国_88@5"
-      - "YouTube面具人哈乐_中国_75@6"
-      - "YouTube面具人哈乐_中国_69@7"
-      - "YouTube面具人哈乐_中国_60@8"
-      - "YouTube面具人哈乐_中国_46@9"
-      - "🇩🇪DE_324@10"
-      - "YouTube面具人哈乐_中国_20@11"
+      - "下载更新时间：2023-08-09 11:01:01"
+      - "🇫🇷FR_491@1"
+      - "YouTube面具人哈乐_中国_88@2"
+      - "YouTube面具人哈乐_中国_23@3"
+      - "YouTube面具人哈乐_中国_30@4"
+      - "YouTube面具人哈乐_中国_95@5"
+      - "_US_美国@6"
+      - "YouTube面具人哈乐_中国_68@7"
+      - "YouTube面具人哈乐_中国_93@8"
+      - "🇩🇪DE_324@9"
+      - "YouTube面具人哈乐_中国_115@10"
+      - "YouTube面具人哈乐_中国_64@11"
       - "Relay_🇺🇸US-🇺🇸US_467@12"
-      - "YouTube面具人哈乐_中国_34@13"
-      - "🇩🇪DE_381@14"
-      - "YouTube面具人哈乐_中国_32@15"
-      - "UnkownName@16"
-      - "YouTube面具人哈乐_中国_56@17"
-      - "YouTube面具人哈乐_中国_48@18"
-      - "YouTube面具人哈乐_中国_101@19"
-      - "YouTube面具人哈乐_中国_97@20"
+      - "YouTube面具人哈乐_新加坡_96@13"
+      - "YouTube面具人哈乐_中国_41@14"
+      - "美国_【YouTube-VV科技】@15"
+      - "YouTube面具人哈乐_中国_89@16"
+      - "YouTube面具人哈乐_中国_124@17"
+      - "Relay_🇨🇳CN-🇬🇧GB_224@18"
+      - "YouTube面具人哈乐_中国_110@19"
+      - "美国_【YouTube-VV科技】@20"
       - "YouTube面具人哈乐_中国_101@21"
-      - "YouTube面具人哈乐_中国_83@22"
-      - "🇫🇷FR_553@23"
-      - "YouTube面具人哈乐_日本_81@24"
+      - "YouTube面具人哈乐_中国_86@22"
+      - "🇩🇪DE_383@23"
+      - "🇫🇷FR_553@24"
       - "🇩🇪DE_324@25"
-      - "🇸🇪-SE-001@26"
-      - "美国(yudou66.com 玉豆免费节点)@27"
-      - "🇺🇸_US_美国_7_21@15@28"
-      - "YouTube面具人哈乐_中国_23@29"
-      - "YouTube面具人哈乐_中国_112@30"
-      - "YouTube面具人哈乐_中国_106@31"
-      - "YouTube面具人哈乐_日本_70@32"
-      - "美国(yudou66.com 玉豆免费节点)@33"
-      - "YouTube面具人哈乐_中国_40@34"
-      - "🇫🇷_FR_法国_2_1@29@35"
-      - "YouTube面具人哈乐_中国_29@36"
-      - "Relay_🇨🇳CN-🇬🇧GB_224@37"
-      - "YouTube面具人哈乐_中国_117@38"
-      - "🇬🇧GB_592@39"
-      - "🇦🇺-AU-001@40"
-      - "美国(yudou66.com 玉豆免费节点)@41"
-      - "YouTube面具人哈乐_中国_95@42"
-      - "🇩🇪DE_383@43"
-      - "🇫🇷_FR_法国-&gt;🇦🇹_AT_奥地利@44"
-      - "🇰🇷KR_849@45"
-      - "🇮🇪IE_688@46"
-      - "🇬🇧GB_585@47"
-      - "YouTube面具人哈乐_日本_74@48"
-      - "🇮🇱IL以色列(youtube阿伟科技)@49"
-      - "🇺🇸US美国(youtube阿伟科技)@50"
-      - "YouTube面具人哈乐_中国_41@51"
-      - "🇮🇪IE_716@52"
-      - "Relay_🇫🇷FR-🇳🇱NL_534@53"
-      - "YouTube面具人哈乐_中国_62@54"
+      - "YouTube面具人哈乐_中国_34@26"
+      - "🇸🇪-SE-001@27"
+      - "YouTube面具人哈乐_日本_70@28"
+      - "_152@29"
+      - "YouTube面具人哈乐_中国_60@30"
+      - "_KR_韩国@31"
+      - "🇦🇺-AU-001@32"
+      - "🇰🇪-KE-001@33"
+      - "YouTube面具人哈乐_中国_52@34"
+      - "🇩🇪DE德国(youtube阿伟科技)@35"
+      - "🇬🇧GB_593@36"
+      - "美国(yudou66.com 玉豆免费节点)@37"
+      - "YouTube面具人哈乐_新加坡_99@38"
+      - "美国(yudou66.com 玉豆免费节点)@39"
+      - "🇰🇷KR_849@40"
+      - "日本(yudou66.com 玉豆免费节点)@41"
+      - "荷兰_【YouTube-VV科技】@42"
+      - "🇮🇪IE_716@43"
+      - "美国(yudou66.com 玉豆免费节点)@44"
+      - "YouTube面具人哈乐_中国_50@45"
 
   - name: Ⓜ️ 微软服务
     type: select
@@ -375,61 +330,52 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "下载更新时间：2023-08-09 10:01:01"
-      - "YouTube面具人哈乐_新加坡_99@1"
-      - "YouTube面具人哈乐_中国_49@2"
-      - "🇫🇷FR_491@3"
-      - "YouTube面具人哈乐_中国_88@4"
-      - "YouTube面具人哈乐_中国_88@5"
-      - "YouTube面具人哈乐_中国_75@6"
-      - "YouTube面具人哈乐_中国_69@7"
-      - "YouTube面具人哈乐_中国_60@8"
-      - "YouTube面具人哈乐_中国_46@9"
-      - "🇩🇪DE_324@10"
-      - "YouTube面具人哈乐_中国_20@11"
+      - "下载更新时间：2023-08-09 11:01:01"
+      - "🇫🇷FR_491@1"
+      - "YouTube面具人哈乐_中国_88@2"
+      - "YouTube面具人哈乐_中国_23@3"
+      - "YouTube面具人哈乐_中国_30@4"
+      - "YouTube面具人哈乐_中国_95@5"
+      - "_US_美国@6"
+      - "YouTube面具人哈乐_中国_68@7"
+      - "YouTube面具人哈乐_中国_93@8"
+      - "🇩🇪DE_324@9"
+      - "YouTube面具人哈乐_中国_115@10"
+      - "YouTube面具人哈乐_中国_64@11"
       - "Relay_🇺🇸US-🇺🇸US_467@12"
-      - "YouTube面具人哈乐_中国_34@13"
-      - "🇩🇪DE_381@14"
-      - "YouTube面具人哈乐_中国_32@15"
-      - "UnkownName@16"
-      - "YouTube面具人哈乐_中国_56@17"
-      - "YouTube面具人哈乐_中国_48@18"
-      - "YouTube面具人哈乐_中国_101@19"
-      - "YouTube面具人哈乐_中国_97@20"
+      - "YouTube面具人哈乐_新加坡_96@13"
+      - "YouTube面具人哈乐_中国_41@14"
+      - "美国_【YouTube-VV科技】@15"
+      - "YouTube面具人哈乐_中国_89@16"
+      - "YouTube面具人哈乐_中国_124@17"
+      - "Relay_🇨🇳CN-🇬🇧GB_224@18"
+      - "YouTube面具人哈乐_中国_110@19"
+      - "美国_【YouTube-VV科技】@20"
       - "YouTube面具人哈乐_中国_101@21"
-      - "YouTube面具人哈乐_中国_83@22"
-      - "🇫🇷FR_553@23"
-      - "YouTube面具人哈乐_日本_81@24"
+      - "YouTube面具人哈乐_中国_86@22"
+      - "🇩🇪DE_383@23"
+      - "🇫🇷FR_553@24"
       - "🇩🇪DE_324@25"
-      - "🇸🇪-SE-001@26"
-      - "美国(yudou66.com 玉豆免费节点)@27"
-      - "🇺🇸_US_美国_7_21@15@28"
-      - "YouTube面具人哈乐_中国_23@29"
-      - "YouTube面具人哈乐_中国_112@30"
-      - "YouTube面具人哈乐_中国_106@31"
-      - "YouTube面具人哈乐_日本_70@32"
-      - "美国(yudou66.com 玉豆免费节点)@33"
-      - "YouTube面具人哈乐_中国_40@34"
-      - "🇫🇷_FR_法国_2_1@29@35"
-      - "YouTube面具人哈乐_中国_29@36"
-      - "Relay_🇨🇳CN-🇬🇧GB_224@37"
-      - "YouTube面具人哈乐_中国_117@38"
-      - "🇬🇧GB_592@39"
-      - "🇦🇺-AU-001@40"
-      - "美国(yudou66.com 玉豆免费节点)@41"
-      - "YouTube面具人哈乐_中国_95@42"
-      - "🇩🇪DE_383@43"
-      - "🇫🇷_FR_法国-&gt;🇦🇹_AT_奥地利@44"
-      - "🇰🇷KR_849@45"
-      - "🇮🇪IE_688@46"
-      - "🇬🇧GB_585@47"
-      - "YouTube面具人哈乐_日本_74@48"
-      - "🇮🇱IL以色列(youtube阿伟科技)@49"
-      - "🇺🇸US美国(youtube阿伟科技)@50"
-      - "YouTube面具人哈乐_中国_41@51"
-      - "🇮🇪IE_716@52"
-      - "Relay_🇫🇷FR-🇳🇱NL_534@53"
-      - "YouTube面具人哈乐_中国_62@54"
+      - "YouTube面具人哈乐_中国_34@26"
+      - "🇸🇪-SE-001@27"
+      - "YouTube面具人哈乐_日本_70@28"
+      - "_152@29"
+      - "YouTube面具人哈乐_中国_60@30"
+      - "_KR_韩国@31"
+      - "🇦🇺-AU-001@32"
+      - "🇰🇪-KE-001@33"
+      - "YouTube面具人哈乐_中国_52@34"
+      - "🇩🇪DE德国(youtube阿伟科技)@35"
+      - "🇬🇧GB_593@36"
+      - "美国(yudou66.com 玉豆免费节点)@37"
+      - "YouTube面具人哈乐_新加坡_99@38"
+      - "美国(yudou66.com 玉豆免费节点)@39"
+      - "🇰🇷KR_849@40"
+      - "日本(yudou66.com 玉豆免费节点)@41"
+      - "荷兰_【YouTube-VV科技】@42"
+      - "🇮🇪IE_716@43"
+      - "美国(yudou66.com 玉豆免费节点)@44"
+      - "YouTube面具人哈乐_中国_50@45"
 
   - name: 🍎 苹果服务
     type: select
@@ -437,61 +383,52 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "下载更新时间：2023-08-09 10:01:01"
-      - "YouTube面具人哈乐_新加坡_99@1"
-      - "YouTube面具人哈乐_中国_49@2"
-      - "🇫🇷FR_491@3"
-      - "YouTube面具人哈乐_中国_88@4"
-      - "YouTube面具人哈乐_中国_88@5"
-      - "YouTube面具人哈乐_中国_75@6"
-      - "YouTube面具人哈乐_中国_69@7"
-      - "YouTube面具人哈乐_中国_60@8"
-      - "YouTube面具人哈乐_中国_46@9"
-      - "🇩🇪DE_324@10"
-      - "YouTube面具人哈乐_中国_20@11"
+      - "下载更新时间：2023-08-09 11:01:01"
+      - "🇫🇷FR_491@1"
+      - "YouTube面具人哈乐_中国_88@2"
+      - "YouTube面具人哈乐_中国_23@3"
+      - "YouTube面具人哈乐_中国_30@4"
+      - "YouTube面具人哈乐_中国_95@5"
+      - "_US_美国@6"
+      - "YouTube面具人哈乐_中国_68@7"
+      - "YouTube面具人哈乐_中国_93@8"
+      - "🇩🇪DE_324@9"
+      - "YouTube面具人哈乐_中国_115@10"
+      - "YouTube面具人哈乐_中国_64@11"
       - "Relay_🇺🇸US-🇺🇸US_467@12"
-      - "YouTube面具人哈乐_中国_34@13"
-      - "🇩🇪DE_381@14"
-      - "YouTube面具人哈乐_中国_32@15"
-      - "UnkownName@16"
-      - "YouTube面具人哈乐_中国_56@17"
-      - "YouTube面具人哈乐_中国_48@18"
-      - "YouTube面具人哈乐_中国_101@19"
-      - "YouTube面具人哈乐_中国_97@20"
+      - "YouTube面具人哈乐_新加坡_96@13"
+      - "YouTube面具人哈乐_中国_41@14"
+      - "美国_【YouTube-VV科技】@15"
+      - "YouTube面具人哈乐_中国_89@16"
+      - "YouTube面具人哈乐_中国_124@17"
+      - "Relay_🇨🇳CN-🇬🇧GB_224@18"
+      - "YouTube面具人哈乐_中国_110@19"
+      - "美国_【YouTube-VV科技】@20"
       - "YouTube面具人哈乐_中国_101@21"
-      - "YouTube面具人哈乐_中国_83@22"
-      - "🇫🇷FR_553@23"
-      - "YouTube面具人哈乐_日本_81@24"
+      - "YouTube面具人哈乐_中国_86@22"
+      - "🇩🇪DE_383@23"
+      - "🇫🇷FR_553@24"
       - "🇩🇪DE_324@25"
-      - "🇸🇪-SE-001@26"
-      - "美国(yudou66.com 玉豆免费节点)@27"
-      - "🇺🇸_US_美国_7_21@15@28"
-      - "YouTube面具人哈乐_中国_23@29"
-      - "YouTube面具人哈乐_中国_112@30"
-      - "YouTube面具人哈乐_中国_106@31"
-      - "YouTube面具人哈乐_日本_70@32"
-      - "美国(yudou66.com 玉豆免费节点)@33"
-      - "YouTube面具人哈乐_中国_40@34"
-      - "🇫🇷_FR_法国_2_1@29@35"
-      - "YouTube面具人哈乐_中国_29@36"
-      - "Relay_🇨🇳CN-🇬🇧GB_224@37"
-      - "YouTube面具人哈乐_中国_117@38"
-      - "🇬🇧GB_592@39"
-      - "🇦🇺-AU-001@40"
-      - "美国(yudou66.com 玉豆免费节点)@41"
-      - "YouTube面具人哈乐_中国_95@42"
-      - "🇩🇪DE_383@43"
-      - "🇫🇷_FR_法国-&gt;🇦🇹_AT_奥地利@44"
-      - "🇰🇷KR_849@45"
-      - "🇮🇪IE_688@46"
-      - "🇬🇧GB_585@47"
-      - "YouTube面具人哈乐_日本_74@48"
-      - "🇮🇱IL以色列(youtube阿伟科技)@49"
-      - "🇺🇸US美国(youtube阿伟科技)@50"
-      - "YouTube面具人哈乐_中国_41@51"
-      - "🇮🇪IE_716@52"
-      - "Relay_🇫🇷FR-🇳🇱NL_534@53"
-      - "YouTube面具人哈乐_中国_62@54"
+      - "YouTube面具人哈乐_中国_34@26"
+      - "🇸🇪-SE-001@27"
+      - "YouTube面具人哈乐_日本_70@28"
+      - "_152@29"
+      - "YouTube面具人哈乐_中国_60@30"
+      - "_KR_韩国@31"
+      - "🇦🇺-AU-001@32"
+      - "🇰🇪-KE-001@33"
+      - "YouTube面具人哈乐_中国_52@34"
+      - "🇩🇪DE德国(youtube阿伟科技)@35"
+      - "🇬🇧GB_593@36"
+      - "美国(yudou66.com 玉豆免费节点)@37"
+      - "YouTube面具人哈乐_新加坡_99@38"
+      - "美国(yudou66.com 玉豆免费节点)@39"
+      - "🇰🇷KR_849@40"
+      - "日本(yudou66.com 玉豆免费节点)@41"
+      - "荷兰_【YouTube-VV科技】@42"
+      - "🇮🇪IE_716@43"
+      - "美国(yudou66.com 玉豆免费节点)@44"
+      - "YouTube面具人哈乐_中国_50@45"
 
   - name: 🎯 全球直连
     type: select
@@ -519,61 +456,52 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "下载更新时间：2023-08-09 10:01:01"
-      - "YouTube面具人哈乐_新加坡_99@1"
-      - "YouTube面具人哈乐_中国_49@2"
-      - "🇫🇷FR_491@3"
-      - "YouTube面具人哈乐_中国_88@4"
-      - "YouTube面具人哈乐_中国_88@5"
-      - "YouTube面具人哈乐_中国_75@6"
-      - "YouTube面具人哈乐_中国_69@7"
-      - "YouTube面具人哈乐_中国_60@8"
-      - "YouTube面具人哈乐_中国_46@9"
-      - "🇩🇪DE_324@10"
-      - "YouTube面具人哈乐_中国_20@11"
+      - "下载更新时间：2023-08-09 11:01:01"
+      - "🇫🇷FR_491@1"
+      - "YouTube面具人哈乐_中国_88@2"
+      - "YouTube面具人哈乐_中国_23@3"
+      - "YouTube面具人哈乐_中国_30@4"
+      - "YouTube面具人哈乐_中国_95@5"
+      - "_US_美国@6"
+      - "YouTube面具人哈乐_中国_68@7"
+      - "YouTube面具人哈乐_中国_93@8"
+      - "🇩🇪DE_324@9"
+      - "YouTube面具人哈乐_中国_115@10"
+      - "YouTube面具人哈乐_中国_64@11"
       - "Relay_🇺🇸US-🇺🇸US_467@12"
-      - "YouTube面具人哈乐_中国_34@13"
-      - "🇩🇪DE_381@14"
-      - "YouTube面具人哈乐_中国_32@15"
-      - "UnkownName@16"
-      - "YouTube面具人哈乐_中国_56@17"
-      - "YouTube面具人哈乐_中国_48@18"
-      - "YouTube面具人哈乐_中国_101@19"
-      - "YouTube面具人哈乐_中国_97@20"
+      - "YouTube面具人哈乐_新加坡_96@13"
+      - "YouTube面具人哈乐_中国_41@14"
+      - "美国_【YouTube-VV科技】@15"
+      - "YouTube面具人哈乐_中国_89@16"
+      - "YouTube面具人哈乐_中国_124@17"
+      - "Relay_🇨🇳CN-🇬🇧GB_224@18"
+      - "YouTube面具人哈乐_中国_110@19"
+      - "美国_【YouTube-VV科技】@20"
       - "YouTube面具人哈乐_中国_101@21"
-      - "YouTube面具人哈乐_中国_83@22"
-      - "🇫🇷FR_553@23"
-      - "YouTube面具人哈乐_日本_81@24"
+      - "YouTube面具人哈乐_中国_86@22"
+      - "🇩🇪DE_383@23"
+      - "🇫🇷FR_553@24"
       - "🇩🇪DE_324@25"
-      - "🇸🇪-SE-001@26"
-      - "美国(yudou66.com 玉豆免费节点)@27"
-      - "🇺🇸_US_美国_7_21@15@28"
-      - "YouTube面具人哈乐_中国_23@29"
-      - "YouTube面具人哈乐_中国_112@30"
-      - "YouTube面具人哈乐_中国_106@31"
-      - "YouTube面具人哈乐_日本_70@32"
-      - "美国(yudou66.com 玉豆免费节点)@33"
-      - "YouTube面具人哈乐_中国_40@34"
-      - "🇫🇷_FR_法国_2_1@29@35"
-      - "YouTube面具人哈乐_中国_29@36"
-      - "Relay_🇨🇳CN-🇬🇧GB_224@37"
-      - "YouTube面具人哈乐_中国_117@38"
-      - "🇬🇧GB_592@39"
-      - "🇦🇺-AU-001@40"
-      - "美国(yudou66.com 玉豆免费节点)@41"
-      - "YouTube面具人哈乐_中国_95@42"
-      - "🇩🇪DE_383@43"
-      - "🇫🇷_FR_法国-&gt;🇦🇹_AT_奥地利@44"
-      - "🇰🇷KR_849@45"
-      - "🇮🇪IE_688@46"
-      - "🇬🇧GB_585@47"
-      - "YouTube面具人哈乐_日本_74@48"
-      - "🇮🇱IL以色列(youtube阿伟科技)@49"
-      - "🇺🇸US美国(youtube阿伟科技)@50"
-      - "YouTube面具人哈乐_中国_41@51"
-      - "🇮🇪IE_716@52"
-      - "Relay_🇫🇷FR-🇳🇱NL_534@53"
-      - "YouTube面具人哈乐_中国_62@54"
+      - "YouTube面具人哈乐_中国_34@26"
+      - "🇸🇪-SE-001@27"
+      - "YouTube面具人哈乐_日本_70@28"
+      - "_152@29"
+      - "YouTube面具人哈乐_中国_60@30"
+      - "_KR_韩国@31"
+      - "🇦🇺-AU-001@32"
+      - "🇰🇪-KE-001@33"
+      - "YouTube面具人哈乐_中国_52@34"
+      - "🇩🇪DE德国(youtube阿伟科技)@35"
+      - "🇬🇧GB_593@36"
+      - "美国(yudou66.com 玉豆免费节点)@37"
+      - "YouTube面具人哈乐_新加坡_99@38"
+      - "美国(yudou66.com 玉豆免费节点)@39"
+      - "🇰🇷KR_849@40"
+      - "日本(yudou66.com 玉豆免费节点)@41"
+      - "荷兰_【YouTube-VV科技】@42"
+      - "🇮🇪IE_716@43"
+      - "美国(yudou66.com 玉豆免费节点)@44"
+      - "YouTube面具人哈乐_中国_50@45"
 
 
 rules:
@@ -3932,11 +3860,11 @@ rules:
   - MATCH,🐟 漏网之鱼
 #-------------------------------------------------------------#
 #  创建者：         zs
-#  创建时间：       2023-08-09 10:01:01
+#  创建时间：       2023-08-09 11:01:01
 #  模版：           自定义模版
-#  节点数量：       55
-#  vmess数量：      33
-#  trojan数量：     15
+#  节点数量：       46
+#  vmess数量：      27
+#  trojan数量：     13
 #  ss数量：         6
-#  ssr数量：        1
+#  ssr数量：        0
 #-------------------------------------------------------------#
